@@ -1,0 +1,15 @@
+{
+  "name": "CGR Examen Prep",
+  "short_name": "CGR Quiz",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d031a",
+  "theme_color": "#16062c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3407/3407024.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
