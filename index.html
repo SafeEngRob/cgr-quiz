@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="es" class="h-full">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>CGR Quiz App</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Fuente Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <style>
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      touch-action: pan-y;
+      /* Permite scroll vertical y captura swipes */
+    }
+
+    .card-swipe {
+      transition: transform 0.25s ease-out, opacity 0.25s ease-out;
+    }
+  </style>
+</head>
+
+<body
+  class="bg-gradient-to-b from-[#16062c] via-[#0d031a] to-[#05010a] text-white min-h-screen flex flex-col justify-between p-4 selection:bg-purple-500 selection:text-white">
+
+  <!-- Header / Barra superior -->
+  <header class="w-full max-w-md mx-auto flex items-center justify-between pt-2 pb-4">
+    <div class="flex items-center gap-2">
+      <span id="badge-tema"
+        class="px-3.5 py-1 rounded-full border border-purple-500/30 bg-purple-950/40 text-purple-300 text-xs font-semibold tracking-wider uppercase">
+        Tema
+      </span>
+    </div>
+    <div class="text-xs text-purple-300/70 font-medium">
+      <span id="contador-progreso" class="text-purple-200 font-bold">1</span> / <span id="total-preguntas">0</span>
+    </div>
+  </header>
+
+  <!-- Contenedor Principal (Tarjeta interactiva con gesto swipe) -->
+  <main id="quiz-card" class="card-swipe w-full max-w-md mx-auto flex-1 flex flex-col justify-center my-auto">
+
+    <!-- Enunciado de la Pregunta -->
+    <h1 id="texto-pregunta"
+      class="text-lg md:text-xl font-bold text-center leading-snug tracking-tight mb-6 px-2 text-slate-100">
+      Cargando pregunta...
+    </h1>
+
+    <!-- Contenedor de Opciones A, B, C, D -->
+    <div id="contenedor-opciones" class="flex flex-col gap-3 w-full">
+      <!-- Opciones renderizadas con JS -->
+    </div>
+
+    <!-- Sección de Explicación / Fundamento (Oculta al inicio) -->
+    <div id="caja-fundamento"
+      class="hidden mt-4 p-4 rounded-2xl bg-purple-950/40 border border-purple-500/20 text-xs text-purple-200/90 leading-relaxed backdrop-blur-sm">
+      <div class="font-bold text-purple-300 mb-1 flex items-center gap-1.5">
+        <span>📖 Fundamento Normativo</span>
+      </div>
+      <p id="texto-fundamento"></p>
+    </div>
+
+  </main>
+
+  <!-- Barra Inferior de Navegación -->
+  <footer class="w-full max-w-md mx-auto py-4 flex flex-col items-center gap-3">
+    <button id="btn-swipe" onclick="avanzarPregunta()"
+      class="w-full py-3.5 px-6 rounded-full border border-purple-400/40 bg-purple-900/20 hover:bg-purple-800/30 active:scale-[0.98] text-purple-200 text-xs font-bold tracking-widest uppercase transition flex items-center justify-center gap-2 shadow-lg shadow-purple-950/50">
+      <span>Siguiente pregunta</span>
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+      </svg>
+    </button>
+    <span class="text-[11px] text-purple-400/60 font-medium">O desliza hacia la izquierda ←</span>
+  </footer>
+
+  <!-- Carga del banco de preguntas -->
+  <script src="preguntas.js"></script>
+
+  <!-- Lógica de la Aplicación -->
+  <script>
+    let indiceActual = 0;
+    let respondida = false;
+    const listaPreguntas = typeof BANCO_PREGUNTAS !== 'undefined' ? BANCO_PREGUNTAS : [];
+
+    // Elementos del DOM
+    const badgeTema = document.getElementById('badge-tema');
+    const textoPregunta = document.getElementById('texto-pregunta');
+    const contenedorOpciones = document.getElementById('contenedor-opciones');
+    const cajaFundamento = document.getElementById('caja-fundamento');
+    const textoFundamento = document.getElementById('texto-fundamento');
+    const contadorProgreso = document.getElementById('contador-progreso');
+    const totalPreguntas = document.getElementById('total-preguntas');
+    const quizCard = document.getElementById('quiz-card');
+
+    function inicializar() {
+      if (!listaPreguntas.length) {
+        textoPregunta.innerText = "No se encontraron preguntas en preguntas.js.";
+        return;
+      }
+      totalPreguntas.innerText = listaPreguntas.length;
+      mostrarPregunta(indiceActual);
+    }
+
+    function mostrarPregunta(indice) {
+      respondida = false;
+      cajaFundamento.classList.add('hidden');
+      quizCard.style.transform = 'translateX(0)';
+      quizCard.style.opacity = '1';
+
+      const item = listaPreguntas[indice];
+      badgeTema.innerText = item.tema || "Cuestionario";
+      contadorProgreso.innerText = indice + 1;
+      textoPregunta.innerText = item.pregunta;
+
+      contenedorOpciones.innerHTML = '';
+
+      Object.entries(item.opciones).forEach(([letra, texto]) => {
+        if (!texto) return;
+
+        const boton = document.createElement('button');
+        boton.className = "group relative w-full flex items-center gap-3.5 p-3.5 rounded-2xl bg-[#1e1333]/70 hover:bg-[#281a44] border border-purple-500/10 active:scale-[0.99] text-left transition-all duration-150 backdrop-blur-sm";
+        boton.innerHTML = `
+          <span class="letra-circulo flex-shrink-0 w-8 h-8 rounded-full bg-purple-600/80 group-hover:bg-purple-500 flex items-center justify-center font-bold text-xs text-white transition-colors">
+            ${letra}
+          </span>
+          <span class="text-xs md:text-sm font-medium text-slate-200 leading-snug">
+            ${texto}
+          </span>
+        `;
+
+        boton.onclick = () => seleccionarOpcion(letra, item.correcta, item.fundamento, boton);
+        contenedorOpciones.appendChild(boton);
+      });
+    }
+
+    function seleccionarOpcion(seleccionada, correcta, fundamento, boton) {
+      if (respondida) return;
+      respondida = true;
+
+      const botones = contenedorOpciones.querySelectorAll('button');
+
+      botones.forEach(btn => {
+        const letra = btn.querySelector('.letra-circulo').innerText.trim();
+        if (letra === correcta) {
+          // Marca correcta en verde
+          btn.classList.remove('bg-[#1e1333]/70', 'border-purple-500/10');
+          btn.classList.add('bg-emerald-950/60', 'border-emerald-500/50');
+          btn.querySelector('.letra-circulo').classList.remove('bg-purple-600/80');
+          btn.querySelector('.letra-circulo').classList.add('bg-emerald-500');
+        } else if (letra === seleccionada) {
+          // Marca incorrecta en rojo
+          btn.classList.remove('bg-[#1e1333]/70', 'border-purple-500/10');
+          btn.classList.add('bg-rose-950/60', 'border-rose-500/50');
+          btn.querySelector('.letra-circulo').classList.remove('bg-purple-600/80');
+          btn.querySelector('.letra-circulo').classList.add('bg-rose-500');
+        }
+      });
+
+      // Muestra justificación si existe
+      if (fundamento) {
+        textoFundamento.innerText = fundamento;
+        cajaFundamento.classList.remove('hidden');
+      }
+    }
+
+    function avanzarPregunta() {
+      // Animación de salida tipo tarjeta
+      quizCard.style.transform = 'translateX(-30px)';
+      quizCard.style.opacity = '0';
+
+      setTimeout(() => {
+        indiceActual = (indiceActual + 1) % listaPreguntas.length;
+        mostrarPregunta(indiceActual);
+      }, 180);
+    }
+
+    // --- Detección de Gestos Táctiles (Swipe) ---
+    let touchStartX = 0;
+    let touchEndX = 0;
+
+    quizCard.addEventListener('touchstart', (e) => {
+      touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    quizCard.addEventListener('touchend', (e) => {
+      touchEndX = e.changedTouches[0].screenX;
+      handleSwipe();
+    }, { passive: true });
+
+    function handleSwipe() {
+      const umbral = 60; // Desplazamiento mínimo en px
+      if (touchStartX - touchEndX > umbral) {
+        // Deslizamiento hacia la izquierda -> Siguiente
+        avanzarPregunta();
+      }
+    }
+
+    // Teclas de dirección (PC)
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight' || e.key === ' ') {
+        avanzarPregunta();
+      }
+    });
+
+    inicializar();
+  </script>
+</body>
+
+</html>
