@@ -2,444 +2,444 @@ const BANCO_PREGUNTAS = [
   {
     "id": 1,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "«Son aquellos aseguramientos de carácter incondicional y de ejecución inmediata otorgados y contratados por el Estado, con el fin de respaldar las obligaciones de la contraparte en la entidad pública titular del proyecto, derivadas de préstamos o bonos emitidos para financiar los proyectos o para respaldar obligaciones de pago del Estado, en el marco del sistema nacional de endeudamiento». El enunciado precedente corresponde a la definición de",
+    "pregunta": "┬½Son aquellos aseguramientos de car├ícter incondicional y de ejecuci├│n inmediata otorgados y contratados por el Estado, con el fin de respaldar las obligaciones de la contraparte en la entidad p├║blica titular del proyecto, derivadas de pr├®stamos o bonos emitidos para financiar los proyectos o para respaldar obligaciones de pago del Estado, en el marco del sistema nacional de endeudamiento┬╗. El enunciado precedente corresponde a la definici├│n de",
     "opciones": {
-      "A": "garantías económicas.",
-      "B": "cartas fianza emitida por alguna entidad financiera bajo la supervisión de la SBS.",
-      "C": "cartas de línea de crédito emitida por alguna entidad financiera bajo la supervisión de la SBS.",
-      "D": "garantías financieras."
+      "A": "Garant├¡as econ├│micas.",
+      "B": "Cartas fianza emitida por alguna entidad financiera bajo la supervisi├│n de la SBS.",
+      "C": "Cartas de l├¡nea de cr├®dito emitida por alguna entidad financiera bajo la supervisi├│n de la SBS.",
+      "D": "Garant├¡as financieras."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 6.1 Definiciones de la Directiva N° 017-2022- CG/GMPL ?Directiva Interna que establece Disposiciones Complementarias de la Ley N° 31358, Ley que establece medidas para la expansión de control concurrente? aprobada por Resolución de Contraloría N° 275-2022/CG"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 6.1 Definiciones de la Directiva N┬░ 017-2022- CG/GMPL ÔÇ£Directiva Interna que establece Disposiciones Complementarias de la Ley N┬░ 31358, Ley que establece medidas para la expansi├│n de control concurrenteÔÇØ aprobada por Resoluci├│n de Contralor├¡a N┬░ 275-2022/CG"
   },
   {
     "id": 2,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Para contrataciones o adquisiciones que realicen entidades no gubernamentales o privadas con recursos del Estado por encargo, convenio, delegación, cogestión u otra forma de acuerdo, ___________________.",
+    "pregunta": "Para contrataciones o adquisiciones que realicen entidades no gubernamentales o privadas con recursos del Estado por encargo, convenio, delegaci├│n, cogesti├│n u otra forma de acuerdo, ___________________.",
     "opciones": {
-      "A": "la estimación del costo total de control concurrente se realiza de acuerdo con los porcentajes establecidos en la directiva externa que establece disposiciones complementarias de la Ley N° 31358, formando parte del monto de la contratación",
-      "B": "el costo del control concurrente es asumido por la entidad que transfiere los recursos",
-      "C": "estas deben ser comunicadas por la entidad a la Subgerencia de Seguimiento y Evaluación del SNC en el plazo de diez (10) días hábiles de certificado el presupuesto para su contratación",
-      "D": "el órgano encargado de las contrataciones de la entidad prevé la disponibilidad presupuestaria para el financiamiento del control concurrente por el 2 % del monto que está certificando"
+      "A": "La estimaci├│n del costo total de control concurrente se realiza de acuerdo con los porcentajes establecidos en la directiva externa que establece disposiciones complementarias de la Ley N┬░ 31358, formando parte del monto de la contrataci├│n",
+      "B": "El costo del control concurrente es asumido por la entidad que transfiere los recursos",
+      "C": "Estas deben ser comunicadas por la entidad a la Subgerencia de Seguimiento y Evaluaci├│n del SNC en el plazo de diez (10) d├¡as h├íbiles de certificado el presupuesto para su contrataci├│n",
+      "D": "El ├│rgano encargado de las contrataciones de la entidad prev├® la disponibilidad presupuestaria para el financiamiento del control concurrente por el 2 % del monto que est├í certificando"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Numeral 7.2.3 de la Directiva N° 018-2022-CG/GMPL ?Directiva Externa que establece Disposiciones Complementarias de la Ley N° 31358, Ley que establece medidas para la expansión de control concurrente? aprobada por Resolución de Contraloría N° 275-2022/CG."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 7.2.3 de la Directiva N┬░ 018-2022-CG/GMPL ÔÇ£Directiva Externa que establece Disposiciones Complementarias de la Ley N┬░ 31358, Ley que establece medidas para la expansi├│n de control concurrenteÔÇØ aprobada por Resoluci├│n de Contralor├¡a N┬░ 275-2022/CG."
   },
   {
     "id": 3,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Seleccione la alternativa que presenta uno de los criterios que se aplican en la identificación y selección de inversiones orientados a ejecución del control concurrente.",
+    "pregunta": "Seleccione la alternativa que presenta uno de los criterios que se aplican en la identificaci├│n y selecci├│n de inversiones orientados a ejecuci├│n del control concurrente.",
     "opciones": {
-      "A": "La intervención corresponde a un presupuesto de inversión o a una APP con un saldo a ejecutar hasta un 50 %.",
-      "B": "La ejecución financiera acumulada (gasto devengado acumulado entre costo actualizado de la inversión, a la fecha de identificación) es hasta 80 %.",
-      "C": "La inversión se encuentra por activar en el Banco de Inversiones.",
-      "D": "La inversión tiene certificación presupuestal para el año siguiente hasta un 50 %."
+      "A": "La intervenci├│n corresponde a un presupuesto de inversi├│n o a una APP con un saldo a ejecutar hasta un 50 %.",
+      "B": "La ejecuci├│n financiera acumulada (gasto devengado acumulado entre costo actualizado de la inversi├│n, a la fecha de identificaci├│n) es hasta 80 %.",
+      "C": "La inversi├│n se encuentra por activar en el Banco de Inversiones.",
+      "D": "La inversi├│n tiene certificaci├│n presupuestal para el a├▒o siguiente hasta un 50 %."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Numeral 7.1.2 Directiva N° 017-2022-CG/GMPL"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 7.1.2 Directiva N┬░ 017-2022-CG/GMPL"
   },
   {
     "id": 4,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "Son los principios que rigen el ejercicio del control gubernamental, EXCEPTO",
     "opciones": {
-      "A": "taxatividad, discrecionalidad y veracidad.",
-      "B": "universalidad, carácter integral y autonomía funcional.",
-      "C": "eficiencia, eficacia y economía.",
-      "D": "materialidad, carácter selectivo del control y la presunción de licitud."
+      "A": "Taxatividad, discrecionalidad y veracidad.",
+      "B": "Universalidad, car├ícter integral y autonom├¡a funcional.",
+      "C": "Eficiencia, eficacia y econom├¡a.",
+      "D": "Materialidad, car├ícter selectivo del control y la presunci├│n de licitud."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 9 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 9 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 5,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, la acción de control es definida como",
+    "pregunta": "De acuerdo con la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica, la acci├│n de control es definida como",
     "opciones": {
-      "A": "el conjunto de políticas, normas, métodos y procedimientos técnicos, que compete aplicar a la CGR u otro órgano del Sistema por encargo o designación de ésta, con el objeto de supervisar, vigilar y verificar la gestión, la captación y el uso de los recursos y bienes del Estado.",
-      "B": "la potestad de los órganos de control para organizarse y ejercer sus funciones con independencia técnica y libre de influencias.",
-      "C": "la potestad del control para concentrar su actuación en las transacciones y operaciones de mayor significación económica o relevancia en la entidad examinada.",
-      "D": "la herramienta esencial del Sistema, por la cual el personal técnico de sus órganos conformantes, mediante la aplicación de las normas, procedimientos y principios que regulan el control gubernamental, efectúa la verificación y evaluación, objetiva y sistemática, de los actos y resultados producidos por la entidad en la gestión y ejecución de los recursos, bienes y operaciones institucionales."
+      "A": "El conjunto de pol├¡ticas, normas, m├®todos y procedimientos t├®cnicos, que compete aplicar a la CGR u otro ├│rgano del Sistema por encargo o designaci├│n de ├®sta, con el objeto de supervisar, vigilar y verificar la gesti├│n, la captaci├│n y el uso de los recursos y bienes del Estado.",
+      "B": "La potestad de los ├│rganos de control para organizarse y ejercer sus funciones con independencia t├®cnica y libre de influencias.",
+      "C": "La potestad del control para concentrar su actuaci├│n en las transacciones y operaciones de mayor significaci├│n econ├│mica o relevancia en la entidad examinada.",
+      "D": "La herramienta esencial del Sistema, por la cual el personal t├®cnico de sus ├│rganos conformantes, mediante la aplicaci├│n de las normas, procedimientos y principios que regulan el control gubernamental, efect├║a la verificaci├│n y evaluaci├│n, objetiva y sistem├ítica, de los actos y resultados producidos por la entidad en la gesti├│n y ejecuci├│n de los recursos, bienes y operaciones institucionales."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 10 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 10 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 6,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con el artículo 24 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, la reformulación de los Informes de Control emitidos por el Sistema, puede disponerse cuando",
+    "pregunta": "De acuerdo con el art├¡culo 24 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica, la reformulaci├│n de los Informes de Control emitidos por el Sistema, puede disponerse cuando",
     "opciones": {
-      "A": "El informe de control se encuentra pendiente de comunicar al titular de la entidad, y publicarlo en el portal web de la Contraloría General de la República.",
-      "B": "Su elaboración no se haya sujetado a la normativa de control.",
-      "C": "Se ha dispuesto que el mismo no tiene la condición de acto de administración interna.",
+      "A": "El informe de control se encuentra pendiente de comunicar al titular de la entidad, y publicarlo en el portal web de la Contralor├¡a General de la Rep├║blica.",
+      "B": "Su elaboraci├│n no se haya sujetado a la normativa de control.",
+      "C": "Se ha dispuesto que el mismo no tiene la condici├│n de acto de administraci├│n interna.",
       "D": "Exista un proceso judicial en el que se discuta la validez del informe de control."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Ley N° 27785, artículo 24."
+    "fundamento": "Referencia bibliogr├ífica: Ley N┬░ 27785, art├¡culo 24."
   },
   {
     "id": 7,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con las Normas Generales de Control Gubernamental, aprobadas por Resolución de Contraloría N° 295-2021-CG, se puede afirmar que",
+    "pregunta": "De acuerdo con las Normas Generales de Control Gubernamental, aprobadas por Resoluci├│n de Contralor├¡a N┬░ 295-2021-CG, se puede afirmar que",
     "opciones": {
-      "A": "los servicios de control se clasifican en servicios de control previo, servicios de control simultáneo y servicios de control posterior.",
-      "B": "los servicios de control posterior son ejercicios bajo las siguientes modalidades: Auditorías, Servicios de Control Específico a hechos con presunta irregularidad, acción de oficio posterior, orientación de oficio.",
-      "C": "la Comisión de Control es el equipo multidisciplinario de profesionales que lleva a cabo la reformulación de un informe de control.",
-      "D": "los órganos del Sistema Nacional de Control no pueden contar con la participación de personas naturales o jurídicas para que emitan informes técnicos."
+      "A": "Los servicios de control se clasifican en servicios de control previo, servicios de control simult├íneo y servicios de control posterior.",
+      "B": "Los servicios de control posterior son ejercicios bajo las siguientes modalidades: Auditor├¡as, Servicios de Control Espec├¡fico a hechos con presunta irregularidad, acci├│n de oficio posterior, orientaci├│n de oficio.",
+      "C": "La Comisi├│n de Control es el equipo multidisciplinario de profesionales que lleva a cabo la reformulaci├│n de un informe de control.",
+      "D": "Los ├│rganos del Sistema Nacional de Control no pueden contar con la participaci├│n de personas naturales o jur├¡dicas para que emitan informes t├®cnicos."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 295-2021-CG / Normas Generales de Control, numerales 1.16, 4.12, 4.17."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 295-2021-CG / Normas Generales de Control, numerales 1.16, 4.12, 4.17."
   },
   {
     "id": 8,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Son criterios que se aplican en la identificación y selección de inversiones orientados a la ejecución del control concurrente.",
+    "pregunta": "Son criterios que se aplican en la identificaci├│n y selecci├│n de inversiones orientados a la ejecuci├│n del control concurrente.",
     "opciones": {
-      "A": "La ejecución financiera acumulada (gasto devengado acumulado entre costo actualizado de la inversión, a la fecha de identificación) es hasta 80 %.",
-      "B": "La inversión se encuentra por activar en el Banco de Inversiones.",
-      "C": "La intervención corresponde a un presupuesto de inversión o a una APP con un saldo a ejecutar hasta un 50 %.",
-      "D": "La inversión tiene certificación presupuestal para el año siguiente hasta un 50 %."
+      "A": "La ejecuci├│n financiera acumulada (gasto devengado acumulado entre costo actualizado de la inversi├│n, a la fecha de identificaci├│n) es hasta 80 %.",
+      "B": "La inversi├│n se encuentra por activar en el Banco de Inversiones.",
+      "C": "La intervenci├│n corresponde a un presupuesto de inversi├│n o a una APP con un saldo a ejecutar hasta un 50 %.",
+      "D": "La inversi├│n tiene certificaci├│n presupuestal para el a├▒o siguiente hasta un 50 %."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 7.1.2 ? identificación y selección de inversiones de la Directiva N° 017-2022-CG/GMPL"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 7.1.2 ÔÇô identificaci├│n y selecci├│n de inversiones de la Directiva N┬░ 017-2022-CG/GMPL"
   },
   {
     "id": 9,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Como parte de la Administración Financiera del Sector Público, el Sistema Nacional de Programación Multianual y Gestión de Inversiones, a través de su ente rector, tiene como función la programación",
+    "pregunta": "Como parte de la Administraci├│n Financiera del Sector P├║blico, el Sistema Nacional de Programaci├│n Multianual y Gesti├│n de Inversiones, a trav├®s de su ente rector, tiene como funci├│n la programaci├│n",
     "opciones": {
-      "A": "presupuestaria anual para elaborar la consistencia del programa de inversiones públicas.",
-      "B": "multianual de concertaciones y el plan anual de desembolsos de las operaciones de endeudamiento público.",
-      "C": "multianual de la inversión pública y gestión de la inversión pública.",
-      "D": "multianual de la inversión pública, gestión de la inversión pública y el seguimiento y evaluación de las inversiones."
+      "A": "Presupuestaria anual para elaborar la consistencia del programa de inversiones p├║blicas.",
+      "B": "Multianual de concertaciones y el plan anual de desembolsos de las operaciones de endeudamiento p├║blico.",
+      "C": "Multianual de la inversi├│n p├║blica y gesti├│n de la inversi├│n p├║blica.",
+      "D": "Multianual de la inversi├│n p├║blica, gesti├│n de la inversi├│n p├║blica y el seguimiento y evaluaci├│n de las inversiones."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 8, Integración intersistémica del Decreto Legislativo N° 1432"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 8, Integraci├│n intersist├®mica del Decreto Legislativo N┬░ 1432"
   },
   {
     "id": 10,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Relacione ambas columnas y marque la opción correcta. I. Puede ser complementada con gráficos, cuadros, fotografías u otros instrumentos que permitan su mejor comprensión. a. Condición II. Es la normativa, disposiciones internas, estipulaciones contractuales, términos de referencia, bases administrativas u otra análoga. b. Efecto III. Es la explicación concreta de cómo la condición afecta o puede afectar negativamente la relación de las características, oportunidad, calidad y precio, entre otros, la continuidad o resultado de una o varias actividades o el logro de los objetivos del proceso c. Criterio IV. Es el perjuicio identificado, resultado adverso o riesgo potencial, ocasionado como consecuencia de haberse producido la condición. d. Consecuencia",
+    "pregunta": "Relacione ambas columnas y marque la opci├│n correcta. I. Puede ser complementada con gr├íficos, cuadros, fotograf├¡as u otros instrumentos que permitan su mejor comprensi├│n. a. Condici├│n II. Es la normativa, disposiciones internas, estipulaciones contractuales, t├®rminos de referencia, bases administrativas u otra an├íloga. b. Efecto III. Es la explicaci├│n concreta de c├│mo la condici├│n afecta o puede afectar negativamente la relaci├│n de las caracter├¡sticas, oportunidad, calidad y precio, entre otros, la continuidad o resultado de una o varias actividades o el logro de los objetivos del proceso c. Criterio IV. Es el perjuicio identificado, resultado adverso o riesgo potencial, ocasionado como consecuencia de haberse producido la condici├│n. d. Consecuencia",
     "opciones": {
-      "A": "Ia ? IIc ? IIId ? IVb",
-      "B": "Ib ? IIIa ? IVc ? IId",
-      "C": "Ic ? IIb ? IVa ? IIId",
-      "D": "Ib ? IIa ? IVd ? IIIc"
+      "A": "Ia ÔÇô IIc ÔÇô IIId ÔÇô IVb",
+      "B": "Ib ÔÇô IIIa ÔÇô IVc ÔÇô IId",
+      "C": "Ic ÔÇô IIb ÔÇô IVa ÔÇô IIId",
+      "D": "Ib ÔÇô IIa ÔÇô IVd ÔÇô IIIc"
     },
     "correcta": "A",
-    "fundamento": "Referencia: RC N° 115-2019-CG. 6.2.7. p.5/24., capítulo VII, Normas De Servicios De Control Posterior numeral 7.30, Normas Generales de Control Gubernamental R.C.Nº 273-2014-CG y modificatorias."
+    "fundamento": "Referencia: RC N┬░ 115-2019-CG. 6.2.7. p.5/24., cap├¡tulo VII, Normas De Servicios De Control Posterior numeral 7.30, Normas Generales de Control Gubernamental R.C.N┬║ 273-2014-CG y modificatorias."
   },
   {
     "id": 11,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Es definido como el conjunto de órganos de control, normas, métodos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada.",
+    "pregunta": "Es definido como el conjunto de ├│rganos de control, normas, m├®todos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada.",
     "opciones": {
       "A": "Las gerencias regionales de control",
-      "B": "Los órganos de control institucional",
+      "B": "Los ├│rganos de control institucional",
       "C": "El Sistema Nacional de Control",
-      "D": "Las Sociedades de Auditoría Externa Independientes"
+      "D": "Las Sociedades de Auditor├¡a Externa Independientes"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: artículo 12 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 12 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 12,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto a la identificación de responsabilidades derivadas del proceso de control, marque el enunciado correcto.",
+    "pregunta": "Respecto a la identificaci├│n de responsabilidades derivadas del proceso de control, marque el enunciado correcto.",
     "opciones": {
       "A": "No se puede identificar responsabilidad administrativa funcional cuando esta ha prescrito conforme al plazo establecido en las normas correspondientes.",
       "B": "No se puede identificar responsabilidad civil, cuando esta ha prescrito conforme a los plazos establecidos en las normas correspondientes.",
       "C": "No pueden identificarse responsabilidades, civiles y penales en cualquier servicio de control posterior.",
-      "D": "Cuando no existe señalamiento de presunta responsabilidad penal, el informe es remitido al Órgano Instructor competente de la Contraloría General de la República."
+      "D": "Cuando no existe se├▒alamiento de presunta responsabilidad penal, el informe es remitido al ├ôrgano Instructor competente de la Contralor├¡a General de la Rep├║blica."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: artículo 11 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 11 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 13,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La facultad para la imposición de la sanción por responsabilidad administrativa funcional, prescribe",
+    "pregunta": "La facultad para la imposici├│n de la sanci├│n por responsabilidad administrativa funcional, prescribe",
     "opciones": {
-      "A": "a los cinco (5) años contados desde el día siguiente del día en que la infracción se hubiera cometido o desde que cesó, si fuera una acción continuada.",
-      "B": "a los tres (3) años contados a partir del día en que la infracción se hubiera cometido o desde que cesó, si fuera una acción continuada.",
-      "C": "a los dos (2) años contados a partir del día en que la infracción se hubiera cometido o desde que cesó, si fuera una acción continuada.",
-      "D": "a los cuatro (4) años contados a partir del día en que la infracción se hubiera cometido o desde que cesó, si fuera una acción continuada."
+      "A": "A los cinco (5) a├▒os contados desde el d├¡a siguiente del d├¡a en que la infracci├│n se hubiera cometido o desde que ces├│, si fuera una acci├│n continuada.",
+      "B": "A los tres (3) a├▒os contados a partir del d├¡a en que la infracci├│n se hubiera cometido o desde que ces├│, si fuera una acci├│n continuada.",
+      "C": "A los dos (2) a├▒os contados a partir del d├¡a en que la infracci├│n se hubiera cometido o desde que ces├│, si fuera una acci├│n continuada.",
+      "D": "A los cuatro (4) a├▒os contados a partir del d├¡a en que la infracci├│n se hubiera cometido o desde que ces├│, si fuera una acci├│n continuada."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: artículo 60 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 60 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 14,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El siguiente principio que rige el ejercicio del control gubernamental: «que supone la plena sujeción del proceso de control a la normativa constitucional, legal y reglamentaria aplicable a su actuación», corresponde a la",
+    "pregunta": "El siguiente principio que rige el ejercicio del control gubernamental: ┬½que supone la plena sujeci├│n del proceso de control a la normativa constitucional, legal y reglamentaria aplicable a su actuaci├│n┬╗, corresponde a la",
     "opciones": {
-      "A": "objetividad.",
-      "B": "legalidad.",
-      "C": "oportunidad.",
-      "D": "autonomía funcional."
+      "A": "Objetividad.",
+      "B": "Legalidad.",
+      "C": "Oportunidad.",
+      "D": "Autonom├¡a funcional."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: artículo 9, inciso f) de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 9, inciso f) de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 15,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La Constitución Política del Perú, en cuanto a la vigencia y obligatoriedad de la ley, establece que",
+    "pregunta": "La Constituci├│n Pol├¡tica del Per├║, en cuanto a la vigencia y obligatoriedad de la ley, establece que",
     "opciones": {
-      "A": "la ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte.",
-      "B": "la ley es obligatoria desde el día siguiente de su publicación en el diario oficial y en el portal web del Estado Peruano, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte.",
-      "C": "la ley es obligatoria desde su publicación en el diario oficial, cuando la misma regule aspectos de carácter administrativo, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte. En los demás casos, la Ley entra en vigencia al día siguiente de su publicación.",
-      "D": "la publicación de una Ley en el diario oficial, responde a los principios de transparencia, acceso a la información pública y máxima divulgación."
+      "A": "La ley es obligatoria desde el d├¡a siguiente de su publicaci├│n en el diario oficial, salvo disposici├│n contraria de la misma ley que posterga su vigencia en todo o en parte.",
+      "B": "La ley es obligatoria desde el d├¡a siguiente de su publicaci├│n en el diario oficial y en el portal web del Estado Peruano, salvo disposici├│n contraria de la misma ley que posterga su vigencia en todo o en parte.",
+      "C": "La ley es obligatoria desde su publicaci├│n en el diario oficial, cuando la misma regule aspectos de car├ícter administrativo, salvo disposici├│n contraria de la misma ley que posterga su vigencia en todo o en parte. En los dem├ís casos, la Ley entra en vigencia al d├¡a siguiente de su publicaci├│n.",
+      "D": "La publicaci├│n de una Ley en el diario oficial, responde a los principios de transparencia, acceso a la informaci├│n p├║blica y m├íxima divulgaci├│n."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 109 de la Constitución Política del Perú."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 109 de la Constituci├│n Pol├¡tica del Per├║."
   },
   {
     "id": 16,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Señale cuál de las siguientes alternativas es una función de la Gerencia de Control Social y Denuncias.",
+    "pregunta": "Se├▒ale cu├íl de las siguientes alternativas es una funci├│n de la Gerencia de Control Social y Denuncias.",
     "opciones": {
-      "A": "Diseñar, proponer y coordinar mecanismos de participación ciudadana a nivel nacional, e implementarlos a nivel de Lima Metropolitana y del Callao",
-      "B": "Monitorear la atención de la demanda imprevisible de control de denuncias recibidas, mecanismos de participación ciudadana y de los servicios de control resultantes",
-      "C": "Planificar, ejecutar y aprobar los servicios de control gubernamental, resultantes del servicio relacionado de gestión de denuncias",
-      "D": "Formular y aprobar los informes resultantes de los servicios de control gubernamental ejecutados y efectuar su notificación"
+      "A": "Dise├▒ar, proponer y coordinar mecanismos de participaci├│n ciudadana a nivel nacional, e implementarlos a nivel de Lima Metropolitana y del Callao",
+      "B": "Monitorear la atenci├│n de la demanda imprevisible de control de denuncias recibidas, mecanismos de participaci├│n ciudadana y de los servicios de control resultantes",
+      "C": "Planificar, ejecutar y aprobar los servicios de control gubernamental, resultantes del servicio relacionado de gesti├│n de denuncias",
+      "D": "Formular y aprobar los informes resultantes de los servicios de control gubernamental ejecutados y efectuar su notificaci├│n"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: artículo 118 (i) del ROF- CGR."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 118 (i) del ROF- CGR."
   },
   {
     "id": 17,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "Las normas generales de control gubernamental tienen por objeto regular",
     "opciones": {
-      "A": "el desempeño de los recursos humanos del sistema y el desarrollo técnico de los procesos y productos de control.",
-      "B": "el desempeño profesional solo del personal de la Contraloría General de la República y el desarrollo técnico de los procedimientos de control.",
-      "C": "el desempeño laboral del personal del sistema y el desarrollo eficiente de los procesos y productos de control.",
-      "D": "la actuación de los servidores públicos y el desarrollo técnico de los procesos y productos de la entidad bajo control."
+      "A": "El desempe├▒o de los recursos humanos del sistema y el desarrollo t├®cnico de los procesos y productos de control.",
+      "B": "El desempe├▒o profesional solo del personal de la Contralor├¡a General de la Rep├║blica y el desarrollo t├®cnico de los procedimientos de control.",
+      "C": "El desempe├▒o laboral del personal del sistema y el desarrollo eficiente de los procesos y productos de control.",
+      "D": "La actuaci├│n de los servidores p├║blicos y el desarrollo t├®cnico de los procesos y productos de la entidad bajo control."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Normas Generales de Control Gubernamental RC-295-2021-CG. Numeral 1.2. Definición y alcance."
+    "fundamento": "Referencia bibliogr├ífica: Normas Generales de Control Gubernamental RC-295-2021-CG. Numeral 1.2. Definici├│n y alcance."
   },
   {
     "id": 18,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Dentro de su potestad sancionadora, por infracciones al ejercicio de control, la Contraloría General de la República puede aplicar sanciones según la gravedad de la infracción. Señale la alternativa que NO corresponde con lo mencionado.",
+    "pregunta": "Dentro de su potestad sancionadora, por infracciones al ejercicio de control, la Contralor├¡a General de la Rep├║blica puede aplicar sanciones seg├║n la gravedad de la infracci├│n. Se├▒ale la alternativa que NO corresponde con lo mencionado.",
     "opciones": {
-      "A": "Amonestación",
-      "B": "Declarar la muerte civil de la Sociedad de Auditoría",
+      "A": "Amonestaci├│n",
+      "B": "Declarar la muerte civil de la Sociedad de Auditor├¡a",
       "C": "Multa",
-      "D": "Suspensión del Registro de Sociedades de Auditoría Base legal: artículo 43, de la Ley No 27785. Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República y sus modificatorias."
+      "D": "Suspensi├│n del Registro de Sociedades de Auditor├¡a Base legal: art├¡culo 43, de la Ley No 27785. Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica y sus modificatorias."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículo 43, de la Ley N.° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, y sus modificatorias. Artículo 43.- Sanciones"
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culo 43, de la Ley N.┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica, y sus modificatorias. Art├¡culo 43.- Sanciones"
   },
   {
     "id": 19,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Sobre la base de la Ley No 27785, complete el espacio en blanco con la alternativa correcta: «_____________________ es el conjunto de órganos de control, normas, métodos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada».",
+    "pregunta": "Sobre la base de la Ley No 27785, complete el espacio en blanco con la alternativa correcta: ┬½_____________________ es el conjunto de ├│rganos de control, normas, m├®todos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada┬╗.",
     "opciones": {
-      "A": "La Contraloría General de la República",
-      "B": "El Órgano de control institucional",
+      "A": "La Contralor├¡a General de la Rep├║blica",
+      "B": "El ├ôrgano de control institucional",
       "C": "El Sistema Nacional de Control",
-      "D": "El Sistema Nacional de Defensa Jurídica"
+      "D": "El Sistema Nacional de Defensa Jur├¡dica"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto Integrado de la Ley No 27785, artículo 12."
+    "fundamento": "Referencia bibliogr├ífica: Texto Integrado de la Ley No 27785, art├¡culo 12."
   },
   {
     "id": 20,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El proyecto de oficio de acreditación o comunicación de inicio de la auditoría de cumplimiento es un documento que se",
+    "pregunta": "El proyecto de oficio de acreditaci├│n o comunicaci├│n de inicio de la auditor├¡a de cumplimiento es un documento que se",
     "opciones": {
-      "A": "adjunta a la carpeta de servicio y forma parte de un acápite de la carpeta de servicio.",
-      "B": "emite después de aprobada la carpeta de servicio.",
-      "C": "adjunta a la cédula de procedimientos.",
-      "D": "adjunta a la carpeta de servicio, pero no forma parte de ningún acápite de la carpeta de servicio."
+      "A": "Adjunta a la carpeta de servicio y forma parte de un ac├ípite de la carpeta de servicio.",
+      "B": "Emite despu├®s de aprobada la carpeta de servicio.",
+      "C": "Adjunta a la c├®dula de procedimientos.",
+      "D": "Adjunta a la carpeta de servicio, pero no forma parte de ning├║n ac├ípite de la carpeta de servicio."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Directiva 001-2022-CG/NORM. Numeral 6.4 anexo 1. Carpeta de Servicio de la Auditoría de Cumplimiento."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 001-2022-CG/NORM. Numeral 6.4 anexo 1. Carpeta de Servicio de la Auditor├¡a de Cumplimiento."
   },
   {
     "id": 21,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Uno de los objetivos de la directiva de auditoría de cumplimiento es contar con",
+    "pregunta": "Uno de los objetivos de la directiva de auditor├¡a de cumplimiento es contar con",
     "opciones": {
-      "A": "las normas y disposiciones para el desarrollo de la auditoría de cumplimiento en las etapas de ejecución y elaboración de informes.",
-      "B": "los criterios y terminología estándar para la realización de la auditoría de cumplimiento.",
-      "C": "las normas y disposiciones para el desarrollo de la auditoría de cumplimiento en la etapa de planificación de los informes de control.",
-      "D": "los criterios y terminología estándar para la realización de las auditorías de cumplimiento, financiera y desempeño."
+      "A": "Las normas y disposiciones para el desarrollo de la auditor├¡a de cumplimiento en las etapas de ejecuci├│n y elaboraci├│n de informes.",
+      "B": "Los criterios y terminolog├¡a est├índar para la realizaci├│n de la auditor├¡a de cumplimiento.",
+      "C": "Las normas y disposiciones para el desarrollo de la auditor├¡a de cumplimiento en la etapa de planificaci├│n de los informes de control.",
+      "D": "Los criterios y terminolog├¡a est├índar para la realizaci├│n de las auditor├¡as de cumplimiento, financiera y desempe├▒o."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva 001-2022-CG/NORM Numeral"
+    "fundamento": "Referencia bibliogr├ífica: Directiva 001-2022-CG/NORM Numeral"
   },
   {
     "id": 22,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con la Ley N° 31358, complete el espacio en blanco del siguiente enunciado: «La Contraloría General de la República, en el informe que anualmente presente ante __________________________________________, rinde cuenta de los recursos recaudados, la implementación y la ejecución del control concurrente, con su respectivo informe sobre los gastos incurridos, la proyección de los ahorros generados al erario nacional, así como de las responsabilidades identificadas y sanciones impuestas».",
+    "pregunta": "De acuerdo con la Ley N┬░ 31358, complete el espacio en blanco del siguiente enunciado: ┬½La Contralor├¡a General de la Rep├║blica, en el informe que anualmente presente ante __________________________________________, rinde cuenta de los recursos recaudados, la implementaci├│n y la ejecuci├│n del control concurrente, con su respectivo informe sobre los gastos incurridos, la proyecci├│n de los ahorros generados al erario nacional, as├¡ como de las responsabilidades identificadas y sanciones impuestas┬╗.",
     "opciones": {
-      "A": "la Comisión Ad Hoc de la Presidencia del Consejo de Ministros (PCM)",
-      "B": "la Comisión de Fiscalización y de Contraloría del Congreso de la República",
-      "C": "los congresistas de la República en el pleno de su última legislatura",
-      "D": "la Comisión de Fiscalización y de Control del Ministerio de Economía y Finanzas"
+      "A": "La Comisi├│n Ad Hoc de la Presidencia del Consejo de Ministros (PCM)",
+      "B": "La Comisi├│n de Fiscalizaci├│n y de Contralor├¡a del Congreso de la Rep├║blica",
+      "C": "Los congresistas de la Rep├║blica en el pleno de su ├║ltima legislatura",
+      "D": "La Comisi├│n de Fiscalizaci├│n y de Control del Ministerio de Econom├¡a y Finanzas"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: artículo 8 de la Ley No 31500."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 8 de la Ley No 31500."
   },
   {
     "id": 23,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo al artículo 24º de la Ley Nº 27785, respecto de la revisión de oficio de los informes de control, marque el enunciado INCORRECTO.",
+    "pregunta": "De acuerdo al art├¡culo 24┬║ de la Ley N┬║ 27785, respecto de la revisi├│n de oficio de los informes de control, marque el enunciado INCORRECTO.",
     "opciones": {
-      "A": "Los informes de control pueden ser revisados de oficio por la Contraloría General de la República.",
-      "B": "Las instrucciones dadas en el marco de la revisión de oficio son precisas y están dirigidas a que se superen las deficiencias identificadas en el informe de control.",
-      "C": "Los informes de control emitidos por el sistema constituyen actos de la administración interna de los órganos conformantes de este.",
-      "D": "La revisión de oficio de los informes de control implica, entre otros aspectos, verificar que no se haya interpuesto contra ellos recurso impugnatorio alguno."
+      "A": "Los informes de control pueden ser revisados de oficio por la Contralor├¡a General de la Rep├║blica.",
+      "B": "Las instrucciones dadas en el marco de la revisi├│n de oficio son precisas y est├ín dirigidas a que se superen las deficiencias identificadas en el informe de control.",
+      "C": "Los informes de control emitidos por el sistema constituyen actos de la administraci├│n interna de los ├│rganos conformantes de este.",
+      "D": "La revisi├│n de oficio de los informes de control implica, entre otros aspectos, verificar que no se haya interpuesto contra ellos recurso impugnatorio alguno."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 24 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 24 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 24,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "Marque el enunciado correcto.",
     "opciones": {
-      "A": "El contralor general de la República es designado por el Congreso.",
-      "B": "El contralor general de la República es designado por el presidente de la República.",
-      "C": "El contralor general de la República es designado por la Organización Internacional de Entidades Fiscalizadoras Superiores (INTOSAI).",
-      "D": "El contralor general de la República es designado por la Supreme Audit Institution (SAI)."
+      "A": "El contralor general de la Rep├║blica es designado por el Congreso.",
+      "B": "El contralor general de la Rep├║blica es designado por el presidente de la Rep├║blica.",
+      "C": "El contralor general de la Rep├║blica es designado por la Organizaci├│n Internacional de Entidades Fiscalizadoras Superiores (INTOSAI).",
+      "D": "El contralor general de la Rep├║blica es designado por la Supreme Audit Institution (SAI)."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 82 de la Constitución Política del Perú."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 82 de la Constituci├│n Pol├¡tica del Per├║."
   },
   {
     "id": 25,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto de la Contraloría General de la República, es correcto señalar que",
+    "pregunta": "Respecto de la Contralor├¡a General de la Rep├║blica, es correcto se├▒alar que",
     "opciones": {
-      "A": "es una entidad descentralizada de derecho público, que depende del Poder Ejecutivo.",
-      "B": "es el ente técnico rector del Sistema Nacional de Contabilidad.",
-      "C": "supervisa la legalidad de la ejecución del presupuesto del Estado, de las operaciones de la deuda pública y de los actos de las instituciones sujetas a control.",
-      "D": "el funcionario de mayor rango es el contador general de la República."
+      "A": "Es una entidad descentralizada de derecho p├║blico, que depende del Poder Ejecutivo.",
+      "B": "Es el ente t├®cnico rector del Sistema Nacional de Contabilidad.",
+      "C": "Supervisa la legalidad de la ejecuci├│n del presupuesto del Estado, de las operaciones de la deuda p├║blica y de los actos de las instituciones sujetas a control.",
+      "D": "El funcionario de mayor rango es el contador general de la Rep├║blica."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Artículo 82 de la Constitución Política del Perú."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 82 de la Constituci├│n Pol├¡tica del Per├║."
   },
   {
     "id": 26,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo al artículo 45º de la Ley Nº 27785 la Contraloría General de la República ejerce",
+    "pregunta": "De acuerdo al art├¡culo 45┬║ de la Ley N┬║ 27785 la Contralor├¡a General de la Rep├║blica ejerce",
     "opciones": {
-      "A": "el poder para sancionar por infracciones de ordenamiento jurídico.",
-      "B": "la potestad para sancionar por cuanto determina la responsabilidad administrativa funcional.",
-      "C": "la facultad para sancionar en materia de responsabilidad administrativa funcional.",
-      "D": "la jurisdicción para sancionar en materia procesal penal por infracción al control."
+      "A": "El poder para sancionar por infracciones de ordenamiento jur├¡dico.",
+      "B": "La potestad para sancionar por cuanto determina la responsabilidad administrativa funcional.",
+      "C": "La facultad para sancionar en materia de responsabilidad administrativa funcional.",
+      "D": "La jurisdicci├│n para sancionar en materia procesal penal por infracci├│n al control."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Capítulo VII del Título III (Artículo 45) de la Ley N° 27785 ? Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Cap├¡tulo VII del T├¡tulo III (Art├¡culo 45) de la Ley N┬░ 27785 ÔÇô Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 27,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El control gubernamental consiste en la supervisión, vigilancia y verificación de los actos y resultados de la gestión",
+    "pregunta": "El control gubernamental consiste en la supervisi├│n, vigilancia y verificaci├│n de los actos y resultados de la gesti├│n",
     "opciones": {
-      "A": "pública, en atención al grado de eficiencia, eficacia, transparencia y economía en el uso y destino de los recursos y bienes del Estado.",
-      "B": "pública y privada, en atención al grado de eficiencia, eficacia, transparencia y oportunidad en el uso y destino de los recursos y bienes del Estado.",
-      "C": "pública y privada, en atención al grado de eficiencia, eficacia, transparencia y economía en el uso y destino de los recursos y bienes del Estado.",
-      "D": "pública, para el cumplimiento de objetivos, metas, políticas por el uso y destino de los fondos y bienes del Estado."
+      "A": "P├║blica, en atenci├│n al grado de eficiencia, eficacia, transparencia y econom├¡a en el uso y destino de los recursos y bienes del Estado.",
+      "B": "P├║blica y privada, en atenci├│n al grado de eficiencia, eficacia, transparencia y oportunidad en el uso y destino de los recursos y bienes del Estado.",
+      "C": "P├║blica y privada, en atenci├│n al grado de eficiencia, eficacia, transparencia y econom├¡a en el uso y destino de los recursos y bienes del Estado.",
+      "D": "P├║blica, para el cumplimiento de objetivos, metas, pol├¡ticas por el uso y destino de los fondos y bienes del Estado."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República. Ley N° 27785. Artículo 6 Control Gubernamental"
+    "fundamento": "Referencia bibliogr├ífica: Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica. Ley N┬░ 27785. Art├¡culo 6 Control Gubernamental"
   },
   {
     "id": 28,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "El principio del debido proceso de control gubernamental",
     "opciones": {
-      "A": "supone la plena sujeción del proceso de control a la normativa constitucional, legal y reglamentaria aplicable a su actuación.",
-      "B": "por el cual las acciones de control se realizan sobre la base de una debida e imparcial evaluación de fundamentos de hecho y de derecho, evitando apreciaciones subjetivas.",
-      "C": "según el cual, salvo prueba en contrario, se reputa que las autoridades, funcionarios y servidores de las entidades, han actuado con arreglo a las normas legales y administrativas pertinentes.",
-      "D": "garantiza el respeto y observancia de los derechos de las entidades y personas, así como de las reglas y requisitos establecidos."
+      "A": "Supone la plena sujeci├│n del proceso de control a la normativa constitucional, legal y reglamentaria aplicable a su actuaci├│n.",
+      "B": "Por el cual las acciones de control se realizan sobre la base de una debida e imparcial evaluaci├│n de fundamentos de hecho y de derecho, evitando apreciaciones subjetivas.",
+      "C": "Seg├║n el cual, salvo prueba en contrario, se reputa que las autoridades, funcionarios y servidores de las entidades, han actuado con arreglo a las normas legales y administrativas pertinentes.",
+      "D": "Garantiza el respeto y observancia de los derechos de las entidades y personas, as├¡ como de las reglas y requisitos establecidos."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República. Ley N° 27785. Artículo 9 Literal g)"
+    "fundamento": "Referencia bibliogr├ífica: Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica. Ley N┬░ 27785. Art├¡culo 9 Literal g)"
   },
   {
     "id": 29,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "«Tiene como atribuciones absolver consultas, emitir pronunciamientos institucionales e interpretar la normativa del control gubernamental con carácter vinculante, y de ser el caso, orientador. Asimismo, establecerá mecanismos de orientación para los sujetos de control respecto a sus derechos, obligaciones, prohibiciones e incompatibilidades previstos en la normativa de control». El enunciado anterior hace referencia a atribuciones de",
+    "pregunta": "┬½Tiene como atribuciones absolver consultas, emitir pronunciamientos institucionales e interpretar la normativa del control gubernamental con car├ícter vinculante, y de ser el caso, orientador. Asimismo, establecer├í mecanismos de orientaci├│n para los sujetos de control respecto a sus derechos, obligaciones, prohibiciones e incompatibilidades previstos en la normativa de control┬╗. El enunciado anterior hace referencia a atribuciones de",
     "opciones": {
-      "A": "los Órganos de Control Institucional.",
-      "B": "la Contraloría General de la República.",
-      "C": "la Contraloría General de la República y los Órganos de Control Institucional.",
-      "D": "la Contraloría General de la República, los Órganos de Control Institucional y las Sociedades de Auditoría."
+      "A": "Los ├ôrganos de Control Institucional.",
+      "B": "La Contralor├¡a General de la Rep├║blica.",
+      "C": "La Contralor├¡a General de la Rep├║blica y los ├ôrganos de Control Institucional.",
+      "D": "La Contralor├¡a General de la Rep├║blica, los ├ôrganos de Control Institucional y las Sociedades de Auditor├¡a."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República. Ley N° 27785. Artículo 22. Atribuciones literal g)."
+    "fundamento": "Referencia bibliogr├ífica: Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica. Ley N┬░ 27785. Art├¡culo 22. Atribuciones literal g)."
   },
   {
     "id": 30,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con la Directiva N° 003-2021-CG/GJN, sobre Gestión de Documentos Normativos, aprobada por Resolución de Contraloría N° 010-2021- CG, indique qué documento normativo tiene carácter orientador y NO obligatorio.",
+    "pregunta": "De acuerdo con la Directiva N┬░ 003-2021-CG/GJN, sobre Gesti├│n de Documentos Normativos, aprobada por Resoluci├│n de Contralor├¡a N┬░ 010-2021- CG, indique qu├® documento normativo tiene car├ícter orientador y NO obligatorio.",
     "opciones": {
       "A": "Directiva",
       "B": "Procedimiento",
       "C": "Directriz",
-      "D": "Política"
+      "D": "Pol├¡tica"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Directiva N° 003-2021-CG/GJN, aprobada por Resolución de Contraloría N° 010-2021-CG. Documentos de gestión ? tipo de documentos."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 003-2021-CG/GJN, aprobada por Resoluci├│n de Contralor├¡a N┬░ 010-2021-CG. Documentos de gesti├│n ÔÇô tipo de documentos."
   },
   {
     "id": 31,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La oportunidad que abarca una o varias actividades de un proceso en curso, y cuya selección considera su relevancia para la realización del control concurrente o visita de control, según corresponda, se conoce como",
+    "pregunta": "La oportunidad que abarca una o varias actividades de un proceso en curso, y cuya selecci├│n considera su relevancia para la realizaci├│n del control concurrente o visita de control, seg├║n corresponda, se conoce como",
     "opciones": {
-      "A": "etapa.",
-      "B": "actividad.",
-      "C": "subproceso.",
-      "D": "hito de control."
+      "A": "Etapa.",
+      "B": "Actividad.",
+      "C": "Subproceso.",
+      "D": "Hito de control."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG/NORM Anexo 1 Numeral 6"
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG/NORM Anexo 1 Numeral 6"
   },
   {
     "id": 32,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En el marco del Sistema Nacional de Programación Multianual y Gestión de las Inversiones, el ciclo de inversiones comprende las siguientes fases:",
+    "pregunta": "En el marco del Sistema Nacional de Programaci├│n Multianual y Gesti├│n de las Inversiones, el ciclo de inversiones comprende las siguientes fases:",
     "opciones": {
-      "A": "Programación Multianual de Inversiones, formulación y evaluación, ejecución, y operación y mantenimiento.",
-      "B": "Programación Multianual de Inversiones, formulación y evaluación, ejecución y seguimiento, y operación y mantenimiento.",
-      "C": "Programación Multianual de Inversiones, formulación y evaluación, ejecución y funcionamiento.",
-      "D": "Programación Multianual de Inversiones, formulación y evaluación, ejecución y seguimiento, y monitoreo."
+      "A": "Programaci├│n Multianual de Inversiones, formulaci├│n y evaluaci├│n, ejecuci├│n, y operaci├│n y mantenimiento.",
+      "B": "Programaci├│n Multianual de Inversiones, formulaci├│n y evaluaci├│n, ejecuci├│n y seguimiento, y operaci├│n y mantenimiento.",
+      "C": "Programaci├│n Multianual de Inversiones, formulaci├│n y evaluaci├│n, ejecuci├│n y funcionamiento.",
+      "D": "Programaci├│n Multianual de Inversiones, formulaci├│n y evaluaci├│n, ejecuci├│n y seguimiento, y monitoreo."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto U.O. del DL N°1252 ? Art.4 ? 4.1"
+    "fundamento": "Referencia bibliogr├ífica: Texto U.O. del DL N┬░1252 ÔÇô Art.4 ÔÇô 4.1"
   },
   {
     "id": 33,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "Son principios que rigen el ejercicio del control gubernamental, EXCEPTO",
     "opciones": {
-      "A": "universalidad, carácter integral y autonomía funcional.",
-      "B": "eficiencia, eficacia y economía.",
-      "C": "materialidad, carácter selectivo del control y la presunción de licitud.",
-      "D": "taxatividad, discrecionalidad y veracidad."
+      "A": "Universalidad, car├ícter integral y autonom├¡a funcional.",
+      "B": "Eficiencia, eficacia y econom├¡a.",
+      "C": "Materialidad, car├ícter selectivo del control y la presunci├│n de licitud.",
+      "D": "Taxatividad, discrecionalidad y veracidad."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 9 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 9 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 34,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Marque la alternativa correcta acerca de la Contraloría General de la República.",
+    "pregunta": "Marque la alternativa correcta acerca de la Contralor├¡a General de la Rep├║blica.",
     "opciones": {
-      "A": "La Organización Internacional de Entidades Fiscalizadoras Superiores (INTOSAI), fiscaliza la gestión de la Contraloría General de la República de Perú.",
-      "B": "El Congreso de la República fiscaliza la gestión de la Contraloría General de la República.",
-      "C": "La Organización Latinoamericana y del Caribe de Entidades Fiscalizadoras Superiores (OLACEFS), fiscaliza la gestión de la Contraloría General de la República de Perú.",
-      "D": "El Poder Ejecutivo fiscaliza la gestión de la Contraloría General de la República."
+      "A": "La Organizaci├│n Internacional de Entidades Fiscalizadoras Superiores (INTOSAI), fiscaliza la gesti├│n de la Contralor├¡a General de la Rep├║blica de Per├║.",
+      "B": "El Congreso de la Rep├║blica fiscaliza la gesti├│n de la Contralor├¡a General de la Rep├║blica.",
+      "C": "La Organizaci├│n Latinoamericana y del Caribe de Entidades Fiscalizadoras Superiores (OLACEFS), fiscaliza la gesti├│n de la Contralor├¡a General de la Rep├║blica de Per├║.",
+      "D": "El Poder Ejecutivo fiscaliza la gesti├│n de la Contralor├¡a General de la Rep├║blica."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 25 de la Ley N° 27785 ? Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 25 de la Ley N┬░ 27785 ÔÇô Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 35,
@@ -449,592 +449,592 @@ const BANCO_PREGUNTAS = [
       "A": "El gobierno central",
       "B": "El Poder Legislativo",
       "C": "Gobiernos regionales",
-      "D": "Organismos autónomos creados por la Constitución Política del Estado"
+      "D": "Organismos aut├│nomos creados por la Constituci├│n Pol├¡tica del Estado"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 3 de la Ley N° 27785 ? Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 3 de la Ley N┬░ 27785 ÔÇô Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 36,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Es la actividad por la que el auditor obtiene evidencia suficiente y apropiada para llegar a una conclusión con el nivel de seguridad limitada. Esta definición corresponde a la",
+    "pregunta": "Es la actividad por la que el auditor obtiene evidencia suficiente y apropiada para llegar a una conclusi├│n con el nivel de seguridad limitada. Esta definici├│n corresponde a la",
     "opciones": {
-      "A": "obtención y desarrollo de la evidencia de la auditoría.",
-      "B": "aplicación de pruebas analíticas.",
-      "C": "obtención y valoración de la evidencia de auditoría.",
-      "D": "aplicación de pruebas de control."
+      "A": "Obtenci├│n y desarrollo de la evidencia de la auditor├¡a.",
+      "B": "Aplicaci├│n de pruebas anal├¡ticas.",
+      "C": "Obtenci├│n y valoraci├│n de la evidencia de auditor├¡a.",
+      "D": "Aplicaci├│n de pruebas de control."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: MAC. Numeral 8.2.3. ítem 102 aprobado por RC-001-2022- CG/NORM."
+    "fundamento": "Referencia bibliogr├ífica: MAC. Numeral 8.2.3. ├¡tem 102 aprobado por RC-001-2022- CG/NORM."
   },
   {
     "id": 37,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El proceso de la Auditoría de Cumplimiento se desarrolla en tres etapas, las cuales son la",
+    "pregunta": "El proceso de la Auditor├¡a de Cumplimiento se desarrolla en tres etapas, las cuales son la",
     "opciones": {
-      "A": "planificación, ejecución, evaluación y elaboración del informe.",
-      "B": "planificación, ejecución y elaboración del informe.",
-      "C": "evaluación del problema, ejecución y evaluación.",
-      "D": "observación, descripción y elaboración del informe."
+      "A": "Planificaci├│n, ejecuci├│n, evaluaci├│n y elaboraci├│n del informe.",
+      "B": "Planificaci├│n, ejecuci├│n y elaboraci├│n del informe.",
+      "C": "Evaluaci├│n del problema, ejecuci├│n y evaluaci├│n.",
+      "D": "Observaci├│n, descripci├│n y elaboraci├│n del informe."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva de Auditoría N° 001-2022-CG/NORM Numeral 6.6 ítem 33 del MAC."
+    "fundamento": "Referencia bibliogr├ífica: Directiva de Auditor├¡a N┬░ 001-2022-CG/NORM Numeral 6.6 ├¡tem 33 del MAC."
   },
   {
     "id": 38,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Según la Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, la acción de control es definida como",
+    "pregunta": "Seg├║n la Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica, la acci├│n de control es definida como",
     "opciones": {
-      "A": "el conjunto de políticas, normas, métodos y procedimientos técnicos, que compete aplicar a la Contraloría General u otro órgano del Sistema por encargo o designación de ésta, con el objeto de supervisar, vigilar y verificar la gestión, la captación y el uso de los recursos y bienes del Estado.",
-      "B": "la potestad de los órganos de control para organizarse y ejercer sus funciones con independencia técnica y libre de influencias.",
-      "C": "la potestad del control para concentrar su actuación en las transacciones y operaciones de mayor significación económica o relevancia en la entidad examinada.",
-      "D": "la herramienta esencial del Sistema, por la cual el personal técnico de sus órganos conformantes, mediante la aplicación de las normas, procedimientos y principios que regulan el control gubernamental, efectúa la verificación y evaluación, objetiva y sistemática, de los actos y resultados producidos por la entidad en la gestión y ejecución de los recursos, bienes y operaciones institucionales."
+      "A": "El conjunto de pol├¡ticas, normas, m├®todos y procedimientos t├®cnicos, que compete aplicar a la Contralor├¡a General u otro ├│rgano del Sistema por encargo o designaci├│n de ├®sta, con el objeto de supervisar, vigilar y verificar la gesti├│n, la captaci├│n y el uso de los recursos y bienes del Estado.",
+      "B": "La potestad de los ├│rganos de control para organizarse y ejercer sus funciones con independencia t├®cnica y libre de influencias.",
+      "C": "La potestad del control para concentrar su actuaci├│n en las transacciones y operaciones de mayor significaci├│n econ├│mica o relevancia en la entidad examinada.",
+      "D": "La herramienta esencial del Sistema, por la cual el personal t├®cnico de sus ├│rganos conformantes, mediante la aplicaci├│n de las normas, procedimientos y principios que regulan el control gubernamental, efect├║a la verificaci├│n y evaluaci├│n, objetiva y sistem├ítica, de los actos y resultados producidos por la entidad en la gesti├│n y ejecuci├│n de los recursos, bienes y operaciones institucionales."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 10 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 10 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 39,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto a la revisión de oficio de los Informes de Control, marque el enunciado INCORRECTO.",
+    "pregunta": "Respecto a la revisi├│n de oficio de los Informes de Control, marque el enunciado INCORRECTO.",
     "opciones": {
-      "A": "Los Informes de Control pueden ser revisados de oficio por la Contraloría General.",
-      "B": "La revisión de oficio de los Informes de Control implica, entre otros aspectos, verificar que no se haya interpuesto contra ellos recurso impugnatorio alguno.",
-      "C": "Las instrucciones dadas en el marco de la revisión de oficio son precisas y están dirigidas a que se superen las deficiencias identificadas en el Informe de Control.",
-      "D": "Las disposiciones específicas referidas al proceso de revisión de oficio se encuentran contenidas en la Directiva N° 014-2022-CG/GJNC, Revisión de Oficio de Informes de Control."
+      "A": "Los Informes de Control pueden ser revisados de oficio por la Contralor├¡a General.",
+      "B": "La revisi├│n de oficio de los Informes de Control implica, entre otros aspectos, verificar que no se haya interpuesto contra ellos recurso impugnatorio alguno.",
+      "C": "Las instrucciones dadas en el marco de la revisi├│n de oficio son precisas y est├ín dirigidas a que se superen las deficiencias identificadas en el Informe de Control.",
+      "D": "Las disposiciones espec├¡ficas referidas al proceso de revisi├│n de oficio se encuentran contenidas en la Directiva N┬░ 014-2022-CG/GJNC, Revisi├│n de Oficio de Informes de Control."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 24 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 24 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 40,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La directiva de auditoría de cumplimiento es de observancia obligatoria para el personal de las unidades orgánicas de la Contraloría General de la República,",
+    "pregunta": "La directiva de auditor├¡a de cumplimiento es de observancia obligatoria para el personal de las unidades org├ínicas de la Contralor├¡a General de la Rep├║blica,",
     "opciones": {
-      "A": "los órganos de control institucional y las sociedades de auditoría.",
-      "B": "los órganos de control institucional y las sociedades de auditoría, y los que presten servicio en la Contraloría bajo la modalidad contractual CAS.",
-      "C": "los órganos de control institucional incorporados y las sociedades de auditoría, y los que presten servicio en la Contraloría bajo cualquier modalidad contractual.",
-      "D": "los órganos de control institucional y las sociedades de auditoría designadas y contratadas por la CGR."
+      "A": "Los ├│rganos de control institucional y las sociedades de auditor├¡a.",
+      "B": "Los ├│rganos de control institucional y las sociedades de auditor├¡a, y los que presten servicio en la Contralor├¡a bajo la modalidad contractual CAS.",
+      "C": "Los ├│rganos de control institucional incorporados y las sociedades de auditor├¡a, y los que presten servicio en la Contralor├¡a bajo cualquier modalidad contractual.",
+      "D": "Los ├│rganos de control institucional y las sociedades de auditor├¡a designadas y contratadas por la CGR."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva 001-2022-CG/NORM Numeral 3."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 001-2022-CG/NORM Numeral 3."
   },
   {
     "id": 41,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Indique la alternativa cuya afirmación describe de manera más adecuada las características que tenía el mercado laboral peruano antes del inicio de la situación de emergencia sanitaria producida en la pandemia de la COVID-19.",
+    "pregunta": "Indique la alternativa cuya afirmaci├│n describe de manera m├ís adecuada las caracter├¡sticas que ten├¡a el mercado laboral peruano antes del inicio de la situaci├│n de emergencia sanitaria producida en la pandemia de la COVID-19.",
     "opciones": {
-      "A": "Alrededor del 73 % de la población económicamente activa (PEA) laboraba de manera informal, sin acceso a derechos laborales.",
-      "B": "La mayoría de la PEA trabajaba en empresas formales que ofrecían beneficios laborales a sus colaboradores.",
-      "C": "Alrededor del 70 % de la PEA trabajaba en grandes empresas del sector moderno de la economía nacional.",
-      "D": "Los sectores económicos con mayor demanda de mano de obra eran los de minería, pesquería y construcción. Solución: El sector mayoritario de la PEA (alrededor del 73 %) trabajaba de manera informal, sea como autoempleados, sea en empresas informales o, de manera precaria, en el sector formal. En ninguno de esos casos, los trabajadores disfrutan de derechos laborales."
+      "A": "Alrededor del 73 % de la poblaci├│n econ├│micamente activa (PEA) laboraba de manera informal, sin acceso a derechos laborales.",
+      "B": "La mayor├¡a de la PEA trabajaba en empresas formales que ofrec├¡an beneficios laborales a sus colaboradores.",
+      "C": "Alrededor del 70 % de la PEA trabajaba en grandes empresas del sector moderno de la econom├¡a nacional.",
+      "D": "Los sectores econ├│micos con mayor demanda de mano de obra eran los de miner├¡a, pesquer├¡a y construcci├│n. Soluci├│n: El sector mayoritario de la PEA (alrededor del 73 %) trabajaba de manera informal, sea como autoempleados, sea en empresas informales o, de manera precaria, en el sector formal. En ninguno de esos casos, los trabajadores disfrutan de derechos laborales."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Texto Integrado de la Ley N° 27785 artículo 12."
+    "fundamento": "Referencia bibliogr├ífica: Texto Integrado de la Ley N┬░ 27785 art├¡culo 12."
   },
   {
     "id": 42,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "A fin de comprender la entidad, su entorno y la materia de control, la comisión auditora debe",
+    "pregunta": "A fin de comprender la entidad, su entorno y la materia de control, la comisi├│n auditora debe",
     "opciones": {
-      "A": "valorar los riesgos de control y conocer la labor realizada por el órgano de control institucional de la dependencia.",
-      "B": "determinar la materialidad e impacto, evaluar los riesgos de control e identificar a los funcionarios y personal claves.",
-      "C": "determinar la materialidad, conocer los elementos del ambiente de control, analizar si la entidad implementó un sistema de gestión de riesgos, valorar los riesgos de auditoría, entre otros.",
-      "D": "determinar la materialidad e importancia, evaluar los elementos de la cultura de integridad, analizar la implementación de políticas de administración de riesgos y mapa de riesgos y conocer la labor del OCI."
+      "A": "Valorar los riesgos de control y conocer la labor realizada por el ├│rgano de control institucional de la dependencia.",
+      "B": "Determinar la materialidad e impacto, evaluar los riesgos de control e identificar a los funcionarios y personal claves.",
+      "C": "Determinar la materialidad, conocer los elementos del ambiente de control, analizar si la entidad implement├│ un sistema de gesti├│n de riesgos, valorar los riesgos de auditor├¡a, entre otros.",
+      "D": "Determinar la materialidad e importancia, evaluar los elementos de la cultura de integridad, analizar la implementaci├│n de pol├¡ticas de administraci├│n de riesgos y mapa de riesgos y conocer la labor del OCI."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: MAC numeral 69."
+    "fundamento": "Referencia bibliogr├ífica: MAC numeral 69."
   },
   {
     "id": 43,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En el año 2018, estalló un escándalo que involucró a altas autoridades del sistema de justicia en casos de corrupción. Una medida que se tomó para afrontar esta grave coyuntura fue crear una institución encargada de nombrar, ratificar y destituir a los jueces y fiscales de todos los niveles de la administración de justicia. El nombre de esta es",
+    "pregunta": "En el a├▒o 2018, estall├│ un esc├índalo que involucr├│ a altas autoridades del sistema de justicia en casos de corrupci├│n. Una medida que se tom├│ para afrontar esta grave coyuntura fue crear una instituci├│n encargada de nombrar, ratificar y destituir a los jueces y fiscales de todos los niveles de la administraci├│n de justicia. El nombre de esta es",
     "opciones": {
       "A": "Consejo Nacional por la Justicia.",
       "B": "Junta Nacional de Justicia.",
-      "C": "Comisión de Reforma del Sistema de Justicia.",
-      "D": "Oficina de Control de la Magistratura. Solución: En el 2019 se creó la Junta Nacional de Justicia (JNJ) como respuesta a los casos de corrupción que involucró a autoridades del sistema de justicia. La JNJ, encargada nombrar, ratificar y destituir a los jueces y fiscales, reemplazó al Consejo Nacional de la Magistratura. Su creación debía iniciar una profunda transformación del sistema judicial."
+      "C": "Comisi├│n de Reforma del Sistema de Justicia.",
+      "D": "Oficina de Control de la Magistratura. Soluci├│n: En el 2019 se cre├│ la Junta Nacional de Justicia (JNJ) como respuesta a los casos de corrupci├│n que involucr├│ a autoridades del sistema de justicia. La JNJ, encargada nombrar, ratificar y destituir a los jueces y fiscales, reemplaz├│ al Consejo Nacional de la Magistratura. Su creaci├│n deb├¡a iniciar una profunda transformaci├│n del sistema judicial."
     },
     "correcta": "B",
-    "fundamento": "Solución: En el 2019, se creó la Junta Nacional de Justicia (JNJ) como respuesta a los casos de corrupción que involucró a autoridades del sistema de justicia. La JNJ, encargada nombrar, ratificar y destituir a los jueces y fiscales, reemplazó al Consejo Nacional de la Magistratura. Su creación debía iniciar una profunda transformación del sistema judicial."
+    "fundamento": "Soluci├│n: En el 2019, se cre├│ la Junta Nacional de Justicia (JNJ) como respuesta a los casos de corrupci├│n que involucr├│ a autoridades del sistema de justicia. La JNJ, encargada nombrar, ratificar y destituir a los jueces y fiscales, reemplaz├│ al Consejo Nacional de la Magistratura. Su creaci├│n deb├¡a iniciar una profunda transformaci├│n del sistema judicial."
   },
   {
     "id": 44,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En relación con la Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, la acción de control es definida como",
+    "pregunta": "En relaci├│n con la Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica, la acci├│n de control es definida como",
     "opciones": {
-      "A": "la herramienta esencial del Sistema, por la cual el personal técnico de sus órganos conformantes, mediante la aplicación de las normas, procedimientos y principios que regulan el control gubernamental, efectúa la verificación y evaluación, objetiva y sistemática, de los actos y resultados producidos por la entidad en la gestión y ejecución de los recursos, bienes y operaciones institucionales.",
-      "B": "el conjunto de políticas, normas, métodos y procedimientos técnicos, que compete aplicar a la Contraloría General u otro órgano del Sistema por encargo o designación de ésta, con el objeto de supervisar, vigilar y verificar la gestión, la captación y el uso de los recursos y bienes del Estado.",
-      "C": "la potestad de los órganos de control para organizarse y ejercer sus funciones con independencia técnica y libre de influencias.",
-      "D": "la potestad del control para concentrar su actuación en las transacciones y operaciones de mayor significación económica o relevancia en la entidad examinada."
+      "A": "La herramienta esencial del Sistema, por la cual el personal t├®cnico de sus ├│rganos conformantes, mediante la aplicaci├│n de las normas, procedimientos y principios que regulan el control gubernamental, efect├║a la verificaci├│n y evaluaci├│n, objetiva y sistem├ítica, de los actos y resultados producidos por la entidad en la gesti├│n y ejecuci├│n de los recursos, bienes y operaciones institucionales.",
+      "B": "El conjunto de pol├¡ticas, normas, m├®todos y procedimientos t├®cnicos, que compete aplicar a la Contralor├¡a General u otro ├│rgano del Sistema por encargo o designaci├│n de ├®sta, con el objeto de supervisar, vigilar y verificar la gesti├│n, la captaci├│n y el uso de los recursos y bienes del Estado.",
+      "C": "La potestad de los ├│rganos de control para organizarse y ejercer sus funciones con independencia t├®cnica y libre de influencias.",
+      "D": "La potestad del control para concentrar su actuaci├│n en las transacciones y operaciones de mayor significaci├│n econ├│mica o relevancia en la entidad examinada."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 10 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 10 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 45,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La Ley No 27806, Ley de transparencia y acceso a la información pública, tiene como finalidad",
+    "pregunta": "La Ley No 27806, Ley de transparencia y acceso a la informaci├│n p├║blica, tiene como finalidad",
     "opciones": {
-      "A": "promover la transparencia en el Poder Legislativo.",
-      "B": "promover la transparencia de los actos del Estado y regular el derecho fundamental del acceso a la información.",
-      "C": "promover la transparencia en el sector público.",
-      "D": "promover la transparencia en los gobiernos regionales."
+      "A": "Promover la transparencia en el Poder Legislativo.",
+      "B": "Promover la transparencia de los actos del Estado y regular el derecho fundamental del acceso a la informaci├│n.",
+      "C": "Promover la transparencia en el sector p├║blico.",
+      "D": "Promover la transparencia en los gobiernos regionales."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Ley Nº 27806, Ley de transparencia y acceso a la información pública."
+    "fundamento": "Referencia bibliogr├ífica: Ley N┬║ 27806, Ley de transparencia y acceso a la informaci├│n p├║blica."
   },
   {
     "id": 46,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El Sistema Nacional de Control está compuesto por",
+    "pregunta": "El Sistema Nacional de Control est├í compuesto por",
     "opciones": {
-      "A": "la CGR y los OCI.",
-      "B": "la CGR, los OCI y las sociedades auditoras.",
-      "C": "los OCI y las sociedades auditoras.",
-      "D": "la CGR y los órganos de control."
+      "A": "La CGR y los OCI.",
+      "B": "La CGR, los OCI y las sociedades auditoras.",
+      "C": "Los OCI y las sociedades auditoras.",
+      "D": "La CGR y los ├│rganos de control."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Ley 27785, Tìtulo II, Cap. I Concepto y conformación del SNC, art. 13. D. S. N° 040-2006-EF, art. 10. R. N° 063-2007-CG, art. 3"
+    "fundamento": "Referencia bibliogr├ífica: Ley 27785, T├¼tulo II, Cap. I Concepto y conformaci├│n del SNC, art. 13. D. S. N┬░ 040-2006-EF, art. 10. R. N┬░ 063-2007-CG, art. 3"
   },
   {
     "id": 47,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Marque la alternativa que corresponde al principio de control gubernamental entendido como la potestad de los órganos de control para efectuar, con arreglo a su competencia y atribuciones, el control sobre todas las actividades de la respectiva entidad, así como de todos sus funcionarios y servidores, cualquiera fuere su jerarquía.",
+    "pregunta": "Marque la alternativa que corresponde al principio de control gubernamental entendido como la potestad de los ├│rganos de control para efectuar, con arreglo a su competencia y atribuciones, el control sobre todas las actividades de la respectiva entidad, as├¡ como de todos sus funcionarios y servidores, cualquiera fuere su jerarqu├¡a.",
     "opciones": {
-      "A": "Autonomía",
+      "A": "Autonom├¡a",
       "B": "Integridad",
       "C": "Universalidad",
       "D": "Permanencia"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República. Ley N° 27785. Artículo 9"
+    "fundamento": "Referencia bibliogr├ífica: Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica. Ley N┬░ 27785. Art├¡culo 9"
   },
   {
     "id": 48,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "_______________ propone al contralor general de la República, funcionario de mayor rango del sistema, quien goza de los mismos derechos, prerrogativas y preeminencias propias de un ministro de Estado, y que ocupa el cargo por un periodo de siete (7) años. Complete el espacio del enunciado anterior.",
+    "pregunta": "_______________ propone al contralor general de la Rep├║blica, funcionario de mayor rango del sistema, quien goza de los mismos derechos, prerrogativas y preeminencias propias de un ministro de Estado, y que ocupa el cargo por un periodo de siete (7) a├▒os. Complete el espacio del enunciado anterior.",
     "opciones": {
-      "A": "La Comisión Permanente del Congreso de la República",
-      "B": "El presidente de la República",
-      "C": "El fiscal de la nación",
+      "A": "La Comisi├│n Permanente del Congreso de la Rep├║blica",
+      "B": "El presidente de la Rep├║blica",
+      "C": "El fiscal de la naci├│n",
       "D": "El presidente del Consejo de ministros"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículos 82 y 101 de la Constitución Política del Perú y artículos 26 y 27 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República y sus modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culos 82 y 101 de la Constituci├│n Pol├¡tica del Per├║ y art├¡culos 26 y 27 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica y sus modificatorias."
   },
   {
     "id": 49,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con la Ley N° 27444, Ley del Procedimiento Administrativo General, los principios del procedimiento administrativo son los siguientes:",
+    "pregunta": "De acuerdo con la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, los principios del procedimiento administrativo son los siguientes:",
     "opciones": {
-      "A": "non bis in idem, irretroactividad y concurso de infracciones.",
-      "B": "imparcialidad, buena fe procedimental y predictibilidad o confianza legítima.",
-      "C": "publicidad, reserva y flexibilidad.",
-      "D": "congruencia, intimación y transparencia."
+      "A": "Non bis in idem, irretroactividad y concurso de infracciones.",
+      "B": "Imparcialidad, buena fe procedimental y predictibilidad o confianza leg├¡tima.",
+      "C": "Publicidad, reserva y flexibilidad.",
+      "D": "Congruencia, intimaci├│n y transparencia."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: artículo IV. del Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado con Decreto Supremo N° 004-2019-JUS"
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo IV. del Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, aprobado con Decreto Supremo N┬░ 004-2019-JUS"
   },
   {
     "id": 50,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con el Sistema Nacional de Programación Multianual y Gestión de Inversiones, el presente decreto __________ y sus normas reglamentarias y complementarias son de aplicación obligatoria a las entidades del sector público no financiero a que se refiere la Ley N° 30099, Ley de Fortalecimiento de la Responsabilidad y Transparencia Fiscal.",
+    "pregunta": "De acuerdo con el Sistema Nacional de Programaci├│n Multianual y Gesti├│n de Inversiones, el presente decreto __________ y sus normas reglamentarias y complementarias son de aplicaci├│n obligatoria a las entidades del sector p├║blico no financiero a que se refiere la Ley N┬░ 30099, Ley de Fortalecimiento de la Responsabilidad y Transparencia Fiscal.",
     "opciones": {
-      "A": "gubernamental",
-      "B": "ejecutivo",
-      "C": "legislativo",
-      "D": "judicial"
+      "A": "Gubernamental",
+      "B": "Ejecutivo",
+      "C": "Legislativo",
+      "D": "Judicial"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: DL 1252 Ley Invierte.PE., Capítulo l, Del Sistema Nacional de Programación Multianual y Gestión de Inversiones, Artículo 2, Ámbito de aplicación."
+    "fundamento": "Referencia bibliogr├ífica: DL 1252 Ley Invierte.PE., Cap├¡tulo l, Del Sistema Nacional de Programaci├│n Multianual y Gesti├│n de Inversiones, Art├¡culo 2, ├ümbito de aplicaci├│n."
   },
   {
     "id": 51,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con la Ley N° 27444, Ley del Procedimiento Administrativo General, son principios del procedimiento administrativo",
+    "pregunta": "De acuerdo con la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, son principios del procedimiento administrativo",
     "opciones": {
-      "A": "el non bis in idem, la irretroactividad y el concurso de infracciones.",
-      "B": "la publicidad, la reserva y la flexibilidad.",
-      "C": "la congruencia, la intimación y la transparencia.",
-      "D": "la imparcialidad, la buena fe procedimental, y la predictibilidad o confianza legítima."
+      "A": "El non bis in idem, la irretroactividad y el concurso de infracciones.",
+      "B": "La publicidad, la reserva y la flexibilidad.",
+      "C": "La congruencia, la intimaci├│n y la transparencia.",
+      "D": "La imparcialidad, la buena fe procedimental, y la predictibilidad o confianza leg├¡tima."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 4. del Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado con Decreto Supremo N° 004-2019-JUS."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 4. del Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, aprobado con Decreto Supremo N┬░ 004-2019-JUS."
   },
   {
     "id": 52,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El Sistema Nacional de Programación Multianual y Gestión de Inversiones, a través de su ente rector, mantiene coordinación e interrelación con los __________ para cumplir su finalidad y asegurar la adecuada coherencia normativa y administrativa.",
+    "pregunta": "El Sistema Nacional de Programaci├│n Multianual y Gesti├│n de Inversiones, a trav├®s de su ente rector, mantiene coordinaci├│n e interrelaci├│n con los __________ para cumplir su finalidad y asegurar la adecuada coherencia normativa y administrativa.",
     "opciones": {
-      "A": "sistemas de inversión",
-      "B": "sistemas administrativos",
-      "C": "sistemas de gestión",
-      "D": "sistemas normativos"
+      "A": "Sistemas de inversi├│n",
+      "B": "Sistemas administrativos",
+      "C": "Sistemas de gesti├│n",
+      "D": "Sistemas normativos"
     },
     "correcta": "B",
-    "fundamento": "Referencia Bibliográfica: Decreto Legislativo N° 1252, Capítulo ll, De la integración Intersistemática, Artículo 7. De las relaciones con otros sistemas administrativos."
+    "fundamento": "Referencia Bibliogr├ífica: Decreto Legislativo N┬░ 1252, Cap├¡tulo ll, De la integraci├│n Intersistem├ítica, Art├¡culo 7. De las relaciones con otros sistemas administrativos."
   },
   {
     "id": 53,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "__________ ejerce la potestad para sancionar por cuanto determina la responsabilidad administrativa funcional e impone una sanción derivada de los informes de control emitidos por los órganos del sistema.",
+    "pregunta": "__________ ejerce la potestad para sancionar por cuanto determina la responsabilidad administrativa funcional e impone una sanci├│n derivada de los informes de control emitidos por los ├│rganos del sistema.",
     "opciones": {
-      "A": "El Ministerio de Economía",
-      "B": "La Contraloría General de la República",
+      "A": "El Ministerio de Econom├¡a",
+      "B": "La Contralor├¡a General de la Rep├║blica",
       "C": "El Sistema Nacional de Control",
-      "D": "El Ministerio Público"
+      "D": "El Ministerio P├║blico"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículo 45°, de la Ley N.° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República y sus modificatorias. Artículo 45. Competencia de la Contraloría General."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culo 45┬░, de la Ley N.┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica y sus modificatorias. Art├¡culo 45. Competencia de la Contralor├¡a General."
   },
   {
     "id": 54,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "De acuerdo con los requisitos para ser miembro del Tribunal Superior de Responsabilidades Administrativas, ¿qué requisito NO corresponde?",
+    "pregunta": "De acuerdo con los requisitos para ser miembro del Tribunal Superior de Responsabilidades Administrativas, ┬┐qu├® requisito NO corresponde?",
     "opciones": {
-      "A": "Contar con título profesional y colegiatura habilitada",
-      "B": "No tener filiación política alguna",
-      "C": "Contar, de preferencia, con estudios de especialización en el ámbito de su profesión.",
-      "D": "Ser mayor de 35 años"
+      "A": "Contar con t├¡tulo profesional y colegiatura habilitada",
+      "B": "No tener filiaci├│n pol├¡tica alguna",
+      "C": "Contar, de preferencia, con estudios de especializaci├│n en el ├ímbito de su profesi├│n.",
+      "D": "Ser mayor de 35 a├▒os"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículo 57, de la Ley N.° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República y sus modificatorias. Artículo 57. Requisitos para ser miembro del Tribunal Superior de Responsabilidades Administrativas."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culo 57, de la Ley N.┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica y sus modificatorias. Art├¡culo 57. Requisitos para ser miembro del Tribunal Superior de Responsabilidades Administrativas."
   },
   {
     "id": 55,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Cuando la Ley N.° 27785 señala: «(?) conjunto de órganos de control, normas, métodos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada», se refiere",
+    "pregunta": "Cuando la Ley N.┬░ 27785 se├▒ala: ┬½(ÔÇª) conjunto de ├│rganos de control, normas, m├®todos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada┬╗, se refiere",
     "opciones": {
-      "A": "a la Contraloría.",
-      "B": "a los órganos de control institucional.",
-      "C": "al Sistema Nacional de Defensa Jurídica.",
-      "D": "al Sistema Nacional de Control."
+      "A": "A la Contralor├¡a.",
+      "B": "A los ├│rganos de control institucional.",
+      "C": "Al Sistema Nacional de Defensa Jur├¡dica.",
+      "D": "Al Sistema Nacional de Control."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Texto Integrado de la Ley N° 27785, artículo 12"
+    "fundamento": "Referencia bibliogr├ífica: Texto Integrado de la Ley N┬░ 27785, art├¡culo 12"
   },
   {
     "id": 56,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Son fases del ciclo de inversión.",
+    "pregunta": "Son fases del ciclo de inversi├│n.",
     "opciones": {
-      "A": "Programación multianual de inversiones, formulación y evaluación, ejecución y funcionamiento",
-      "B": "Formulación, ejecución, operación y mantenimiento",
-      "C": "Programación, formulación, operación y mantenimiento",
-      "D": "Programación, ejecución, operación y mantenimiento"
+      "A": "Programaci├│n multianual de inversiones, formulaci├│n y evaluaci├│n, ejecuci├│n y funcionamiento",
+      "B": "Formulaci├│n, ejecuci├│n, operaci├│n y mantenimiento",
+      "C": "Programaci├│n, formulaci├│n, operaci├│n y mantenimiento",
+      "D": "Programaci├│n, ejecuci├│n, operaci├│n y mantenimiento"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 4.1 del artículo 4. Fases del ciclo de inversión Decreto Legislativo N° 1252, Decreto legislativo que crea el Sistema Nacional y Gestión de Inversiones."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 4.1 del art├¡culo 4. Fases del ciclo de inversi├│n Decreto Legislativo N┬░ 1252, Decreto legislativo que crea el Sistema Nacional y Gesti├│n de Inversiones."
   },
   {
     "id": 57,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El plazo para la elaboración y aprobación del plan de visita de control es de hasta _______ días ________ después de iniciada la etapa de planificación.",
+    "pregunta": "El plazo para la elaboraci├│n y aprobaci├│n del plan de visita de control es de hasta _______ d├¡as ________ despu├®s de iniciada la etapa de planificaci├│n.",
     "opciones": {
-      "A": "cinco (5) ? hábiles",
-      "B": "dos (2) ? calendario",
-      "C": "tres (3) ? hábiles",
-      "D": "dos (2) ? hábiles"
+      "A": "Cinco (5) ÔÇô h├íbiles",
+      "B": "Dos (2) ÔÇô calendario",
+      "C": "Tres (3) ÔÇô h├íbiles",
+      "D": "Dos (2) ÔÇô h├íbiles"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva N° 013-2022-CG/NORM. Servicio de Control Simultáneo."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 013-2022-CG/NORM. Servicio de Control Simult├íneo."
   },
   {
     "id": 58,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "¿Cuál NO es un requisito para ser Contralor de la República?",
+    "pregunta": "┬┐Cu├íl NO es un requisito para ser Contralor de la Rep├║blica?",
     "opciones": {
       "A": "Peruano de nacimiento",
       "B": "Gozar del pleno ejercicio de los derechos civiles",
-      "C": "Tener, al tiempo de la designación, no menos de 35 años de edad",
-      "D": "Tener título profesional universitario y estar habilitado por el colegio profesional correspondiente"
+      "C": "Tener, al tiempo de la designaci├│n, no menos de 35 a├▒os de edad",
+      "D": "Tener t├¡tulo profesional universitario y estar habilitado por el colegio profesional correspondiente"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículo 28 de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República y sus modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culo 28 de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica y sus modificatorias."
   },
   {
     "id": 59,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "¿Quién fiscaliza a la Contraloría General de la República?",
+    "pregunta": "┬┐Qui├®n fiscaliza a la Contralor├¡a General de la Rep├║blica?",
     "opciones": {
-      "A": "El Ministerio Público",
-      "B": "El Congreso de la República",
-      "C": "La Fiscalía de la Nación",
+      "A": "El Ministerio P├║blico",
+      "B": "El Congreso de la Rep├║blica",
+      "C": "La Fiscal├¡a de la Naci├│n",
       "D": "La Presidencia del Consejo de Ministros"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículo 25 de la de la Ley N° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República y sus modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culo 25 de la de la Ley N┬░ 27785, Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica y sus modificatorias."
   },
   {
     "id": 60,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Es el funcionario de mayor jerarquía del Sistema de Control, que goza de los mismos derechos, prerrogativas y preeminencias propias de un ministro de Estado.",
+    "pregunta": "Es el funcionario de mayor jerarqu├¡a del Sistema de Control, que goza de los mismos derechos, prerrogativas y preeminencias propias de un ministro de Estado.",
     "opciones": {
-      "A": "El contralor general de la República",
-      "B": "El presidente de la República",
-      "C": "El congresista de la República",
-      "D": "El ministro de Economía y Finanzas"
+      "A": "El contralor general de la Rep├║blica",
+      "B": "El presidente de la Rep├║blica",
+      "C": "El congresista de la Rep├║blica",
+      "D": "El ministro de Econom├¡a y Finanzas"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 27 de la Ley No 27785."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 27 de la Ley No 27785."
   },
   {
     "id": 61,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "¿Quién se encarga de fiscalizar la gestión de la Contraloría General de la República?",
+    "pregunta": "┬┐Qui├®n se encarga de fiscalizar la gesti├│n de la Contralor├¡a General de la Rep├║blica?",
     "opciones": {
-      "A": "El presidente de la República",
+      "A": "El presidente de la Rep├║blica",
       "B": "El presidente del consejo de ministros",
-      "C": "El Congreso de la República",
+      "C": "El Congreso de la Rep├║blica",
       "D": "El contralor general"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Artículo 25 de la Ley No 27785."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 25 de la Ley No 27785."
   },
   {
     "id": 62,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En el desempeño de su gestión, el contralor general de la República se encuentra facultado para",
+    "pregunta": "En el desempe├▒o de su gesti├│n, el contralor general de la Rep├║blica se encuentra facultado para",
     "opciones": {
-      "A": "gestionar la selección del personal.",
-      "B": "sancionar.",
-      "C": "coordinar con la presidencia de la República.",
-      "D": "planear, aprobar, dirigir, coordinar y supervisar las acciones de la Contraloría General y de los órganos del sistema."
+      "A": "Gestionar la selecci├│n del personal.",
+      "B": "Sancionar.",
+      "C": "Coordinar con la presidencia de la Rep├║blica.",
+      "D": "Planear, aprobar, dirigir, coordinar y supervisar las acciones de la Contralor├¡a General y de los ├│rganos del sistema."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 32 de la Ley 27785"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 32 de la Ley 27785"
   },
   {
     "id": 63,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "¿Qué alternativa presenta solo funciones del Comité de Gobierno Digital?",
+    "pregunta": "┬┐Qu├® alternativa presenta solo funciones del Comit├® de Gobierno Digital?",
     "opciones": {
-      "A": "Promover y gestionar la implementación de estándares y buenas prácticas en gestión y gobierno de tecnologías digitales, interoperabilidad, seguridad digital, identidad digital y datos en la entidad.",
-      "B": "Revisar el Plan de Gobierno Digital en coordinación con las unidades orgánicas, programas y/o proyectos de la entidad.",
-      "C": "Ejecutar los programas de cumplimiento en el marco de la normatividad relacionada con la implementación del gobierno digital.",
+      "A": "Promover y gestionar la implementaci├│n de est├índares y buenas pr├ícticas en gesti├│n y gobierno de tecnolog├¡as digitales, interoperabilidad, seguridad digital, identidad digital y datos en la entidad.",
+      "B": "Revisar el Plan de Gobierno Digital en coordinaci├│n con las unidades org├ínicas, programas y/o proyectos de la entidad.",
+      "C": "Ejecutar los programas de cumplimiento en el marco de la normatividad relacionada con la implementaci├│n del gobierno digital.",
       "D": "Coordinar con la Gerencia de gobierno digital de la entidad."
     },
     "correcta": "A",
-    "fundamento": "Referencia Bibliográfica: Aprueban disposiciones sobre la conformación y funciones del Comité de Gobierno Digital Resolución Ministerial N° 087-2019- PCM. Artículo 2"
+    "fundamento": "Referencia Bibliogr├ífica: Aprueban disposiciones sobre la conformaci├│n y funciones del Comit├® de Gobierno Digital Resoluci├│n Ministerial N┬░ 087-2019- PCM. Art├¡culo 2"
   },
   {
     "id": 64,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "¿Cuál de los siguientes enunciados NO es una atribución de los entes rectores de los sistemas administrativos?",
+    "pregunta": "┬┐Cu├íl de los siguientes enunciados NO es una atribuci├│n de los entes rectores de los sistemas administrativos?",
     "opciones": {
-      "A": "Supervisar y dar seguimiento a la aplicación de la normatividad de los procesos técnicos de los sistemas administrativos.",
-      "B": "Emitir opinión no vinculante sobre la materia del sistema administrativo.",
-      "C": "Capacitar y difundir la normatividad del sistema en la administración pública.",
-      "D": "Llevar registros y producir información relevante de manera actualizada y oportuna."
+      "A": "Supervisar y dar seguimiento a la aplicaci├│n de la normatividad de los procesos t├®cnicos de los sistemas administrativos.",
+      "B": "Emitir opini├│n no vinculante sobre la materia del sistema administrativo.",
+      "C": "Capacitar y difundir la normatividad del sistema en la administraci├│n p├║blica.",
+      "D": "Llevar registros y producir informaci├│n relevante de manera actualizada y oportuna."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 47 de la Ley Orgánica del Poder Ejecutivo ? Ley Nº 2915"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 47 de la Ley Org├ínica del Poder Ejecutivo ÔÇô Ley N┬║ 2915"
   },
   {
     "id": 65,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Marque los criterios para la Programación Multianual de Inversiones (PMI).",
+    "pregunta": "Marque los criterios para la Programaci├│n Multianual de Inversiones (PMI).",
     "opciones": {
-      "A": "Planificación, cierre de brechas, coordinación intergubernamental, sostenibilidad y oportunidad en la entrega de los servicios a la población beneficiaria",
-      "B": "Cierre de brechas prioritarias, coordinación intra e intergubernamental, sostenibilidad y oportunidad en la entrega de los servicios a la población beneficiaria",
-      "C": "Cierre de brechas prioritarias, articulación territorial, coordinación intra e intergubernamental y sostenibilidad",
-      "D": "Cierre de brechas prioritarias, coordinación intra e intergubernamental, sostenibilidad y migración de inversiones"
+      "A": "Planificaci├│n, cierre de brechas, coordinaci├│n intergubernamental, sostenibilidad y oportunidad en la entrega de los servicios a la poblaci├│n beneficiaria",
+      "B": "Cierre de brechas prioritarias, coordinaci├│n intra e intergubernamental, sostenibilidad y oportunidad en la entrega de los servicios a la poblaci├│n beneficiaria",
+      "C": "Cierre de brechas prioritarias, articulaci├│n territorial, coordinaci├│n intra e intergubernamental y sostenibilidad",
+      "D": "Cierre de brechas prioritarias, coordinaci├│n intra e intergubernamental, sostenibilidad y migraci├│n de inversiones"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva general del sistema nacional de programación multianual y gestión de inversiones. Directiva N° 001-2019-EF/63.01"
+    "fundamento": "Referencia bibliogr├ífica: Directiva general del sistema nacional de programaci├│n multianual y gesti├│n de inversiones. Directiva N┬░ 001-2019-EF/63.01"
   },
   {
     "id": 66,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Conforme a la Ley de Transparencia y Acceso a la Información Pública, la información protegida por el secreto bancario, tributario, comercial, industrial, tecnológico y bursátil tiene la calidad de información",
+    "pregunta": "Conforme a la Ley de Transparencia y Acceso a la Informaci├│n P├║blica, la informaci├│n protegida por el secreto bancario, tributario, comercial, industrial, tecnol├│gico y burs├ítil tiene la calidad de informaci├│n",
     "opciones": {
-      "A": "secreta.",
-      "B": "reservada.",
-      "C": "clasificada.",
-      "D": "confidencial."
+      "A": "Secreta.",
+      "B": "Reservada.",
+      "C": "Clasificada.",
+      "D": "Confidencial."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27806, Ley de Transparencia y Acceso a la Información Pública, aprobado por Decreto Supremo N° 021-2019-JUS, artículo 17."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27806, Ley de Transparencia y Acceso a la Informaci├│n P├║blica, aprobado por Decreto Supremo N┬░ 021-2019-JUS, art├¡culo 17."
   },
   {
     "id": 67,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto del control gubernamental, señale la alternativa correcta.",
+    "pregunta": "Respecto del control gubernamental, se├▒ale la alternativa correcta.",
     "opciones": {
-      "A": "La finalidad que persigue el control gubernamental es contribuir y orientar la mejora continua en la gestión de las entidades y la prestación eficiente de los servicios públicos, así como en el uso de los bienes y recursos del Estado; a través de la adopción de acciones preventivas y correctivas pertinentes.",
-      "B": "El objetivo principal del control gubernamental es que se sancione a los funcionarios y servidores públicos que han cometido irregularidades.",
+      "A": "La finalidad que persigue el control gubernamental es contribuir y orientar la mejora continua en la gesti├│n de las entidades y la prestaci├│n eficiente de los servicios p├║blicos, as├¡ como en el uso de los bienes y recursos del Estado; a trav├®s de la adopci├│n de acciones preventivas y correctivas pertinentes.",
+      "B": "El objetivo principal del control gubernamental es que se sancione a los funcionarios y servidores p├║blicos que han cometido irregularidades.",
       "C": "Las acciones de cautela previa, concurrente y posterior que ejerce la entidad sujeta a control, no son parte del ejercicio del control gubernamental.",
-      "D": "El control interno posterior es ejercido solo por el Órgano de Control Institucional, según sus planes y programas anuales."
+      "D": "El control interno posterior es ejercido solo por el ├ôrgano de Control Institucional, seg├║n sus planes y programas anuales."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 1.11 de las NGCG aprobadas por la R. C. N° 295-2021-CG del 23 de diciembre del 2021."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 1.11 de las NGCG aprobadas por la R. C. N┬░ 295-2021-CG del 23 de diciembre del 2021."
   },
   {
     "id": 68,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "«El ejercicio del control consta de un conjunto de acciones y técnicas orientadas a evaluar, de manera cabal y completa, los procesos y operaciones materia de examen en la entidad y sus beneficios económicos y/o sociales obtenidos, en relación con el gasto generado, las metas cualitativas y cuantitativas establecidas, su vinculación con políticas gubernamentales, variables exógenas no previsibles o controlables e índices históricos de eficiencia». La cita anterior corresponde a uno de los principios que rige el control gubernamental de",
+    "pregunta": "┬½El ejercicio del control consta de un conjunto de acciones y t├®cnicas orientadas a evaluar, de manera cabal y completa, los procesos y operaciones materia de examen en la entidad y sus beneficios econ├│micos y/o sociales obtenidos, en relaci├│n con el gasto generado, las metas cualitativas y cuantitativas establecidas, su vinculaci├│n con pol├¡ticas gubernamentales, variables ex├│genas no previsibles o controlables e ├¡ndices hist├│ricos de eficiencia┬╗. La cita anterior corresponde a uno de los principios que rige el control gubernamental de",
     "opciones": {
-      "A": "carácter técnico y especializado del control.",
-      "B": "autonomía funcional.",
-      "C": "universalidad.",
-      "D": "carácter integral."
+      "A": "Car├ícter t├®cnico y especializado del control.",
+      "B": "Autonom├¡a funcional.",
+      "C": "Universalidad.",
+      "D": "Car├ícter integral."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Literal b) del artículo 9 de la Ley N° 27785."
+    "fundamento": "Referencia bibliogr├ífica: Literal b) del art├¡culo 9 de la Ley N┬░ 27785."
   },
   {
     "id": 69,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "La Materia de Control corresponde",
     "opciones": {
-      "A": "al aspecto específico correspondiente a una o más etapas de un proceso, de uno o más componentes, rubros, segmentos, transacciones, operaciones, productos (bienes o servicios públicos), o resultados, u otra materia en la que se concentra la realización del servicio de control.",
-      "B": "a la cuantificación monetaria de una o más etapas de un proceso, de uno o más componentes, rubros, segmentos, transacciones, operaciones, productos (bienes o servicios públicos) u otra materia del servicio de control. Es considerado para determinar el servicio de control que corresponda desarrollar.",
-      "C": "al objeto o tema específico, según corresponda, en el que se concentran los esfuerzos de la comisión a cargo del servicio de control. Comprende el asunto y el monto.",
-      "D": "al hecho con evidencias de presunta irregularidad, que indica el monto objeto de control, el cual es la cuantificación de la operación, actividad, proceso u otra materia."
+      "A": "Al aspecto espec├¡fico correspondiente a una o m├ís etapas de un proceso, de uno o m├ís componentes, rubros, segmentos, transacciones, operaciones, productos (bienes o servicios p├║blicos), o resultados, u otra materia en la que se concentra la realizaci├│n del servicio de control.",
+      "B": "A la cuantificaci├│n monetaria de una o m├ís etapas de un proceso, de uno o m├ís componentes, rubros, segmentos, transacciones, operaciones, productos (bienes o servicios p├║blicos) u otra materia del servicio de control. Es considerado para determinar el servicio de control que corresponda desarrollar.",
+      "C": "Al objeto o tema espec├¡fico, seg├║n corresponda, en el que se concentran los esfuerzos de la comisi├│n a cargo del servicio de control. Comprende el asunto y el monto.",
+      "D": "Al hecho con evidencias de presunta irregularidad, que indica el monto objeto de control, el cual es la cuantificaci├│n de la operaci├│n, actividad, proceso u otra materia."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Glosario de Términos de las NGCG, aprobadas por R. C. N° 295-2021-CG del 23 de diciembre del 2021."
+    "fundamento": "Referencia bibliogr├ífica: Glosario de T├®rminos de las NGCG, aprobadas por R. C. N┬░ 295-2021-CG del 23 de diciembre del 2021."
   },
   {
     "id": 70,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El Servicio de Control Posterior es ejercido a través de las modalidades siguientes:",
+    "pregunta": "El Servicio de Control Posterior es ejercido a trav├®s de las modalidades siguientes:",
     "opciones": {
-      "A": "Auditorías, Visita de Control, Servicio de Control Específico a Hechos con Presunta Irregularidad y Acción de Oficio Posterior.",
-      "B": "Auditoría de Cumplimiento, Auditoría Financiera, Auditoría de Desempeño, otras auditorías que se establezcan, Servicio de Control Específico a Hechos con Presunta Irregularidad y Acción de Oficio Posterior.",
-      "C": "Auditorías, Servicio de Control Específico a Hechos con Presunta Irregularidad, Acción de Oficio Posterior y otros que se establezcan.",
-      "D": "Auditoría Financiera, Servicio de Control Específico a Hechos con Presunta Irregularidad y Acción de Oficio Posterior."
+      "A": "Auditor├¡as, Visita de Control, Servicio de Control Espec├¡fico a Hechos con Presunta Irregularidad y Acci├│n de Oficio Posterior.",
+      "B": "Auditor├¡a de Cumplimiento, Auditor├¡a Financiera, Auditor├¡a de Desempe├▒o, otras auditor├¡as que se establezcan, Servicio de Control Espec├¡fico a Hechos con Presunta Irregularidad y Acci├│n de Oficio Posterior.",
+      "C": "Auditor├¡as, Servicio de Control Espec├¡fico a Hechos con Presunta Irregularidad, Acci├│n de Oficio Posterior y otros que se establezcan.",
+      "D": "Auditor├¡a Financiera, Servicio de Control Espec├¡fico a Hechos con Presunta Irregularidad y Acci├│n de Oficio Posterior."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Numeral V. 1.16, I. Marco Conceptual, NGCG, aprobadas por R. C. N° 295-2021-CG del 23 de diciembre del 2021."
+    "fundamento": "Referencia bibliogr├ífica: Numeral V. 1.16, I. Marco Conceptual, NGCG, aprobadas por R. C. N┬░ 295-2021-CG del 23 de diciembre del 2021."
   },
   {
     "id": 71,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Identifique la opción que presenta la conformación correcta de la comisión de control concurrente.",
+    "pregunta": "Identifique la opci├│n que presenta la conformaci├│n correcta de la comisi├│n de control concurrente.",
     "opciones": {
-      "A": "Jefe de OCI, jefe de comisión e integrantes",
-      "B": "Supervisor, jefe de comisión e integrantes",
-      "C": "Gerente de CGR, supervisor, jefe de comisión e integrantes",
-      "D": "Jefe de OCI, supervisor, jefe de comisión e integrantes"
+      "A": "Jefe de OCI, jefe de comisi├│n e integrantes",
+      "B": "Supervisor, jefe de comisi├│n e integrantes",
+      "C": "Gerente de CGR, supervisor, jefe de comisi├│n e integrantes",
+      "D": "Jefe de OCI, supervisor, jefe de comisi├│n e integrantes"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva N° 13-2022-CG/NORM Anexo N° 1 Glosario de Términos numeral 1."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 13-2022-CG/NORM Anexo N┬░ 1 Glosario de T├®rminos numeral 1."
   },
   {
     "id": 72,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Señale la alternativa correcta con respecto al Control Gubernamental.",
+    "pregunta": "Se├▒ale la alternativa correcta con respecto al Control Gubernamental.",
     "opciones": {
-      "A": "El objetivo principal del control gubernamental es que se sancione a los funcionarios y servidores públicos que han cometido irregularidades.",
+      "A": "El objetivo principal del control gubernamental es que se sancione a los funcionarios y servidores p├║blicos que han cometido irregularidades.",
       "B": "Las acciones de cautela previa, concurrente y posterior que ejerce la entidad sujeta a control, no son parte del ejercicio del control gubernamental.",
-      "C": "La finalidad que persigue el control gubernamental es contribuir y orientar la mejora continua en la gestión de las entidades y la prestación eficiente de los servicios públicos, así como en el uso de los bienes y recursos del Estado; a través de la adopción de acciones preventivas y correctivas pertinentes.",
-      "D": "El control interno posterior es ejercido solo por el Órgano de Control Institucional, según sus planes y programas anuales."
+      "C": "La finalidad que persigue el control gubernamental es contribuir y orientar la mejora continua en la gesti├│n de las entidades y la prestaci├│n eficiente de los servicios p├║blicos, as├¡ como en el uso de los bienes y recursos del Estado; a trav├®s de la adopci├│n de acciones preventivas y correctivas pertinentes.",
+      "D": "El control interno posterior es ejercido solo por el ├ôrgano de Control Institucional, seg├║n sus planes y programas anuales."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Numeral 1.11 de las NGCG aprobadas por la R. C. N° 295-2021-CG del 23 de diciembre del 2021."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 1.11 de las NGCG aprobadas por la R. C. N┬░ 295-2021-CG del 23 de diciembre del 2021."
   },
   {
     "id": 73,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "La carpeta de servicio contiene, entre otros,",
     "opciones": {
-      "A": "los procedimientos de auditoría, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación.",
-      "B": "el plan de auditoría final, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación.",
-      "C": "el plan de auditoría inicial, la documentación e información relacionada con la materia a auditar y el oficio de acreditación.",
-      "D": "el plan de auditoría, el programa de auditoría, la documentación e información de sustento y el oficio de acreditación."
+      "A": "Los procedimientos de auditor├¡a, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n.",
+      "B": "El plan de auditor├¡a final, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n.",
+      "C": "El plan de auditor├¡a inicial, la documentaci├│n e informaci├│n relacionada con la materia a auditar y el oficio de acreditaci├│n.",
+      "D": "El plan de auditor├¡a, el programa de auditor├¡a, la documentaci├│n e informaci├│n de sustento y el oficio de acreditaci├│n."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Directiva 001-2022-CG/NORM. Numeral 6.4 anexo 1. Carpeta de Servicio de la Auditoría de Cumplimiento."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 001-2022-CG/NORM. Numeral 6.4 anexo 1. Carpeta de Servicio de la Auditor├¡a de Cumplimiento."
   },
   {
     "id": 74,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El conjunto de pasos secuenciales y lógicos para atender el cumplimiento de los objetivos propuestos en la evaluación se denomina",
+    "pregunta": "El conjunto de pasos secuenciales y l├│gicos para atender el cumplimiento de los objetivos propuestos en la evaluaci├│n se denomina",
     "opciones": {
-      "A": "técnicas de auditoría.",
-      "B": "pruebas de detalle.",
-      "C": "procedimientos de auditoría.",
-      "D": "pruebas sustantivas."
+      "A": "T├®cnicas de auditor├¡a.",
+      "B": "Pruebas de detalle.",
+      "C": "Procedimientos de auditor├¡a.",
+      "D": "Pruebas sustantivas."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 473-2014 - CG, Manual de Auditoría de Cumplimiento (MAC), numeral 7.4 ítem 77."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 473-2014 - CG, Manual de Auditor├¡a de Cumplimiento (MAC), numeral 7.4 ├¡tem 77."
   },
   {
     "id": 75,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Como toda entidad pública, la Contraloría General de la República tiene que ser debidamente fiscalizada, a efectos de ver su adecuada gestión de control. ¿Qué entidad pública se encarga de esta función?",
+    "pregunta": "Como toda entidad p├║blica, la Contralor├¡a General de la Rep├║blica tiene que ser debidamente fiscalizada, a efectos de ver su adecuada gesti├│n de control. ┬┐Qu├® entidad p├║blica se encarga de esta funci├│n?",
     "opciones": {
-      "A": "Congreso de la República",
+      "A": "Congreso de la Rep├║blica",
       "B": "Presidencia del Consejo de Ministros",
-      "C": "Defensoría del Pueblo",
-      "D": "Comisión de Ética del Congreso"
+      "C": "Defensor├¡a del Pueblo",
+      "D": "Comisi├│n de ├ëtica del Congreso"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: El Congreso de la República fiscaliza la gestión de la Contraloría General. Base legal: Artículo 25° de la de la Ley N.° 27785 «Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República» y sus modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: El Congreso de la Rep├║blica fiscaliza la gesti├│n de la Contralor├¡a General. Base legal: Art├¡culo 25┬░ de la de la Ley N.┬░ 27785 ┬½Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica┬╗ y sus modificatorias."
   },
   {
     "id": 76,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Identifique la alternativa donde se menciona el rubro en el que se consigna los servicios de control o relacionados, efectuados por el sistema nacional de control en la carpeta de servicio de la auditoría de cumplimiento.",
+    "pregunta": "Identifique la alternativa donde se menciona el rubro en el que se consigna los servicios de control o relacionados, efectuados por el sistema nacional de control en la carpeta de servicio de la auditor├¡a de cumplimiento.",
     "opciones": {
       "A": "Labores de control relacionadas con la materia de control",
       "B": "Otros aspectos relacionados con la materia de control",
-      "C": "Puntos de atención a evaluar relacionados con la materia de control",
-      "D": "Documentación e información relacionada con los antecedentes de la entidad o dependencia"
+      "C": "Puntos de atenci├│n a evaluar relacionados con la materia de control",
+      "D": "Documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad o dependencia"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 473-2014 - CG, Manual de Auditoría de Cumplimiento (MAC), RC-001-2022-CG/Anexo N° 1 Carpeta de servicios Numeral 2."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 473-2014 - CG, Manual de Auditor├¡a de Cumplimiento (MAC), RC-001-2022-CG/Anexo N┬░ 1 Carpeta de servicios Numeral 2."
   },
   {
     "id": 77,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Revisar el proyecto de informe, comentar y discutir las situaciones que surjan como consecuencia de su revisión, verificar que los comentarios vertidos en el informe de auditoría se encuentren sustentados con la información contenida en la respectiva documentación de auditoría y de acuerdo con las NGCG, la directiva y el manual de auditoría de cumplimiento son funciones que debe cumplir el",
+    "pregunta": "Revisar el proyecto de informe, comentar y discutir las situaciones que surjan como consecuencia de su revisi├│n, verificar que los comentarios vertidos en el informe de auditor├¡a se encuentren sustentados con la informaci├│n contenida en la respectiva documentaci├│n de auditor├¡a y de acuerdo con las NGCG, la directiva y el manual de auditor├¡a de cumplimiento son funciones que debe cumplir el",
     "opciones": {
-      "A": "jefe de comisión.",
-      "B": "supervisor.",
-      "C": "encargado de la Unidad Orgánica u OCI.",
-      "D": "abogado especialista."
+      "A": "Jefe de comisi├│n.",
+      "B": "Supervisor.",
+      "C": "Encargado de la Unidad Org├ínica u OCI.",
+      "D": "Abogado especialista."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 473-2014 - CG, Manual de Auditoría de Cumplimiento (MAC) aprobado por RC-001-2022-CG Numeral 172"
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 473-2014 - CG, Manual de Auditor├¡a de Cumplimiento (MAC) aprobado por RC-001-2022-CG Numeral 172"
   },
   {
     "id": 78,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La información obtenida mediante la aplicación de técnicas tales como inspección, observación, confirmación externa, análisis cuantitativo, entre otros, y que sirve para sustentar las conclusiones del servicio de control simultáneo se conoce como",
+    "pregunta": "La informaci├│n obtenida mediante la aplicaci├│n de t├®cnicas tales como inspecci├│n, observaci├│n, confirmaci├│n externa, an├ílisis cuantitativo, entre otros, y que sirve para sustentar las conclusiones del servicio de control simult├íneo se conoce como",
     "opciones": {
-      "A": "procedimiento.",
-      "B": "evidencia.",
-      "C": "práctica.",
-      "D": "plan."
+      "A": "Procedimiento.",
+      "B": "Evidencia.",
+      "C": "Pr├íctica.",
+      "D": "Plan."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG/NORM Numeral 2. Anexo 1 Glosario de términos."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG/NORM Numeral 2. Anexo 1 Glosario de t├®rminos."
   },
   {
     "id": 79,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Comprende la obtención y análisis de información de diversas fuentes entre las que figuran los requerimientos de información a la entidad o dependencia, por parte de la unidad orgánica o el órgano desconcentrado de la CGR o del OCI competente a fin de tomar conocimiento de los procesos en curso para el desarrollo del servicio de control simultáneo.",
+    "pregunta": "Comprende la obtenci├│n y an├ílisis de informaci├│n de diversas fuentes entre las que figuran los requerimientos de informaci├│n a la entidad o dependencia, por parte de la unidad org├ínica o el ├│rgano desconcentrado de la CGR o del OCI competente a fin de tomar conocimiento de los procesos en curso para el desarrollo del servicio de control simult├íneo.",
     "opciones": {
-      "A": "Ejecución",
-      "B": "Elaboración de informe",
-      "C": "Planificación",
+      "A": "Ejecuci├│n",
+      "B": "Elaboraci├│n de informe",
+      "C": "Planificaci├│n",
       "D": "Acciones de planeamiento"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG/NORM numeral 6.1.2"
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG/NORM numeral 6.1.2"
   },
   {
     "id": 80,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En la etapa de __________ se desarrollan y documentan los procedimientos de cada modalidad de Servicio de Control Simultáneo, con el objeto de obtener la evidencia que determine la existencia o no de situaciones adversas",
+    "pregunta": "En la etapa de __________ se desarrollan y documentan los procedimientos de cada modalidad de Servicio de Control Simult├íneo, con el objeto de obtener la evidencia que determine la existencia o no de situaciones adversas",
     "opciones": {
-      "A": "Planificación",
-      "B": "ejecución",
-      "C": "elaboración de informe",
-      "D": "control Directiva No 013-2022-CG/NORM, Servicio de Control Simultaneo, numeral 6.1.4. Presente en: INFRA_Esp_3_ContratObras.pdf"
+      "A": "Planificaci├│n",
+      "B": "Ejecuci├│n",
+      "C": "Elaboraci├│n de informe",
+      "D": "Control Directiva No 013-2022-CG/NORM, Servicio de Control Simultaneo, numeral 6.1.4. Presente en: INFRA_Esp_3_ContratObras.pdf"
     },
     "correcta": "B",
     "fundamento": ""
@@ -1042,20 +1042,20 @@ const BANCO_PREGUNTAS = [
   {
     "id": 81,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La carpeta de servicio de Auditoría de cumplimiento contiene, entre otros,",
+    "pregunta": "La carpeta de servicio de Auditor├¡a de cumplimiento contiene, entre otros,",
     "opciones": {
-      "A": "el plan de auditoría final, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación.",
-      "B": "el plan de auditoría inicial, la documentación e información relacionada con la materia a auditar y el oficio de acreditación.",
-      "C": "el plan de auditoría, el programa de auditoría, la documentación e información de sustento y el oficio de acreditación.",
-      "D": "los procedimientos de auditoría, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación."
+      "A": "El plan de auditor├¡a final, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n.",
+      "B": "El plan de auditor├¡a inicial, la documentaci├│n e informaci├│n relacionada con la materia a auditar y el oficio de acreditaci├│n.",
+      "C": "El plan de auditor├¡a, el programa de auditor├¡a, la documentaci├│n e informaci├│n de sustento y el oficio de acreditaci├│n.",
+      "D": "Los procedimientos de auditor├¡a, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva 001-2022-CG/NORM, Numeral 6.4, anexo 1, Carpeta de Servicio de la Auditoría de Cumplimiento."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 001-2022-CG/NORM, Numeral 6.4, anexo 1, Carpeta de Servicio de la Auditor├¡a de Cumplimiento."
   },
   {
     "id": 82,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Sobre la gestión de la calidad en los servicios de control, relacione los conceptos siguientes y marque la alternativa correcta. I. Grado en el que un conjunto de características inherentes a los productos o servicios resultantes del control gubernamental cumplen con los requisitos y especificaciones establecidas como estándares en la normativa específica que los regula. a. Aseguramiento de la calidad II. Realizado por los órganos o unidades orgánicas de la Contraloría o por profesionales acreditados, distintos a los que realizan los servicios de control y servicios relacionados. b. Control de calidad III. Verifica si los productos o servicios resultantes del control gubernamental cumplen con los requisitos y especificaciones establecidos como estándares en la normativa específica que los regula. Ejecutado en forma oportuna y permanente en la conducción, ejecución y evaluación de los servicios de control y servicios relacionados. c. Requisitos y especificaciones establecidos como estándares IV. Directiva No 013-2022-CG/NORM, Servicio de Control Simultáneo. d. Calidad en los servicios de control",
+    "pregunta": "Sobre la gesti├│n de la calidad en los servicios de control, relacione los conceptos siguientes y marque la alternativa correcta. I. Grado en el que un conjunto de caracter├¡sticas inherentes a los productos o servicios resultantes del control gubernamental cumplen con los requisitos y especificaciones establecidas como est├índares en la normativa espec├¡fica que los regula. a. Aseguramiento de la calidad II. Realizado por los ├│rganos o unidades org├ínicas de la Contralor├¡a o por profesionales acreditados, distintos a los que realizan los servicios de control y servicios relacionados. b. Control de calidad III. Verifica si los productos o servicios resultantes del control gubernamental cumplen con los requisitos y especificaciones establecidos como est├índares en la normativa espec├¡fica que los regula. Ejecutado en forma oportuna y permanente en la conducci├│n, ejecuci├│n y evaluaci├│n de los servicios de control y servicios relacionados. c. Requisitos y especificaciones establecidos como est├índares IV. Directiva No 013-2022-CG/NORM, Servicio de Control Simult├íneo. d. Calidad en los servicios de control",
     "opciones": {
       "A": "Ib, IId, IIIa, IVc",
       "B": "Id, IIa, IIIb, IVc",
@@ -1063,77 +1063,77 @@ const BANCO_PREGUNTAS = [
       "D": "Ib, IIa, IIIc, IVd"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: numeral 3.2, 3.3 y 3.4 de las NGCG, aprobadas por R. C. No 295-2021-CG de 23 de diciembre de 2021."
+    "fundamento": "Referencia bibliogr├ífica: numeral 3.2, 3.3 y 3.4 de las NGCG, aprobadas por R. C. No 295-2021-CG de 23 de diciembre de 2021."
   },
   {
     "id": 83,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El control de calidad de la auditoría de cumplimiento es realizado por",
+    "pregunta": "El control de calidad de la auditor├¡a de cumplimiento es realizado por",
     "opciones": {
-      "A": "la Comisión Auditora y el órgano desconcentrado.",
-      "B": "el supervisor de la comisión y el gerente de la Contraloría.",
-      "C": "el área de la Contraloría designada para el control de calidad.",
-      "D": "la Comisión Auditora, el órgano desconcentrado, las unidades orgánicas de la Contraloría u OCI."
+      "A": "La Comisi├│n Auditora y el ├│rgano desconcentrado.",
+      "B": "El supervisor de la comisi├│n y el gerente de la Contralor├¡a.",
+      "C": "El ├írea de la Contralor├¡a designada para el control de calidad.",
+      "D": "La Comisi├│n Auditora, el ├│rgano desconcentrado, las unidades org├ínicas de la Contralor├¡a u OCI."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 6.9 de la Directiva 001-2022-CG/NORM."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 6.9 de la Directiva 001-2022-CG/NORM."
   },
   {
     "id": 84,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto de la evaluación del diseño e implementación y efectividad del control interno, es correcto afirmar que",
+    "pregunta": "Respecto de la evaluaci├│n del dise├▒o e implementaci├│n y efectividad del control interno, es correcto afirmar que",
     "opciones": {
-      "A": "dependen de la naturaleza, alcance y significancia de la materia de control y de los objetivos de la auditoría a ejecutar.",
-      "B": "son obligatorios en todas las auditorías de cumplimiento.",
-      "C": "son facultativos de acuerdo al criterio del supervisor de la comisión auditora.",
-      "D": "están en función del plazo que se dispone para la ejecución de la auditoría de cumplimiento."
+      "A": "Dependen de la naturaleza, alcance y significancia de la materia de control y de los objetivos de la auditor├¡a a ejecutar.",
+      "B": "Son obligatorios en todas las auditor├¡as de cumplimiento.",
+      "C": "Son facultativos de acuerdo al criterio del supervisor de la comisi├│n auditora.",
+      "D": "Est├ín en funci├│n del plazo que se dispone para la ejecuci├│n de la auditor├¡a de cumplimiento."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: MAC. Numeral 7.4 aprobado por RC-001-2022-CG/NORM"
+    "fundamento": "Referencia bibliogr├ífica: MAC. Numeral 7.4 aprobado por RC-001-2022-CG/NORM"
   },
   {
     "id": 85,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En la etapa de elaboración de informe de visita de control, este es elaborado por la Comisión de Control una vez concluida la etapa de Ejecución, en un plazo máximo de __________ días __________, y contiene el detalle de las situaciones adversas identificadas.",
+    "pregunta": "En la etapa de elaboraci├│n de informe de visita de control, este es elaborado por la Comisi├│n de Control una vez concluida la etapa de Ejecuci├│n, en un plazo m├íximo de __________ d├¡as __________, y contiene el detalle de las situaciones adversas identificadas.",
     "opciones": {
-      "A": "dos (2) ? hábiles",
-      "B": "tres (3) - hábiles",
-      "C": "cinco (5) - calendario",
-      "D": "cinco (5) - hábiles"
+      "A": "Dos (2) ÔÇô h├íbiles",
+      "B": "Tres (3) - h├íbiles",
+      "C": "Cinco (5) - calendario",
+      "D": "Cinco (5) - h├íbiles"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva N° 013-2022-CG/NORM numeral 7.2.1.3"
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 013-2022-CG/NORM numeral 7.2.1.3"
   },
   {
     "id": 86,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Los informes de visita de control son revisados y aprobados por el órgano desconcentrado o unidad orgánica de CGR o el OCI a cargo, en un plazo máximo de _________ días hábiles contados a partir del día siguiente de ser recibidos.",
+    "pregunta": "Los informes de visita de control son revisados y aprobados por el ├│rgano desconcentrado o unidad org├ínica de CGR o el OCI a cargo, en un plazo m├íximo de _________ d├¡as h├íbiles contados a partir del d├¡a siguiente de ser recibidos.",
     "opciones": {
-      "A": "cinco (5)",
-      "B": "dos (2)",
-      "C": "diez (10)",
-      "D": "tres (3)"
+      "A": "Cinco (5)",
+      "B": "Dos (2)",
+      "C": "Diez (10)",
+      "D": "Tres (3)"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva N° 013-2022-CG/NORM numeral 7.2.1.3"
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 013-2022-CG/NORM numeral 7.2.1.3"
   },
   {
     "id": 87,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "En el desarrollo del servicio de control simultáneo, NO es una función del Jefe de comisión",
+    "pregunta": "En el desarrollo del servicio de control simult├íneo, NO es una funci├│n del Jefe de comisi├│n",
     "opciones": {
-      "A": "realizar el seguimiento y verificar la calidad del desarrollo del Servicio de Control Simultáneo.",
-      "B": "dirigir el desarrollo de las actividades que comprende el Servicio de Control Simultáneo.",
-      "C": "brindar asesoramiento y asistencia técnica a los integrantes de la Comisión de Control de forma oportuna.",
-      "D": "elaborar los informes resultantes del desarrollo del Servicio de Control Simultáneo."
+      "A": "Realizar el seguimiento y verificar la calidad del desarrollo del Servicio de Control Simult├íneo.",
+      "B": "Dirigir el desarrollo de las actividades que comprende el Servicio de Control Simult├íneo.",
+      "C": "Brindar asesoramiento y asistencia t├®cnica a los integrantes de la Comisi├│n de Control de forma oportuna.",
+      "D": "Elaborar los informes resultantes del desarrollo del Servicio de Control Simult├íneo."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG/NORM anexo N° 01 numeral 1.b."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG/NORM anexo N┬░ 01 numeral 1.b."
   },
   {
     "id": 88,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El Organismo Supervisor de las Contrataciones del Estado (OSCE) publicará, trimestralmente, información de las adquisiciones y contrataciones realizadas por las entidades de la Administración Pública, cuyo valor referencial haya sido igual o superior a:",
+    "pregunta": "El Organismo Supervisor de las Contrataciones del Estado (OSCE) publicar├í, trimestralmente, informaci├│n de las adquisiciones y contrataciones realizadas por las entidades de la Administraci├│n P├║blica, cuyo valor referencial haya sido igual o superior a:",
     "opciones": {
       "A": "30 Unidades Impositivas Tributarias",
       "B": "40 Unidades Impositivas Tributarias",
@@ -1141,46 +1141,46 @@ const BANCO_PREGUNTAS = [
       "D": "60 Unidades Impositivas Tributarias"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27806, Ley de Transparencia y Acceso a la Información Pública, Articulo 29."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27806, Ley de Transparencia y Acceso a la Informaci├│n P├║blica, Articulo 29."
   },
   {
     "id": 89,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El informe de visita de control es elaborado por la Comisión de Control una vez concluida la etapa de ejecución, en un plazo máximo de",
+    "pregunta": "El informe de visita de control es elaborado por la Comisi├│n de Control una vez concluida la etapa de ejecuci├│n, en un plazo m├íximo de",
     "opciones": {
-      "A": "tres (3) días hábiles",
-      "B": "diez (10) días hábiles",
-      "C": "dos (2) días hábiles",
-      "D": "cinco (5) días hábiles"
+      "A": "Tres (3) d├¡as h├íbiles",
+      "B": "Diez (10) d├¡as h├íbiles",
+      "C": "Dos (2) d├¡as h├íbiles",
+      "D": "Cinco (5) d├¡as h├íbiles"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Directiva N° 013-2022-CG/NORM, Numeral 7.2.1.3."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 013-2022-CG/NORM, Numeral 7.2.1.3."
   },
   {
     "id": 90,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "El control gubernamental constituye un proceso integral y permanente, que tiene como finalidad",
     "opciones": {
-      "A": "contribuir con el gasto público en la gestión de las entidades y la prestación eficiente de los servicios públicos; así como en el uso de los bienes y recursos del Estado.",
-      "B": "contribuir con el buen uso de los recursos y orientar la mejora continua en la gestión de las entidades y la prestación eficiente de los servicios públicos; así como en el uso de los bienes y recursos del Estado.",
-      "C": "orientar la mejora continua en la gestión del uso de bienes de las entidades y la prestación eficiente de los servicios públicos; así como en el uso de los bienes y recursos del Estado.",
-      "D": "contribuir y orientar la mejora continua en la gestión de las entidades y la prestación eficiente de los servicios públicos; así como en el uso de los bienes y recursos del Estado."
+      "A": "Contribuir con el gasto p├║blico en la gesti├│n de las entidades y la prestaci├│n eficiente de los servicios p├║blicos; as├¡ como en el uso de los bienes y recursos del Estado.",
+      "B": "Contribuir con el buen uso de los recursos y orientar la mejora continua en la gesti├│n de las entidades y la prestaci├│n eficiente de los servicios p├║blicos; as├¡ como en el uso de los bienes y recursos del Estado.",
+      "C": "Orientar la mejora continua en la gesti├│n del uso de bienes de las entidades y la prestaci├│n eficiente de los servicios p├║blicos; as├¡ como en el uso de los bienes y recursos del Estado.",
+      "D": "Contribuir y orientar la mejora continua en la gesti├│n de las entidades y la prestaci├│n eficiente de los servicios p├║blicos; as├¡ como en el uso de los bienes y recursos del Estado."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: RC N° 295-2021-CG Normas Generales de Control Gubernamental numeral 1.11."
+    "fundamento": "Referencia bibliogr├ífica: RC N┬░ 295-2021-CG Normas Generales de Control Gubernamental numeral 1.11."
   },
   {
     "id": 91,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
     "pregunta": "El control gubernamental interno puede ser",
     "opciones": {
-      "A": "previo, simultáneo y posterior.",
-      "B": "anterior, actual y operativo.",
-      "C": "previo, en paralelo y rezagado.",
-      "D": "anterior, simultaneo y posterior."
+      "A": "Previo, simult├íneo y posterior.",
+      "B": "Anterior, actual y operativo.",
+      "C": "Previo, en paralelo y rezagado.",
+      "D": "Anterior, simultaneo y posterior."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: RC N° 295-2021-CG Normas Generales de Control Gubernamental numeral 1.12."
+    "fundamento": "Referencia bibliogr├ífica: RC N┬░ 295-2021-CG Normas Generales de Control Gubernamental numeral 1.12."
   },
   {
     "id": 92,
@@ -1188,17 +1188,17 @@ const BANCO_PREGUNTAS = [
     "pregunta": "La ___________ es una actitud mental que permite al personal formular juicios fundados en elementos objetivos, y que garantiza la consistencia e integridad de sus actuaciones y opiniones.",
     "opciones": {
       "A": "Libertad",
-      "B": "independencia",
-      "C": "responsabilidad",
-      "D": "veracidad"
+      "B": "Independencia",
+      "C": "Responsabilidad",
+      "D": "Veracidad"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: RC N° 295-2021-CG Normas Generales de Control Gubernamental numeral 2.1."
+    "fundamento": "Referencia bibliogr├ífica: RC N┬░ 295-2021-CG Normas Generales de Control Gubernamental numeral 2.1."
   },
   {
     "id": 93,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Indique la alternativa que se encuentre en relación con el siguiente concepto: «Se refiere a mantener estricta reserva respecto de la información obtenida durante la realización de los servicios y en el contenido de los resultados del control gubernamental; no revelando hechos, datos, procedimientos y documentación cuya difusión no se encuentre autorizada de acuerdo a ley».",
+    "pregunta": "Indique la alternativa que se encuentre en relaci├│n con el siguiente concepto: ┬½Se refiere a mantener estricta reserva respecto de la informaci├│n obtenida durante la realizaci├│n de los servicios y en el contenido de los resultados del control gubernamental; no revelando hechos, datos, procedimientos y documentaci├│n cuya difusi├│n no se encuentre autorizada de acuerdo a ley┬╗.",
     "opciones": {
       "A": "Reserva",
       "B": "Confidencialidad",
@@ -1206,85 +1206,85 @@ const BANCO_PREGUNTAS = [
       "D": "Discrecionalidad"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: RC N° 295-2021-CG Normas Generales de Control Gubernamental numeral 2.12."
+    "fundamento": "Referencia bibliogr├ífica: RC N┬░ 295-2021-CG Normas Generales de Control Gubernamental numeral 2.12."
   },
   {
     "id": 94,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "«Consiste en examinar de forma objetiva y sistemática los hitos de control o las actividades de un proceso en curso, con el objeto de identificar y comunicar oportunamente a la entidad o dependencia la existencia de situaciones adversas, para la adopción de las acciones que correspondan, contribuyendo de esta forma a que el uso y destino de los recursos y bienes del Estado se realice con eficiencia, eficacia, transparencia, economía y legalidad». El concepto anterior refiere al",
+    "pregunta": "┬½Consiste en examinar de forma objetiva y sistem├ítica los hitos de control o las actividades de un proceso en curso, con el objeto de identificar y comunicar oportunamente a la entidad o dependencia la existencia de situaciones adversas, para la adopci├│n de las acciones que correspondan, contribuyendo de esta forma a que el uso y destino de los recursos y bienes del Estado se realice con eficiencia, eficacia, transparencia, econom├¡a y legalidad┬╗. El concepto anterior refiere al",
     "opciones": {
-      "A": "servicio de control posterior.",
-      "B": "servicio de control actual.",
-      "C": "servicio de control simultáneo.",
-      "D": "servicio de control paralelo."
+      "A": "Servicio de control posterior.",
+      "B": "Servicio de control actual.",
+      "C": "Servicio de control simult├íneo.",
+      "D": "Servicio de control paralelo."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: RC N° 295-2021-CG Normas Generales de Control Gubernamental numeral 5.4."
+    "fundamento": "Referencia bibliogr├ífica: RC N┬░ 295-2021-CG Normas Generales de Control Gubernamental numeral 5.4."
   },
   {
     "id": 95,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto de las modalidades de control simultáneo, seleccione la alternativa INCORRECTA.",
+    "pregunta": "Respecto de las modalidades de control simult├íneo, seleccione la alternativa INCORRECTA.",
     "opciones": {
-      "A": "la orientación al ciudadano.",
-      "B": "el control concurrente.",
-      "C": "la visita de control.",
-      "D": "la orientación de oficio."
+      "A": "La orientaci├│n al ciudadano.",
+      "B": "El control concurrente.",
+      "C": "La visita de control.",
+      "D": "La orientaci├│n de oficio."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Directiva N° 002-2019-CG/NORM Servicio de Control Simultáneo, numeral 07."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 002-2019-CG/NORM Servicio de Control Simult├íneo, numeral 07."
   },
   {
     "id": 96,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Al dirigir al Sistema Nacional de Control, el contralor general de la República es el funcionario de mayor rango, y posee",
+    "pregunta": "Al dirigir al Sistema Nacional de Control, el contralor general de la Rep├║blica es el funcionario de mayor rango, y posee",
     "opciones": {
-      "A": "inmunidad parlamentaria.",
-      "B": "autoridad para emitir edictos.",
-      "C": "facultad para disolver comisiones investigadoras.",
-      "D": "los mismos derechos que un ministro de Estado."
+      "A": "Inmunidad parlamentaria.",
+      "B": "Autoridad para emitir edictos.",
+      "C": "Facultad para disolver comisiones investigadoras.",
+      "D": "Los mismos derechos que un ministro de Estado."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículos 82° y 101º de la Constitución Política del Perú y artículos 26° y 27° de la Ley N.° 27785 «Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República» y sus modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culos 82┬░ y 101┬║ de la Constituci├│n Pol├¡tica del Per├║ y art├¡culos 26┬░ y 27┬░ de la Ley N.┬░ 27785 ┬½Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica┬╗ y sus modificatorias."
   },
   {
     "id": 97,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Las sociedades de auditoría son las personas _______________ calificadas e independientes en la realización de labores de control posterior externo que son designadas previo Concurso Público de Méritos, y contratadas por la Contraloría General de la República para examinar las actividades y operaciones de las entidades, opinar sobre ______________________________________.",
+    "pregunta": "Las sociedades de auditor├¡a son las personas _______________ calificadas e independientes en la realizaci├│n de labores de control posterior externo que son designadas previo Concurso P├║blico de M├®ritos, y contratadas por la Contralor├¡a General de la Rep├║blica para examinar las actividades y operaciones de las entidades, opinar sobre ______________________________________.",
     "opciones": {
-      "A": "individuales ? la razonabilidad de sus estados financieros, así como evaluar la gestión, captación y uso de los recursos asignados",
-      "B": "jurídicas ? la razonabilidad de sus estados financieros, así como evaluar la gestión, captación y uso de los recursos asignados",
-      "C": "individuales ? sus estados financieros, así como evaluar la captación y uso de los recursos asignados",
-      "D": "jurídicas ? sus estados financieros, así como evaluar la captación y uso de los recursos asignados"
+      "A": "Individuales ÔÇô la razonabilidad de sus estados financieros, as├¡ como evaluar la gesti├│n, captaci├│n y uso de los recursos asignados",
+      "B": "Jur├¡dicas ÔÇô la razonabilidad de sus estados financieros, as├¡ como evaluar la gesti├│n, captaci├│n y uso de los recursos asignados",
+      "C": "Individuales ÔÇô sus estados financieros, as├¡ como evaluar la captaci├│n y uso de los recursos asignados",
+      "D": "Jur├¡dicas ÔÇô sus estados financieros, as├¡ como evaluar la captaci├│n y uso de los recursos asignados"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República - LEY Nº 27785, art. 20."
+    "fundamento": "Referencia bibliogr├ífica: Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica - LEY N┬║ 27785, art. 20."
   },
   {
     "id": 98,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Son aquellos emitidos por la CGR en su calidad de ente rector del Sistema que regulan el ejercicio del control gubernamental a través de los servicios de control y servicios relacionados que aplican los órganos conformantes del Sistema.",
+    "pregunta": "Son aquellos emitidos por la CGR en su calidad de ente rector del Sistema que regulan el ejercicio del control gubernamental a trav├®s de los servicios de control y servicios relacionados que aplican los ├│rganos conformantes del Sistema.",
     "opciones": {
-      "A": "Documentos normativos de gestión institucional",
-      "B": "Documentos normativos de gestión académica",
+      "A": "Documentos normativos de gesti├│n institucional",
+      "B": "Documentos normativos de gesti├│n acad├®mica",
       "C": "Documentos normativos de control gubernamental",
-      "D": "Documentos normativos de gestión presupuestal"
+      "D": "Documentos normativos de gesti├│n presupuestal"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Directiva N° 010-2021-CG/GJN GESTIÓN DE DOCUMENTOS NORMATIVOS, numeral 6.3."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 010-2021-CG/GJN GESTI├ôN DE DOCUMENTOS NORMATIVOS, numeral 6.3."
   },
   {
     "id": 99,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Señale cuáles son los elementos que contienen la Carpeta de Servicio.",
+    "pregunta": "Se├▒ale cu├íles son los elementos que contienen la Carpeta de Servicio.",
     "opciones": {
-      "A": "El plan de auditoría propuesto, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación.",
-      "B": "El plan de auditoría inicial, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación.",
-      "C": "El plan de auditoría inicial, la documentación y evidencia relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditación.",
-      "D": "El plan de auditoría propuesto, la documentación e información relacionada con los antecedentes de la entidad y el proyecto de tentativo de acreditación."
+      "A": "El plan de auditor├¡a propuesto, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n.",
+      "B": "El plan de auditor├¡a inicial, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n.",
+      "C": "El plan de auditor├¡a inicial, la documentaci├│n y evidencia relacionada con los antecedentes de la entidad y el proyecto de oficio de acreditaci├│n.",
+      "D": "El plan de auditor├¡a propuesto, la documentaci├│n e informaci├│n relacionada con los antecedentes de la entidad y el proyecto de tentativo de acreditaci├│n."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: MAC, numeral 30."
+    "fundamento": "Referencia bibliogr├ífica: MAC, numeral 30."
   },
   {
     "id": 100,
@@ -1297,51 +1297,51 @@ const BANCO_PREGUNTAS = [
       "D": "Equilibrio financiero"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo de la Ley N° 27785"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo de la Ley N┬░ 27785"
   },
   {
     "id": 101,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "El contralor general de la República, cuyas principales funciones son supervisar la legalidad de la ejecución del presupuesto del Estado, de las operaciones de la deuda pública y de los actos de las instituciones sujetas a control, es nombrado por",
+    "pregunta": "El contralor general de la Rep├║blica, cuyas principales funciones son supervisar la legalidad de la ejecuci├│n del presupuesto del Estado, de las operaciones de la deuda p├║blica y de los actos de las instituciones sujetas a control, es nombrado por",
     "opciones": {
-      "A": "la Comisión Permanente del Congreso de la República.",
-      "B": "el Poder Ejecutivo, vía decreto ley.",
-      "C": "la Junta de Fiscales.",
-      "D": "la Presidencia del Consejo de Ministros."
+      "A": "La Comisi├│n Permanente del Congreso de la Rep├║blica.",
+      "B": "El Poder Ejecutivo, v├¡a decreto ley.",
+      "C": "La Junta de Fiscales.",
+      "D": "La Presidencia del Consejo de Ministros."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículos 82° y 101º de la Constitución Política del Perú y artículos 26° y 27° de la Ley N.° 27785 «Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República» y sus modificatorias"
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culos 82┬░ y 101┬║ de la Constituci├│n Pol├¡tica del Per├║ y art├¡culos 26┬░ y 27┬░ de la Ley N.┬░ 27785 ┬½Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica┬╗ y sus modificatorias"
   },
   {
     "id": 102,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Son pautas a tener en cuenta en el señalamiento del tipo de presunta responsabilidad en que hubieran incurrido los funcionarios comprendidos en los hechos materia de auditoría.",
+    "pregunta": "Son pautas a tener en cuenta en el se├▒alamiento del tipo de presunta responsabilidad en que hubieran incurrido los funcionarios comprendidos en los hechos materia de auditor├¡a.",
     "opciones": {
-      "A": "Deber incumplido, presunción de licitud y requerimiento de información",
-      "B": "Deber incumplido, reserva, presunción de licitud y relación causal",
-      "C": "Reserva, relación causal y comunicación de desviación de cumplimiento",
-      "D": "Presunción de licitud, requerimiento de información y reserva"
+      "A": "Deber incumplido, presunci├│n de licitud y requerimiento de informaci├│n",
+      "B": "Deber incumplido, reserva, presunci├│n de licitud y relaci├│n causal",
+      "C": "Reserva, relaci├│n causal y comunicaci├│n de desviaci├│n de cumplimiento",
+      "D": "Presunci├│n de licitud, requerimiento de informaci├│n y reserva"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: MAC numeral 163 - 130"
+    "fundamento": "Referencia bibliogr├ífica: MAC numeral 163 - 130"
   },
   {
     "id": 103,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "La Ley N° 27785 señala: «(?) conjunto de órganos de control, normas, métodos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada», se refiere",
+    "pregunta": "La Ley N┬░ 27785 se├▒ala: ┬½(ÔÇª) conjunto de ├│rganos de control, normas, m├®todos y procedimientos, estructurados e integrados funcionalmente, destinados a conducir y desarrollar el ejercicio del control gubernamental en forma descentralizada┬╗, se refiere",
     "opciones": {
-      "A": "a la Contraloría General de la Republica.",
-      "B": "a los órganos de control institucional.",
-      "C": "al Sistema Nacional de Defensa Jurídica.",
-      "D": "al Sistema Nacional de Control."
+      "A": "A la Contralor├¡a General de la Republica.",
+      "B": "A los ├│rganos de control institucional.",
+      "C": "Al Sistema Nacional de Defensa Jur├¡dica.",
+      "D": "Al Sistema Nacional de Control."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Texto Integrado de la Ley N° 27785 artículo 12."
+    "fundamento": "Referencia bibliogr├ífica: Texto Integrado de la Ley N┬░ 27785 art├¡culo 12."
   },
   {
     "id": 104,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Señale la alternativa que se encuentre en relación con el siguiente concepto: «Se refiere a mantener estricta reserva respecto de la información obtenida durante la realización de los servicios y en el contenido de los resultados del control gubernamental; no revelando hechos, datos, procedimientos y documentación cuya difusión no se encuentre autorizada de acuerdo a ley».",
+    "pregunta": "Se├▒ale la alternativa que se encuentre en relaci├│n con el siguiente concepto: ┬½Se refiere a mantener estricta reserva respecto de la informaci├│n obtenida durante la realizaci├│n de los servicios y en el contenido de los resultados del control gubernamental; no revelando hechos, datos, procedimientos y documentaci├│n cuya difusi├│n no se encuentre autorizada de acuerdo a ley┬╗.",
     "opciones": {
       "A": "Reserva",
       "B": "Silencio administrativo",
@@ -1349,259 +1349,259 @@ const BANCO_PREGUNTAS = [
       "D": "Confidencialidad"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: RC N° 295-2021-CG Normas Generales de Control Gubernamental numeral 2.12."
+    "fundamento": "Referencia bibliogr├ífica: RC N┬░ 295-2021-CG Normas Generales de Control Gubernamental numeral 2.12."
   },
   {
     "id": 105,
     "tema": "Tema 1: Control Gubernamental y Sistema Nacional de Control (CGR)",
-    "pregunta": "Respecto de la auditoría de cumplimiento, ¿Cuál de las siguientes afirmaciones es la correcta?",
+    "pregunta": "Respecto de la auditor├¡a de cumplimiento, ┬┐Cu├íl de las siguientes afirmaciones es la correcta?",
     "opciones": {
-      "A": "Se origina como resultado del proceso de planificación, el cual señala las materias a ser examinadas con base en el análisis de riesgo y prioridades derivadas.",
-      "B": "Su finalidad es fomentar la buena gobernanza sobre los recursos públicos, la transparencia y rendición de cuentas en las entidades, y garantizar el principio del debido proceso.",
-      "C": "Es un examen que tiene como propósito determinar en qué medida se ha observado la normativa aplicable y las buenas prácticas de gestión pública.",
-      "D": "Se origina por indicación del titular de la entidad, en el marco de sus atribuciones y ante alguna situación de la que toma conocimiento."
+      "A": "Se origina como resultado del proceso de planificaci├│n, el cual se├▒ala las materias a ser examinadas con base en el an├ílisis de riesgo y prioridades derivadas.",
+      "B": "Su finalidad es fomentar la buena gobernanza sobre los recursos p├║blicos, la transparencia y rendici├│n de cuentas en las entidades, y garantizar el principio del debido proceso.",
+      "C": "Es un examen que tiene como prop├│sito determinar en qu├® medida se ha observado la normativa aplicable y las buenas pr├ícticas de gesti├│n p├║blica.",
+      "D": "Se origina por indicaci├│n del titular de la entidad, en el marco de sus atribuciones y ante alguna situaci├│n de la que toma conocimiento."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: RC-001-2022-CG. Directiva N° 001-2022-CG/NORM Auditoría de Cumplimiento Numeral 6.3 Definición, alcance y objetivos de la auditoría de cumplimiento ? 7."
+    "fundamento": "Referencia bibliogr├ífica: RC-001-2022-CG. Directiva N┬░ 001-2022-CG/NORM Auditor├¡a de Cumplimiento Numeral 6.3 Definici├│n, alcance y objetivos de la auditor├¡a de cumplimiento ÔÇô 7."
   },
   {
     "id": 106,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "«Es el valor económico de la obra, estructurado por partidas con sus respectivos metrados, análisis de precios unitarios, gastos generales, utilidad e impuestos». La definición anterior corresponde a",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬½Es el valor econ├│mico de la obra, estructurado por partidas con sus respectivos metrados, an├ílisis de precios unitarios, gastos generales, utilidad e impuestos┬╗. La definici├│n anterior corresponde a",
     "opciones": {
-      "A": "calendario de obra valorizado.",
-      "B": "valorización de obra.",
-      "C": "costo directo.",
-      "D": "presupuesto de obra."
+      "A": "Calendario de obra valorizado.",
+      "B": "Valorizaci├│n de obra.",
+      "C": "Costo directo.",
+      "D": "Presupuesto de obra."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Anexo 1 ? Definiciones. Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N° 344-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: Anexo 1 ÔÇô Definiciones. Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N┬░ 344-2018-EF"
   },
   {
     "id": 107,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Son subcategorías de las situaciones adversas de tipo cuantitativo.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Son subcategor├¡as de las situaciones adversas de tipo cuantitativo.",
     "opciones": {
-      "A": "Penalidades no ejecutadas; pago por partidas o servicios no ejecutados de acuerdo con el contrato, parcialmente ejecutados o no sustentados; garantía de fiel cumplimiento no retenidas; intereses legales a reconocer; adicionales de obra no sustentados; ampliaciones de plazo no sustentados; otros.",
-      "B": "Penalidades no ejecutadas; pago por partidas o servicios no ejecutados de acuerdo con el contrato, parcialmente ejecutados o no sustentados; garantía de fiel cumplimiento no retenidas; deficiencia del registro en los aplicativos informáticos (mal registro, no se registra en INFOBRAS, SEACE, entre otros).",
-      "C": "Deficiencia del registro en los aplicativos informáticos (mal registro, no se registra en INFOBRAS, SEACE, entre otros); carencia de seguro de riesgo (SCTR).",
-      "D": "Deficiencia del registro en los aplicativos informáticos (mal registro, no se registra en INFOBRAS, SEACE, entre otros); carencia de seguro de riesgo (SCTR); ausencia o condiciones deficientes de almacenamiento de materiales, insumos y equipamiento."
+      "A": "Penalidades no ejecutadas; pago por partidas o servicios no ejecutados de acuerdo con el contrato, parcialmente ejecutados o no sustentados; garant├¡a de fiel cumplimiento no retenidas; intereses legales a reconocer; adicionales de obra no sustentados; ampliaciones de plazo no sustentados; otros.",
+      "B": "Penalidades no ejecutadas; pago por partidas o servicios no ejecutados de acuerdo con el contrato, parcialmente ejecutados o no sustentados; garant├¡a de fiel cumplimiento no retenidas; deficiencia del registro en los aplicativos inform├íticos (mal registro, no se registra en INFOBRAS, SEACE, entre otros).",
+      "C": "Deficiencia del registro en los aplicativos inform├íticos (mal registro, no se registra en INFOBRAS, SEACE, entre otros); carencia de seguro de riesgo (SCTR).",
+      "D": "Deficiencia del registro en los aplicativos inform├íticos (mal registro, no se registra en INFOBRAS, SEACE, entre otros); carencia de seguro de riesgo (SCTR); ausencia o condiciones deficientes de almacenamiento de materiales, insumos y equipamiento."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 218-2022-CG, Directiva N° 013-2022-CG/NORM, ?Servicio de Control Simultáneo?, Anexo N° 4, numeral 2, 2.1 situaciones adversas de tipo Cuantitativo, tabla 1."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 218-2022-CG, Directiva N┬░ 013-2022-CG/NORM, ÔÇ£Servicio de Control Simult├íneoÔÇØ, Anexo N┬░ 4, numeral 2, 2.1 situaciones adversas de tipo Cuantitativo, tabla 1."
   },
   {
     "id": 108,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
     "pregunta": "Respecto del Plan Anual de Contrataciones, marque la alternativa correcta.",
     "opciones": {
       "A": "Debe prever las contrataciones de bienes, servicios y obras cubiertas con el Presupuesto Institucional de Apertura.",
       "B": "Se publica en el SEACE y en el portal institucional de la CGR.",
-      "C": "Publicado por cada entidad en el SEACE dentro de los quince (15) días hábiles siguientes a la aprobación del Plan Anual de Contrataciones.",
-      "D": "Aprobado dentro de los cinco (5) días hábiles siguientes a la aprobación del Presupuesto Institucional Modificado."
+      "C": "Publicado por cada entidad en el SEACE dentro de los quince (15) d├¡as h├íbiles siguientes a la aprobaci├│n del Plan Anual de Contrataciones.",
+      "D": "Aprobado dentro de los cinco (5) d├¡as h├íbiles siguientes a la aprobaci├│n del Presupuesto Institucional Modificado."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: TUO de la Ley No 30225, Ley de Contrataciones del Estado. Artículo15 del Decreto Supremo No 082-2019-EF. Reglamento de la Ley No 30225. Artículo 6, Ley de Contrataciones, Decreto Supremo No 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: TUO de la Ley No 30225, Ley de Contrataciones del Estado. Art├¡culo15 del Decreto Supremo No 082-2019-EF. Reglamento de la Ley No 30225. Art├¡culo 6, Ley de Contrataciones, Decreto Supremo No 344-2018-EF."
   },
   {
     "id": 109,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Marque la alternativa INCORRECTA que sustenta la participación del consorcio en los procedimientos de selección.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Marque la alternativa INCORRECTA que sustenta la participaci├│n del consorcio en los procedimientos de selecci├│n.",
     "opciones": {
-      "A": "Pueden participar varios proveedores agrupados en consorcio independientemente del porcentaje de participación de cada integrante.",
-      "B": "Los documentos del procedimiento de selección pueden establecer un número máximo de consorciados y/o el porcentaje mínimo de participación.",
+      "A": "Pueden participar varios proveedores agrupados en consorcio independientemente del porcentaje de participaci├│n de cada integrante.",
+      "B": "Los documentos del procedimiento de selecci├│n pueden establecer un n├║mero m├íximo de consorciados y/o el porcentaje m├¡nimo de participaci├│n.",
       "C": "El contrato de consorcio debe contar con firma legalizada.",
-      "D": "La participación en consorcio implica la obligación de crear una persona jurídica diferente."
+      "D": "La participaci├│n en consorcio implica la obligaci├│n de crear una persona jur├¡dica diferente."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: TUO de la Ley No 30225, Ley de Contrataciones del Estado. Artículo13 del Decreto Supremo No 082-2019-EF."
+    "fundamento": "Referencia bibliogr├ífica: TUO de la Ley No 30225, Ley de Contrataciones del Estado. Art├¡culo13 del Decreto Supremo No 082-2019-EF."
   },
   {
     "id": 110,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Respecto de las competencias de la CGR, seleccione la alternativa correcta que corresponda con las atribuciones de autorización previa a la ejecución y al pago de presupuestos adicionales de obra y a la aprobación de mayores gastos de supervisión.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Respecto de las competencias de la CGR, seleccione la alternativa correcta que corresponda con las atribuciones de autorizaci├│n previa a la ejecuci├│n y al pago de presupuestos adicionales de obra y a la aprobaci├│n de mayores gastos de supervisi├│n.",
     "opciones": {
-      "A": "Pueden ser objeto de arbitraje tal y como se establece en el artículo 105 de la Ley de Contrataciones de Estado.",
-      "B": "Pueden ser objeto de recurso de apelación y es resuelto por el Tribunal de Contrataciones de Estado.",
+      "A": "Pueden ser objeto de arbitraje tal y como se establece en el art├¡culo 105 de la Ley de Contrataciones de Estado.",
+      "B": "Pueden ser objeto de recurso de apelaci├│n y es resuelto por el Tribunal de Contrataciones de Estado.",
       "C": "No pueden ser objeto de arbitraje.",
-      "D": "Solo son objeto de arbitraje los pronunciamientos señalados en los informes de control simultáneo."
+      "D": "Solo son objeto de arbitraje los pronunciamientos se├▒alados en los informes de control simult├íneo."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: artículo 23 de la Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 23 de la Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 111,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Respecto de la intervención económica a causa del incumplimiento del contratista, determine el enunciado INCORRECTO.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Respecto de la intervenci├│n econ├│mica a causa del incumplimiento del contratista, determine el enunciado INCORRECTO.",
     "opciones": {
-      "A": "La entidad interviene económicamente para culminar la ejecución de los trabajos.",
-      "B": "Deja al contratista al margen de su participación contractual y sus obligaciones correspondientes.",
-      "C": "El contratista pierde el derecho al reconocimiento de mayores gastos generales, indemnización o cualquier otro reclamo cuando la intervención sea consecuencia de su incumplimiento.",
-      "D": "Si el contratista rechaza la intervención económica, el contrato es resuelto por incumplimiento."
+      "A": "La entidad interviene econ├│micamente para culminar la ejecuci├│n de los trabajos.",
+      "B": "Deja al contratista al margen de su participaci├│n contractual y sus obligaciones correspondientes.",
+      "C": "El contratista pierde el derecho al reconocimiento de mayores gastos generales, indemnizaci├│n o cualquier otro reclamo cuando la intervenci├│n sea consecuencia de su incumplimiento.",
+      "D": "Si el contratista rechaza la intervenci├│n econ├│mica, el contrato es resuelto por incumplimiento."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: artículo 204° ? 204.1 ? 204.2 Intervención Económica de la Obra del Reglamento de la Ley de Contrataciones del Estado aprobado mediante D.S. N° 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 204┬░ ÔÇô 204.1 ÔÇô 204.2 Intervenci├│n Econ├│mica de la Obra del Reglamento de la Ley de Contrataciones del Estado aprobado mediante D.S. N┬░ 344-2018-EF."
   },
   {
     "id": 112,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "El requerimiento que realiza el área usuaria debe contener",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "El requerimiento que realiza el ├írea usuaria debe contener",
     "opciones": {
-      "A": "el nombre de los proveedores a cotizar y/o proveedor que ganó anteriormente.",
-      "B": "las especificaciones técnicas, los términos de referencia o el expediente técnico.",
-      "C": "los datos sobre la fabricación, posibles marcas y/o patentes.",
-      "D": "el nombre del titular de la entidad y del área usuaria."
+      "A": "El nombre de los proveedores a cotizar y/o proveedor que gan├│ anteriormente.",
+      "B": "Las especificaciones t├®cnicas, los t├®rminos de referencia o el expediente t├®cnico.",
+      "C": "Los datos sobre la fabricaci├│n, posibles marcas y/o patentes.",
+      "D": "El nombre del titular de la entidad y del ├írea usuaria."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Anexo 1- Definiciones- Requerimiento, del Reglamento de la Ley 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia bibliogr├ífica: Anexo 1- Definiciones- Requerimiento, del Reglamento de la Ley 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 113,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿Qué cláusulas obligatorias deben contener los contratos regulados por la normativa de contrataciones?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐Qu├® cl├íusulas obligatorias deben contener los contratos regulados por la normativa de contrataciones?",
     "opciones": {
-      "A": "Anticorrupción, facultad de elevar a escritura pública, solución de controversias y resolución de contrato por incumplimiento",
-      "B": "Resolución del contrato, responsabilidad de las partes, anticorrupción, marco legal del contrato y solución de controversias",
-      "C": "Plazo de la ejecución de la prestación, garantías, responsabilidad por vicios ocultos, penalidades y solución de controversias",
-      "D": "Garantías, anticorrupción, solución de controversias y resolución por incumplimiento"
+      "A": "Anticorrupci├│n, facultad de elevar a escritura p├║blica, soluci├│n de controversias y resoluci├│n de contrato por incumplimiento",
+      "B": "Resoluci├│n del contrato, responsabilidad de las partes, anticorrupci├│n, marco legal del contrato y soluci├│n de controversias",
+      "C": "Plazo de la ejecuci├│n de la prestaci├│n, garant├¡as, responsabilidad por vicios ocultos, penalidades y soluci├│n de controversias",
+      "D": "Garant├¡as, anticorrupci├│n, soluci├│n de controversias y resoluci├│n por incumplimiento"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 138.2 del Reglamento de la Ley 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 138.2 del Reglamento de la Ley 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 114,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "En el marco del TUO de la Ley N° 30225, marque la alternativa correcta respecto de la nulidad.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "En el marco del TUO de la Ley N┬░ 30225, marque la alternativa correcta respecto de la nulidad.",
     "opciones": {
-      "A": "En algunos casos, los contratos pueden incluir una cláusula de no participación en prácticas corruptas, bajo sanción de nulidad.",
-      "B": "Es requisito para convocar un procedimiento de selección, contar con la certificación de crédito presupuestario, bajo sanción de nulidad.",
-      "C": "El Tribunal de Contrataciones del Estado, en los casos que conozca, declara nulos los actos expedidos únicamente por órgano competente.",
-      "D": "Las discrepancias que surjan entre la entidad y los participantes o postores en un procedimiento de selección pueden dar lugar a la declaratoria de nulidad."
+      "A": "En algunos casos, los contratos pueden incluir una cl├íusula de no participaci├│n en pr├ícticas corruptas, bajo sanci├│n de nulidad.",
+      "B": "Es requisito para convocar un procedimiento de selecci├│n, contar con la certificaci├│n de cr├®dito presupuestario, bajo sanci├│n de nulidad.",
+      "C": "El Tribunal de Contrataciones del Estado, en los casos que conozca, declara nulos los actos expedidos ├║nicamente por ├│rgano competente.",
+      "D": "Las discrepancias que surjan entre la entidad y los participantes o postores en un procedimiento de selecci├│n pueden dar lugar a la declaratoria de nulidad."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 19 del TUO de la Ley N° 30225, Ley de Contrataciones del Estado, modificada por Decreto Legislativo 1444."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 19 del TUO de la Ley N┬░ 30225, Ley de Contrataciones del Estado, modificada por Decreto Legislativo 1444."
   },
   {
     "id": 115,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "De acuerdo con el reglamento de la Ley N° 30225, Ley de Contrataciones del Estado, en una contratación directa se requiere, de manera expresa, obligatoriamente la opinión favorable de la CGR _________________.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "De acuerdo con el reglamento de la Ley N┬░ 30225, Ley de Contrataciones del Estado, en una contrataci├│n directa se requiere, de manera expresa, obligatoriamente la opini├│n favorable de la CGR _________________.",
     "opciones": {
-      "A": "ante una contratación directa con carácter secreto y con un determinado proveedor",
-      "B": "ante una situación de emergencia derivada de acontecimientos catastróficos",
-      "C": "ante una situación de desabastecimiento debidamente comprobada",
-      "D": "cuando los bienes y servicios solo pueden obtenerse de un determinado proveedor que posea derechos exclusivos de ellos"
+      "A": "Ante una contrataci├│n directa con car├ícter secreto y con un determinado proveedor",
+      "B": "Ante una situaci├│n de emergencia derivada de acontecimientos catastr├│ficos",
+      "C": "Ante una situaci├│n de desabastecimiento debidamente comprobada",
+      "D": "Cuando los bienes y servicios solo pueden obtenerse de un determinado proveedor que posea derechos exclusivos de ellos"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento de la Ley N° 30225 (D.S. N° 344-2018-EF). Artículo 27, inciso d. Aprobación de contrataciones directas."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento de la Ley N┬░ 30225 (D.S. N┬░ 344-2018-EF). Art├¡culo 27, inciso d. Aprobaci├│n de contrataciones directas."
   },
   {
     "id": 116,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "La contratación de Estado a Estado debe autorizarse mediante",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "La contrataci├│n de Estado a Estado debe autorizarse mediante",
     "opciones": {
       "A": "Decreto Ley, refrendado por el titular del sector correspondiente.",
       "B": "Decreto de Urgencia, refrendado por el titular del sector correspondiente.",
       "C": "Decreto Supremo, refrendado por el titular del sector correspondiente.",
-      "D": "Resolución Ministerial, refrendada por el titular del sector correspondiente."
+      "D": "Resoluci├│n Ministerial, refrendada por el titular del sector correspondiente."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Vigésima Primera Disposición Complementaria Final del TUO de la Ley de Contrataciones del Estado P. 26"
+    "fundamento": "Referencia bibliogr├ífica: Vig├®sima Primera Disposici├│n Complementaria Final del TUO de la Ley de Contrataciones del Estado P. 26"
   },
   {
     "id": 117,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "La decisión de la entidad o de la Contraloría General de la República de aprobar o no la ejecución de prestaciones adicionales ____________ ser sometida a conciliación ni arbitraje ni a la Junta de Resolución de Disputas. (Ley N° 30225, Ley de Contrataciones del Estado).",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "La decisi├│n de la entidad o de la Contralor├¡a General de la Rep├║blica de aprobar o no la ejecuci├│n de prestaciones adicionales ____________ ser sometida a conciliaci├│n ni arbitraje ni a la Junta de Resoluci├│n de Disputas. (Ley N┬░ 30225, Ley de Contrataciones del Estado).",
     "opciones": {
-      "A": "ocasionalmente podría",
-      "B": "no puede, en ningún caso,",
-      "C": "en casos fundamentados, podría",
-      "D": "salvo por orden superior, no puede"
+      "A": "Ocasionalmente podr├¡a",
+      "B": "No puede, en ning├║n caso,",
+      "C": "En casos fundamentados, podr├¡a",
+      "D": "Salvo por orden superior, no puede"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 30225. Ley de Contrataciones del Estado. Artículo 45. Medios de solución de controversias, ejecución contractual numeral 45.4"
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 30225. Ley de Contrataciones del Estado. Art├¡culo 45. Medios de soluci├│n de controversias, ejecuci├│n contractual numeral 45.4"
   },
   {
     "id": 118,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "En cuanto a la ampliación de plazo contractual, señale la alternativa correcta.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "En cuanto a la ampliaci├│n de plazo contractual, se├▒ale la alternativa correcta.",
     "opciones": {
-      "A": "Las ampliaciones de plazo en contratos de bienes, o para la prestación de servicios en general y de consultoría en general, dan lugar al pago de los gastos generales debidamente acreditados.",
-      "B": "Las controversias relacionadas con la ampliación del plazo deben ser sometidas a arbitraje o conciliación en el plazo de treinta (30) días hábiles posteriores a la notificación de la decisión.",
+      "A": "Las ampliaciones de plazo en contratos de bienes, o para la prestaci├│n de servicios en general y de consultor├¡a en general, dan lugar al pago de los gastos generales debidamente acreditados.",
+      "B": "Las controversias relacionadas con la ampliaci├│n del plazo deben ser sometidas a arbitraje o conciliaci├│n en el plazo de treinta (30) d├¡as h├íbiles posteriores a la notificaci├│n de la decisi├│n.",
       "C": "De no producirse pronunciamiento por parte de la entidad, se entiende que ha sido denegada la solicitud del contratista.",
-      "D": "Ante la ampliación otorgada, la entidad puede extender el plazo de los contratos vinculados al principal, y el contratista debe asumir los mayores gastos de estos contratos vinculados."
+      "D": "Ante la ampliaci├│n otorgada, la entidad puede extender el plazo de los contratos vinculados al principal, y el contratista debe asumir los mayores gastos de estos contratos vinculados."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 158.5 del Art. 158 Ampliación del Plazo Contractual del Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. 344-2018-EF, modificado por DS 234-2022-EF."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 158.5 del Art. 158 Ampliaci├│n del Plazo Contractual del Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. 344-2018-EF, modificado por DS 234-2022-EF."
   },
   {
     "id": 119,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Respecto del Plan Anual de Contrataciones, señale la alternativa correcta.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Respecto del Plan Anual de Contrataciones, se├▒ale la alternativa correcta.",
     "opciones": {
-      "A": "Se publica en el SEACE y en el portal institucional de la Contraloría General de la República.",
+      "A": "Se publica en el SEACE y en el portal institucional de la Contralor├¡a General de la Rep├║blica.",
       "B": "Debe prever las contrataciones de bienes, servicios y obras cubiertas con el Presupuesto Institucional de Apertura.",
-      "C": "Publicado por cada entidad en el SEACE dentro de los quince (15) días hábiles siguientes a la aprobación del Plan Anual de Contrataciones.",
-      "D": "Aprobado dentro de los cinco (5) días hábiles siguientes a la aprobación del Presupuesto Institucional Modificado."
+      "C": "Publicado por cada entidad en el SEACE dentro de los quince (15) d├¡as h├íbiles siguientes a la aprobaci├│n del Plan Anual de Contrataciones.",
+      "D": "Aprobado dentro de los cinco (5) d├¡as h├íbiles siguientes a la aprobaci├│n del Presupuesto Institucional Modificado."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: TUO de la Ley N° 30225, Ley de Contrataciones del Estado. Artículo15, Numeral 15.2 del Decreto Supremo 082-2019-EF. Reglamento de la Ley N° 30225, Ley de Contrataciones del Estado, Decreto Supremo N°344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: TUO de la Ley N┬░ 30225, Ley de Contrataciones del Estado. Art├¡culo15, Numeral 15.2 del Decreto Supremo 082-2019-EF. Reglamento de la Ley N┬░ 30225, Ley de Contrataciones del Estado, Decreto Supremo N┬░344-2018-EF."
   },
   {
     "id": 120,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "De acuerdo con la Ley N° 31358, Ley que establece Medidas para la Expansión del control concurrente, modificada por la Ley N° 31500 y por la Ley N° 31640, Ley de Endeudamiento del Sector Público para el Año Fiscal 2023, marque el enunciado correcto.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "De acuerdo con la Ley N┬░ 31358, Ley que establece Medidas para la Expansi├│n del control concurrente, modificada por la Ley N┬░ 31500 y por la Ley N┬░ 31640, Ley de Endeudamiento del Sector P├║blico para el A├▒o Fiscal 2023, marque el enunciado correcto.",
     "opciones": {
-      "A": "La ejecución de inversiones que genere el desembolso de recursos públicos y/o privados por parte del Estado, cuyos montos superen los S/ 5 000 000,00 (cinco millones de soles), son objeto de control concurrente por parte de la Contraloría General de la República.",
-      "B": "El control concurrente no tiene carácter vinculante y obligatorio.",
-      "C": "El control concurrente se efectúa sólo en la formulación de los términos de referencia, y no comprende la elaboración del expediente técnico, la ejecución, supervisión y conformidad de la obra o servicio.",
+      "A": "La ejecuci├│n de inversiones que genere el desembolso de recursos p├║blicos y/o privados por parte del Estado, cuyos montos superen los S/ 5 000 000,00 (cinco millones de soles), son objeto de control concurrente por parte de la Contralor├¡a General de la Rep├║blica.",
+      "B": "El control concurrente no tiene car├ícter vinculante y obligatorio.",
+      "C": "El control concurrente se efect├║a s├│lo en la formulaci├│n de los t├®rminos de referencia, y no comprende la elaboraci├│n del expediente t├®cnico, la ejecuci├│n, supervisi├│n y conformidad de la obra o servicio.",
       "D": "Para el desarrollo del control concurrente se debe contar especialmente con abogados, ingenieros y contadores, que garanticen una efectiva y eficaz labor del Sistema Nacional de Control."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Ley 31358, artículo 1.1"
+    "fundamento": "Referencia bibliogr├ífica: Ley 31358, art├¡culo 1.1"
   },
   {
     "id": 121,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Respecto de la solución de controversias en el marco de la normativa de Obras por Impuestos, señale la alternativa correcta.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Respecto de la soluci├│n de controversias en el marco de la normativa de Obras por Impuestos, se├▒ale la alternativa correcta.",
     "opciones": {
-      "A": "La entidad pública y la empresa privada pueden convenir en someter sus controversias al trato directo, conforme a las reglas de la buena fe y común intención de las partes. El acuerdo al que se llegue tiene efecto vinculante y ejecutable para las partes y produce los efectos legales de la transacción.",
-      "B": "Las controversias que surjan entre las partes en el marco de la ejecución de un convenio de inversión, se resuelven solo mediante arbitraje.",
-      "C": "Las controversias que surjan entre las partes en el marco de la ejecución de un convenio de inversión, no pueden ser sometidas a conciliación.",
-      "D": "En los casos de mediación, la entidad pública puede suscribir un acta en la que se determinen los derechos y las obligaciones exigibles a las partes y con el fin de viabilizar la correcta ejecución del proyecto de inversión pública."
+      "A": "La entidad p├║blica y la empresa privada pueden convenir en someter sus controversias al trato directo, conforme a las reglas de la buena fe y com├║n intenci├│n de las partes. El acuerdo al que se llegue tiene efecto vinculante y ejecutable para las partes y produce los efectos legales de la transacci├│n.",
+      "B": "Las controversias que surjan entre las partes en el marco de la ejecuci├│n de un convenio de inversi├│n, se resuelven solo mediante arbitraje.",
+      "C": "Las controversias que surjan entre las partes en el marco de la ejecuci├│n de un convenio de inversi├│n, no pueden ser sometidas a conciliaci├│n.",
+      "D": "En los casos de mediaci├│n, la entidad p├║blica puede suscribir un acta en la que se determinen los derechos y las obligaciones exigibles a las partes y con el fin de viabilizar la correcta ejecuci├│n del proyecto de inversi├│n p├║blica."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 295-2021-CG Normas Generales de Control Gubernamental, pág.8."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 295-2021-CG Normas Generales de Control Gubernamental, p├íg.8."
   },
   {
     "id": 122,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Marque la opción que corresponda a alguno de los principios que rigen las contrataciones.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Marque la opci├│n que corresponda a alguno de los principios que rigen las contrataciones.",
     "opciones": {
       "A": "Competencia, transparencia, publicidad",
-      "B": "Integridad, libertad de expresión, conformidad",
-      "C": "Competencia, satisfacción, eficacia y eficiencia",
-      "D": "Transparencia, desempeño, sostenibilidad ambiental y social"
+      "B": "Integridad, libertad de expresi├│n, conformidad",
+      "C": "Competencia, satisfacci├│n, eficacia y eficiencia",
+      "D": "Transparencia, desempe├▒o, sostenibilidad ambiental y social"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 2. Texto Único Ordenado de la Ley N° 30225. Ley de contrataciones con el Estado"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 2. Texto ├Ünico Ordenado de la Ley N┬░ 30225. Ley de contrataciones con el Estado"
   },
   {
     "id": 123,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿Qué significa el acrónico SEACE?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐Qu├® significa el acr├│nico SEACE?",
     "opciones": {
       "A": "Sistema administrativo de contrataciones del Estado",
-      "B": "Sistema electrónico de contrataciones del Estado",
+      "B": "Sistema electr├│nico de contrataciones del Estado",
       "C": "Sistema estatal administrativo de contrataciones del Estado",
-      "D": "Sistema electrónico administrativo de contrataciones del Estado"
+      "D": "Sistema electr├│nico administrativo de contrataciones del Estado"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: TUO de la Ley N°30225, Ley de Contrataciones del Estado - D. S. N°082 - 2019 - EF, artículo 1, Acrónimos y referencias."
+    "fundamento": "Referencia bibliogr├ífica: TUO de la Ley N┬░30225, Ley de Contrataciones del Estado - D. S. N┬░082 - 2019 - EF, art├¡culo 1, Acr├│nimos y referencias."
   },
   {
     "id": 124,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Las contrataciones del Estado pueden contemplar alguna de las siguientes modalidades de contratación:",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Las contrataciones del Estado pueden contemplar alguna de las siguientes modalidades de contrataci├│n:",
     "opciones": {
       "A": "Esquema mixto y concurso oferta",
       "B": "Llave en mano y concurso oferta",
@@ -1609,12 +1609,12 @@ const BANCO_PREGUNTAS = [
       "D": "Suma alzada y precios unitarios"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 36 del Reglamento de la Ley de Contrataciones del Estado, aprobado por el Decreto Supremo N° 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 36 del Reglamento de la Ley de Contrataciones del Estado, aprobado por el Decreto Supremo N┬░ 344-2018-EF."
   },
   {
     "id": 125,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Las entidades proporcionan información clara y coherente con el fin de que todas las etapas de la contratación sean comprendidas por los proveedores, lo que garantiza la libertad de concurrencia y que la contratación se desarrolle bajo condiciones de igualdad de trato, objetividad e imparcialidad. ¿A qué principio de la ley de contrataciones corresponde la definición anterior?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Las entidades proporcionan informaci├│n clara y coherente con el fin de que todas las etapas de la contrataci├│n sean comprendidas por los proveedores, lo que garantiza la libertad de concurrencia y que la contrataci├│n se desarrolle bajo condiciones de igualdad de trato, objetividad e imparcialidad. ┬┐A qu├® principio de la ley de contrataciones corresponde la definici├│n anterior?",
     "opciones": {
       "A": "Competencia",
       "B": "Equidad",
@@ -1622,207 +1622,207 @@ const BANCO_PREGUNTAS = [
       "D": "Transparencia"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 2 del TUO de la Ley 30225, Ley de Contrataciones de Estado, aprobado con el Decreto Supremo N° 082-2019-EF."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 2 del TUO de la Ley 30225, Ley de Contrataciones de Estado, aprobado con el Decreto Supremo N┬░ 082-2019-EF."
   },
   {
     "id": 126,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "En cuanto a la organización de los procesos de contratación del Estado, señale la alternativa INCORRECTA.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "En cuanto a la organizaci├│n de los procesos de contrataci├│n del Estado, se├▒ale la alternativa INCORRECTA.",
     "opciones": {
-      "A": "Los procesos de contratación pueden ser encargados a otra entidad solo en la fase de procedimiento de selección y en concordancia con los acuerdos marco entre entidades.",
-      "B": "Los procesos de contratación son organizados por la entidad a cargo.",
-      "C": "Mediante convenio, una entidad puede encargar a otra las actuaciones preparatorias y/o el procedimiento de selección.",
-      "D": "Excepcionalmente, también pueden encargarse las actuaciones preparatorias y/o procedimientos de selección a organismos internacionales debidamente acreditados, previa autorización expresa, siguiendo las condiciones de transparencia, auditabilidad y rendición de cuentas."
+      "A": "Los procesos de contrataci├│n pueden ser encargados a otra entidad solo en la fase de procedimiento de selecci├│n y en concordancia con los acuerdos marco entre entidades.",
+      "B": "Los procesos de contrataci├│n son organizados por la entidad a cargo.",
+      "C": "Mediante convenio, una entidad puede encargar a otra las actuaciones preparatorias y/o el procedimiento de selecci├│n.",
+      "D": "Excepcionalmente, tambi├®n pueden encargarse las actuaciones preparatorias y/o procedimientos de selecci├│n a organismos internacionales debidamente acreditados, previa autorizaci├│n expresa, siguiendo las condiciones de transparencia, auditabilidad y rendici├│n de cuentas."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 6 del TUO de la Ley 30225, Ley de Contrataciones de Estado, aprobado con el Decreto Supremo N° 082-2019-EF."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 6 del TUO de la Ley 30225, Ley de Contrataciones de Estado, aprobado con el Decreto Supremo N┬░ 082-2019-EF."
   },
   {
     "id": 127,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "En el marco de la normativa de contrataciones del Estado, el concurso de proyectos arquitectónicos se utiliza para",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "En el marco de la normativa de contrataciones del Estado, el concurso de proyectos arquitect├│nicos se utiliza para",
     "opciones": {
-      "A": "seleccionar la propuesta arquitectónica cuya oferta económica es la más baja.",
-      "B": "contratar las consultorías de obra que se encargarán de elaborar el expediente técnico de obras urbanas, edificaciones y afines, mediante el cual se evalúa la propuesta arquitectónica.",
-      "C": "contratar bienes, servicios, consultoría en general, consultorías de obras y ejecución de obras.",
-      "D": "contratar las obras urbanas, edificaciones y afines."
+      "A": "Seleccionar la propuesta arquitect├│nica cuya oferta econ├│mica es la m├ís baja.",
+      "B": "Contratar las consultor├¡as de obra que se encargar├ín de elaborar el expediente t├®cnico de obras urbanas, edificaciones y afines, mediante el cual se eval├║a la propuesta arquitect├│nica.",
+      "C": "Contratar bienes, servicios, consultor├¡a en general, consultor├¡as de obras y ejecuci├│n de obras.",
+      "D": "Contratar las obras urbanas, edificaciones y afines."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Reglamento de Texto Único Ordenado de la Ley N° 30225, Ley de Contrataciones del Estado, artículo 85."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento de Texto ├Ünico Ordenado de la Ley N┬░ 30225, Ley de Contrataciones del Estado, art├¡culo 85."
   },
   {
     "id": 128,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿Cuál de las siguientes condiciones NO es requisito para que se pueda iniciar el plazo de ejecución de una obra?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐Cu├íl de las siguientes condiciones NO es requisito para que se pueda iniciar el plazo de ejecuci├│n de una obra?",
     "opciones": {
       "A": "Cuando la entidad haya otorgado al contratista los adelantos directos y de materiales en las condiciones y oportunidad establecidas en el reglamento",
       "B": "Cuando la entidad haya hecho entrega total o parcial del terreno o lugar donde se ejecuta la obra",
-      "C": "Cuando la entidad haya hecho entrega del expediente técnico de obra completa, en caso de que este haya sido modificado con ocasión de la absolución de consultas y observaciones",
-      "D": "Cuando la entidad provea del calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligación"
+      "C": "Cuando la entidad haya hecho entrega del expediente t├®cnico de obra completa, en caso de que este haya sido modificado con ocasi├│n de la absoluci├│n de consultas y observaciones",
+      "D": "Cuando la entidad provea del calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligaci├│n"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: artículo 176.1 del Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N° 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 176.1 del Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N┬░ 344-2018-EF."
   },
   {
     "id": 129,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "De acuerdo con la gestión de riesgos ¿qué definición NO constituye un beneficio de la gestión de riesgos en la contratación pública?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "De acuerdo con la gesti├│n de riesgos ┬┐qu├® definici├│n NO constituye un beneficio de la gesti├│n de riesgos en la contrataci├│n p├║blica?",
     "opciones": {
-      "A": "Potencia la consecución de los objetivos y finalidad pública que persigue la contratación, optimizando el uso eficiente de los recursos.",
-      "B": "Permite observancia de las exigencias legales y reglamentarias en materia de contratación pública, pues disminuye los posibles escenarios que generan responsabilidades en los funcionarios y/o servidores que intervienen en el proceso de contratación.",
-      "C": "Fomenta un enfoque de gestión proactiva y preventiva de los riesgos potenciales que afectan las contrataciones de la entidad.",
-      "D": "Minimiza la percepción ciudadana respecto del desempeño prestacional del Estado."
+      "A": "Potencia la consecuci├│n de los objetivos y finalidad p├║blica que persigue la contrataci├│n, optimizando el uso eficiente de los recursos.",
+      "B": "Permite observancia de las exigencias legales y reglamentarias en materia de contrataci├│n p├║blica, pues disminuye los posibles escenarios que generan responsabilidades en los funcionarios y/o servidores que intervienen en el proceso de contrataci├│n.",
+      "C": "Fomenta un enfoque de gesti├│n proactiva y preventiva de los riesgos potenciales que afectan las contrataciones de la entidad.",
+      "D": "Minimiza la percepci├│n ciudadana respecto del desempe├▒o prestacional del Estado."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Gestión de riesgos en la contratación pública ? Orientación ? Organismo supervisor de las contrataciones del Estado, Beneficios de la gestión de riesgos en la contratación pública."
+    "fundamento": "Referencia bibliogr├ífica: Gesti├│n de riesgos en la contrataci├│n p├║blica ÔÇô Orientaci├│n ÔÇô Organismo supervisor de las contrataciones del Estado, Beneficios de la gesti├│n de riesgos en la contrataci├│n p├║blica."
   },
   {
     "id": 130,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Sobre la base de la Ley de Contrataciones para la Ejecución de Obra, el comité de selección de este procedimiento está conformado por",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Sobre la base de la Ley de Contrataciones para la Ejecuci├│n de Obra, el comit├® de selecci├│n de este procedimiento est├í conformado por",
     "opciones": {
-      "A": "tres miembros: dos del órgano encargado de contrataciones y uno con conocimiento técnico en el objeto de convocatoria",
-      "B": "tres miembros: uno del órgano encargado de contrataciones, uno con conocimiento técnico en el objeto de convocatoria y un tercer miembro",
-      "C": "tres miembros: uno del órgano encargado de contrataciones y dos con conocimiento técnico en el objeto de convocatoria",
-      "D": "dos miembros del órgano encargado de contrataciones"
+      "A": "Tres miembros: dos del ├│rgano encargado de contrataciones y uno con conocimiento t├®cnico en el objeto de convocatoria",
+      "B": "Tres miembros: uno del ├│rgano encargado de contrataciones, uno con conocimiento t├®cnico en el objeto de convocatoria y un tercer miembro",
+      "C": "Tres miembros: uno del ├│rgano encargado de contrataciones y dos con conocimiento t├®cnico en el objeto de convocatoria",
+      "D": "Dos miembros del ├│rgano encargado de contrataciones"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Capítulo II, órganos a cargo del procedimiento de selección. Artículo 44; 44.2 del Reglamento de la Ley de Contrataciones No 30225."
+    "fundamento": "Referencia bibliogr├ífica: Cap├¡tulo II, ├│rganos a cargo del procedimiento de selecci├│n. Art├¡culo 44; 44.2 del Reglamento de la Ley de Contrataciones No 30225."
   },
   {
     "id": 131,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "De acuerdo con la Ley de Contrataciones, ¿quiénes se encuentran encargados de los procesos de contratación en las entidades del Estado?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "De acuerdo con la Ley de Contrataciones, ┬┐qui├®nes se encuentran encargados de los procesos de contrataci├│n en las entidades del Estado?",
     "opciones": {
-      "A": "El área usuaria y el órgano encargado de las contrataciones",
-      "B": "El titular de la entidad, el área usuaria y el órgano encargado de las contrataciones",
+      "A": "El ├írea usuaria y el ├│rgano encargado de las contrataciones",
+      "B": "El titular de la entidad, el ├írea usuaria y el ├│rgano encargado de las contrataciones",
       "C": "Solo el titular de la entidad",
-      "D": "El titular de la entidad y el órgano encargado de las contrataciones"
+      "D": "El titular de la entidad y el ├│rgano encargado de las contrataciones"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 8. Ley de Contrataciones No 30225"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 8. Ley de Contrataciones No 30225"
   },
   {
     "id": 132,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿Cuál es el tiempo de vigencia del expediente técnico o documento equivalente para proyectos de inversión?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐Cu├íl es el tiempo de vigencia del expediente t├®cnico o documento equivalente para proyectos de inversi├│n?",
     "opciones": {
-      "A": "Dos (2) años contados a partir de su aprobación",
-      "B": "Un (1) año contado a partir de su última actualización",
-      "C": "Tres (3) años contados a partir de su aprobación o de su última actualización",
-      "D": "Dos (2) años contados a partir de su aprobación o de su última actualización"
+      "A": "Dos (2) a├▒os contados a partir de su aprobaci├│n",
+      "B": "Un (1) a├▒o contado a partir de su ├║ltima actualizaci├│n",
+      "C": "Tres (3) a├▒os contados a partir de su aprobaci├│n o de su ├║ltima actualizaci├│n",
+      "D": "Dos (2) a├▒os contados a partir de su aprobaci├│n o de su ├║ltima actualizaci├│n"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Art. 34 de la Directiva N° 001-2019-EF/63.01"
+    "fundamento": "Referencia bibliogr├ífica: Art. 34 de la Directiva N┬░ 001-2019-EF/63.01"
   },
   {
     "id": 133,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "De acuerdo con lo establecido en la Ley de Contrataciones con el Estado, el área usuaria es responsable de",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "De acuerdo con lo establecido en la Ley de Contrataciones con el Estado, el ├írea usuaria es responsable de",
     "opciones": {
-      "A": "formular las especificaciones técnicas, términos de referencia o expediente técnico.",
-      "B": "realizar la indagación de mercado.",
-      "C": "lanzar la convocatoria de procesos de selección.",
-      "D": "aprobar el Plan Anual de Contrataciones."
+      "A": "Formular las especificaciones t├®cnicas, t├®rminos de referencia o expediente t├®cnico.",
+      "B": "Realizar la indagaci├│n de mercado.",
+      "C": "Lanzar la convocatoria de procesos de selecci├│n.",
+      "D": "Aprobar el Plan Anual de Contrataciones."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 8 de la Ley de Contrataciones"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 8 de la Ley de Contrataciones"
   },
   {
     "id": 134,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "En relación con la nulidad del contrato, es válido señalar que",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "En relaci├│n con la nulidad del contrato, es v├ílido se├▒alar que",
     "opciones": {
-      "A": "procede cuando el contratista transgredió el principio de presunción de veracidad durante el proceso de selección.",
-      "B": "procede cuando una de las partes incumple las obligaciones contractuales.",
-      "C": "es potestad de la entidad declararla cuando existen vicios en su ejecución.",
-      "D": "el contratista puede declararlo por falta de pago."
+      "A": "Procede cuando el contratista transgredi├│ el principio de presunci├│n de veracidad durante el proceso de selecci├│n.",
+      "B": "Procede cuando una de las partes incumple las obligaciones contractuales.",
+      "C": "Es potestad de la entidad declararla cuando existen vicios en su ejecuci├│n.",
+      "D": "El contratista puede declararlo por falta de pago."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Literal b) del numeral 44.2 del artículo 44 de la Ley N° 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia bibliogr├ífica: Literal b) del numeral 44.2 del art├¡culo 44 de la Ley N┬░ 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 135,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿En qué situación un proveedor es retirado definitivamente del Registro Nacional de Proveedores (RNP)?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐En qu├® situaci├│n un proveedor es retirado definitivamente del Registro Nacional de Proveedores (RNP)?",
     "opciones": {
       "A": "Cuando el proveedor no realice el pago de la tasa.",
       "B": "Cuando el proveedor no cuente con RUC.",
-      "C": "Cuando el proveedor es sancionado con inhabilitación definitiva.",
-      "D": "Cuando el proveedor recibe una sanción tributaria."
+      "C": "Cuando el proveedor es sancionado con inhabilitaci├│n definitiva.",
+      "D": "Cuando el proveedor recibe una sanci├│n tributaria."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Artículo 14. Retiro definitivo del RNP. Reglamento de la Ley N° 30225, Ley de Contrataciones del Estado, aprobado por el Decreto Supremo Nº 344-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 14. Retiro definitivo del RNP. Reglamento de la Ley N┬░ 30225, Ley de Contrataciones del Estado, aprobado por el Decreto Supremo N┬║ 344-2018-EF"
   },
   {
     "id": 136,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "_________________ corresponde a una de las etapas de la subasta inversa electrónica.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "_________________ corresponde a una de las etapas de la subasta inversa electr├│nica.",
     "opciones": {
       "A": "El registro en el RNP",
       "B": "El otorgamiento de la buena pro",
-      "C": "El registro de catálogo electrónico",
+      "C": "El registro de cat├ílogo electr├│nico",
       "D": "El otorgamiento de registro de proveedor del Estado"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Literal d) del Numeral 112.1. Artículo 112. Reglamento de la Ley Nº 30225, Ley de Contrataciones del Estado Decreto Supremo Nº 344- 2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: Literal d) del Numeral 112.1. Art├¡culo 112. Reglamento de la Ley N┬║ 30225, Ley de Contrataciones del Estado Decreto Supremo N┬║ 344- 2018-EF"
   },
   {
     "id": 137,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "De acuerdo con la Ley N° 30225, Ley de Contrataciones del Estado, señale la alternativa que NO es considerada un procedimiento de selección.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "De acuerdo con la Ley N┬░ 30225, Ley de Contrataciones del Estado, se├▒ale la alternativa que NO es considerada un procedimiento de selecci├│n.",
     "opciones": {
-      "A": "Licitación internacional",
-      "B": "Concurso público",
-      "C": "Comparación de precios",
-      "D": "Subasta inversa electrónica"
+      "A": "Licitaci├│n internacional",
+      "B": "Concurso p├║blico",
+      "C": "Comparaci├│n de precios",
+      "D": "Subasta inversa electr├│nica"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 53 del Texto Único Ordenado de la Ley N° 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 53 del Texto ├Ünico Ordenado de la Ley N┬░ 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 138,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Según la Ley N° 30225, Ley de Contrataciones del Estado, señale la alternativa que NO corresponde a un principio que rige sus contrataciones.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Seg├║n la Ley N┬░ 30225, Ley de Contrataciones del Estado, se├▒ale la alternativa que NO corresponde a un principio que rige sus contrataciones.",
     "opciones": {
       "A": "Igualdad de trato",
-      "B": "Economía",
+      "B": "Econom├¡a",
       "C": "Equidad",
       "D": "Publicidad"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 2 del Único Ordenado de la Ley N.° 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 2 del ├Ünico Ordenado de la Ley N.┬░ 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 139,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Si la solicitud de ampliación de plazo es presentada por el auditado fuera del plazo establecido en el manual de auditoría de cumplimiento,",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Si la solicitud de ampliaci├│n de plazo es presentada por el auditado fuera del plazo establecido en el manual de auditor├¡a de cumplimiento,",
     "opciones": {
-      "A": "podría solicitarse reconsideración a la comisión auditora.",
-      "B": "se entenderá automáticamente denegada.",
-      "C": "es facultad de la comisión auditora ampliar el plazo solicitado.",
-      "D": "se hace de conocimiento de la Contraloría el pedido correspondiente."
+      "A": "Podr├¡a solicitarse reconsideraci├│n a la comisi├│n auditora.",
+      "B": "Se entender├í autom├íticamente denegada.",
+      "C": "Es facultad de la comisi├│n auditora ampliar el plazo solicitado.",
+      "D": "Se hace de conocimiento de la Contralor├¡a el pedido correspondiente."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 473-2014 - CG, Manual de Auditoría de Cumplimiento (MAC), numeral 8.2.4 ítem 138."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 473-2014 - CG, Manual de Auditor├¡a de Cumplimiento (MAC), numeral 8.2.4 ├¡tem 138."
   },
   {
     "id": 140,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Las siguientes condiciones son algunos requisitos para que inicie el plazo de ejecución de obra, EXCEPTO:",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Las siguientes condiciones son algunos requisitos para que inicie el plazo de ejecuci├│n de obra, EXCEPTO:",
     "opciones": {
       "A": "Que la entidad haya entregado total o parcialmente el terreno o lugar donde se ejecuta la obra.",
-      "B": "Que la entidad haya entregado el expediente técnico de obra completo, en caso haya sido modificado con ocasión de la absolución de consultas y observaciones.",
-      "C": "Que la entidad provea el calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligación.",
+      "B": "Que la entidad haya entregado el expediente t├®cnico de obra completo, en caso haya sido modificado con ocasi├│n de la absoluci├│n de consultas y observaciones.",
+      "C": "Que la entidad provea el calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligaci├│n.",
       "D": "Que la entidad haya otorgado al contratista los adelantos directos y de materiales en las condiciones y oportunidad establecidas en el reglamento."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 176.1 del Reglamento de la Ley de Contrataciones del Estado, aprobado por D. S. No 344-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 176.1 del Reglamento de la Ley de Contrataciones del Estado, aprobado por D. S. No 344-2018-EF"
   },
   {
     "id": 141,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Tiene por finalidad establecer normas orientadas a maximizar el valor de los recursos públicos que se invierten y a promover la actuación bajo el enfoque de gestión por resultados en las contrataciones de bienes, servicios y obras, de tal manera que estas se efectúen en forma oportuna y bajo las mejores condiciones de precio y calidad, permitan el cumplimiento de los fines públicos y tengan una repercusión positiva en las condiciones de vida de los ciudadanos.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Tiene por finalidad establecer normas orientadas a maximizar el valor de los recursos p├║blicos que se invierten y a promover la actuaci├│n bajo el enfoque de gesti├│n por resultados en las contrataciones de bienes, servicios y obras, de tal manera que estas se efect├║en en forma oportuna y bajo las mejores condiciones de precio y calidad, permitan el cumplimiento de los fines p├║blicos y tengan una repercusi├│n positiva en las condiciones de vida de los ciudadanos.",
     "opciones": {
       "A": "TUO de la Ley 30225",
       "B": "Ley 29846",
@@ -1830,25 +1830,25 @@ const BANCO_PREGUNTAS = [
       "D": "Ley 27482"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: TUO de la Ley 30225."
+    "fundamento": "Referencia bibliogr├ífica: TUO de la Ley 30225."
   },
   {
     "id": 142,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿Cuál de las condiciones siguientes NO es requisito para que se pueda dar inicio al plazo de ejecución de obra?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐Cu├íl de las condiciones siguientes NO es requisito para que se pueda dar inicio al plazo de ejecuci├│n de obra?",
     "opciones": {
       "A": "Que la entidad haya hecho entrega total o parcial del terreno o lugar donde se ejecuta la obra.",
-      "B": "Que la entidad haya hecho entrega del expediente técnico de obra completo, en caso haya sido modificado con ocasión de la absolución de consultas y observaciones.",
-      "C": "Que la entidad provea del calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligación.",
+      "B": "Que la entidad haya hecho entrega del expediente t├®cnico de obra completo, en caso haya sido modificado con ocasi├│n de la absoluci├│n de consultas y observaciones.",
+      "C": "Que la entidad provea del calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligaci├│n.",
       "D": "Que la entidad haya otorgado al contratista los adelantos directos y de materiales en las condiciones y oportunidad establecidas en el reglamento."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento de la Ley Nº 30225 Ley de Contrataciones del Estado, aprobado por D.S. Nº 344-2018-EF, artículo 176.1."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento de la Ley N┬║ 30225 Ley de Contrataciones del Estado, aprobado por D.S. N┬║ 344-2018-EF, art├¡culo 176.1."
   },
   {
     "id": 143,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Según el Reglamento de la Ley de Contrataciones del Estado, ¿cuál es el límite cuantitativo para las prestaciones adicionales de obras?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Seg├║n el Reglamento de la Ley de Contrataciones del Estado, ┬┐cu├íl es el l├¡mite cuantitativo para las prestaciones adicionales de obras?",
     "opciones": {
       "A": "Menor al 15 % del monto del contrato original",
       "B": "Menor al 15 % del monto del contrato vigente",
@@ -1856,25 +1856,25 @@ const BANCO_PREGUNTAS = [
       "D": "Menor al 50 % del monto del contrato original"
     },
     "correcta": "D",
-    "fundamento": "Referencia Bibliográfica: numeral 206.7 del artículo 206 Reglamento de la Ley N° 30225 de Contrataciones del Estado y sus modificatorias."
+    "fundamento": "Referencia Bibliogr├ífica: numeral 206.7 del art├¡culo 206 Reglamento de la Ley N┬░ 30225 de Contrataciones del Estado y sus modificatorias."
   },
   {
     "id": 144,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "En relación con la aprobación del expediente técnico de obra de diseño y construcción que se describe en el Reglamento de la Ley de Contrataciones del Estado, ¿qué alternativa presenta información correcta?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "En relaci├│n con la aprobaci├│n del expediente t├®cnico de obra de dise├▒o y construcci├│n que se describe en el Reglamento de la Ley de Contrataciones del Estado, ┬┐qu├® alternativa presenta informaci├│n correcta?",
     "opciones": {
-      "A": "La entidad cuenta con quince (15) días hábiles para emitir y notificar al contratista la resolución mediante la que se pronuncia sobre la aprobación del expediente técnico.",
-      "B": "El titular de la entidad no puede delegar la facultad de aprobar los expedientes técnicos.",
-      "C": "Concluida la elaboración de expediente técnico de obra, el supervisor cuenta con un plazo de siete (07) días, contados a partir del día siguiente de su recepción, para remitir a la entidad un informe en el que se pronuncie sobre la viabilidad de aprobar dicho expediente.",
-      "D": "Por única vez, se puede autorizar la aprobación de prestaciones adicionales por deficiencias o errores del expediente técnico de obra con la finalidad de evitar la resolución del contrato."
+      "A": "La entidad cuenta con quince (15) d├¡as h├íbiles para emitir y notificar al contratista la resoluci├│n mediante la que se pronuncia sobre la aprobaci├│n del expediente t├®cnico.",
+      "B": "El titular de la entidad no puede delegar la facultad de aprobar los expedientes t├®cnicos.",
+      "C": "Concluida la elaboraci├│n de expediente t├®cnico de obra, el supervisor cuenta con un plazo de siete (07) d├¡as, contados a partir del d├¡a siguiente de su recepci├│n, para remitir a la entidad un informe en el que se pronuncie sobre la viabilidad de aprobar dicho expediente.",
+      "D": "Por ├║nica vez, se puede autorizar la aprobaci├│n de prestaciones adicionales por deficiencias o errores del expediente t├®cnico de obra con la finalidad de evitar la resoluci├│n del contrato."
     },
     "correcta": "C",
-    "fundamento": "Referencia Bibliográfica: artículo 219° del Reglamento de la Ley N° 30225 de Contrataciones del Estado y sus modificatorias"
+    "fundamento": "Referencia Bibliogr├ífica: art├¡culo 219┬░ del Reglamento de la Ley N┬░ 30225 de Contrataciones del Estado y sus modificatorias"
   },
   {
     "id": 145,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Respecto de los efectos de la modificación del plazo contractual, señale cuáles son los enunciados correctos. I. Las ampliaciones de plazo en los contratos de obra dan lugar al pago de mayores costos directos y mayores gastos generales variables, ambos directamente vinculados con dichas ampliaciones. II. Como parte de los sustentos no se requiere detallar los riesgos que dieron lugar a la ampliación de plazo. III. Los costos directos se encuentran debidamente acreditados y forman parte de aquellos conceptos que integren la estructura de costos de la oferta económica del contratista. IV. Solo cuando la ampliación de plazo sea generada por la paralización total de la obra por causas ajenas a la voluntad del contratista, da lugar al pago de mayores gastos generales variables debidamente acreditados. V. Los mayores gastos generales variables se determinan en función al número de días correspondientes a la ampliación multiplicado por el gasto general fijo diario.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Respecto de los efectos de la modificaci├│n del plazo contractual, se├▒ale cu├íles son los enunciados correctos. I. Las ampliaciones de plazo en los contratos de obra dan lugar al pago de mayores costos directos y mayores gastos generales variables, ambos directamente vinculados con dichas ampliaciones. II. Como parte de los sustentos no se requiere detallar los riesgos que dieron lugar a la ampliaci├│n de plazo. III. Los costos directos se encuentran debidamente acreditados y forman parte de aquellos conceptos que integren la estructura de costos de la oferta econ├│mica del contratista. IV. Solo cuando la ampliaci├│n de plazo sea generada por la paralizaci├│n total de la obra por causas ajenas a la voluntad del contratista, da lugar al pago de mayores gastos generales variables debidamente acreditados. V. Los mayores gastos generales variables se determinan en funci├│n al n├║mero de d├¡as correspondientes a la ampliaci├│n multiplicado por el gasto general fijo diario.",
     "opciones": {
       "A": "II, III y V",
       "B": "I, II y IV",
@@ -1882,51 +1882,51 @@ const BANCO_PREGUNTAS = [
       "D": "I, III y V"
     },
     "correcta": "C",
-    "fundamento": "Referencia Bibliográfica: Artículo 199. Reglamento de la Ley N° 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia Bibliogr├ífica: Art├¡culo 199. Reglamento de la Ley N┬░ 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 146,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "El inicio del plazo de Ejecución de Obra rige desde el día siguiente de que se cumplan las siguientes condiciones. Marque el enunciado INCORRECTO.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "El inicio del plazo de Ejecuci├│n de Obra rige desde el d├¡a siguiente de que se cumplan las siguientes condiciones. Marque el enunciado INCORRECTO.",
     "opciones": {
       "A": "Que la entidad haya otorgado al contratista los adelantos directos y de materiales en las condiciones y oportunidad establecidas en el reglamento.",
-      "B": "Que la entidad haya hecho entrega total o parcial del terreno o lugar donde se ejecuta la obra según corresponda.",
-      "C": "Que la entidad haya hecho entrega del expediente técnico de obra completo, en caso este haya sido modificado con ocasión de la absolución de consultas y observaciones.",
-      "D": "Que la entidad provea el calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligación."
+      "B": "Que la entidad haya hecho entrega total o parcial del terreno o lugar donde se ejecuta la obra seg├║n corresponda.",
+      "C": "Que la entidad haya hecho entrega del expediente t├®cnico de obra completo, en caso este haya sido modificado con ocasi├│n de la absoluci├│n de consultas y observaciones.",
+      "D": "Que la entidad provea el calendario de entrega de los materiales e insumos que, de acuerdo con las bases, hubiera asumido como una obligaci├│n."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 176.1 del «Reglamento de la Ley de Contrataciones del Estado», aprobado por D.S. N° 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 176.1 del ┬½Reglamento de la Ley de Contrataciones del Estado┬╗, aprobado por D.S. N┬░ 344-2018-EF."
   },
   {
     "id": 147,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
     "pregunta": "La entidad puede resolver el contrato cuando el contratista",
     "opciones": {
-      "A": "paralice o reduzca injustificadamente la ejecución de la prestación, pese a haber sido requerido para corregir tal situación.",
-      "B": "incumpla injustificadamente obligaciones contractuales, legales o reglamentarias a su cargo, pese a haber sido requerido para ello.",
-      "C": "haya sido denunciado por incumplimiento de sus obligaciones contractuales entre la comisión la Contraloría General de la República.",
-      "D": "haya llegado a acumular el monto máximo de la penalidad por mora o el monto máximo para otras penalidades, en la ejecución de la prestación a su cargo."
+      "A": "Paralice o reduzca injustificadamente la ejecuci├│n de la prestaci├│n, pese a haber sido requerido para corregir tal situaci├│n.",
+      "B": "Incumpla injustificadamente obligaciones contractuales, legales o reglamentarias a su cargo, pese a haber sido requerido para ello.",
+      "C": "Haya sido denunciado por incumplimiento de sus obligaciones contractuales entre la comisi├│n la Contralor├¡a General de la Rep├║blica.",
+      "D": "Haya llegado a acumular el monto m├íximo de la penalidad por mora o el monto m├íximo para otras penalidades, en la ejecuci├│n de la prestaci├│n a su cargo."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: el literal a) del artículo 164 del Reglamento aprobado D.S. N° 344-2018-EF y modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: el literal a) del art├¡culo 164 del Reglamento aprobado D.S. N┬░ 344-2018-EF y modificatorias."
   },
   {
     "id": 148,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "«El valor económico de la obra, estructurado por partidas con sus respectivos metrados, análisis de precios unitarios, gastos generales, utilidad e impuestos». La anterior definición corresponde",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬½El valor econ├│mico de la obra, estructurado por partidas con sus respectivos metrados, an├ílisis de precios unitarios, gastos generales, utilidad e impuestos┬╗. La anterior definici├│n corresponde",
     "opciones": {
-      "A": "a la valorización de obra.",
-      "B": "al costo directo.",
-      "C": "al presupuesto de obra.",
-      "D": "al calendario de obra valorizado."
+      "A": "A la valorizaci├│n de obra.",
+      "B": "Al costo directo.",
+      "C": "Al presupuesto de obra.",
+      "D": "Al calendario de obra valorizado."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: anexo 1 ? Definiciones. Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N° 344-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: anexo 1 ÔÇô Definiciones. Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N┬░ 344-2018-EF"
   },
   {
     "id": 149,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "¿Cuál de las siguientes alternativas NO es un sistema de contratación?",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬┐Cu├íl de las siguientes alternativas NO es un sistema de contrataci├│n?",
     "opciones": {
       "A": "Tarifas",
       "B": "En base a porcentajes",
@@ -1934,376 +1934,376 @@ const BANCO_PREGUNTAS = [
       "D": "A suma alzada"
     },
     "correcta": "C",
-    "fundamento": "Referencia Bibliográfica: artículo 35° del Reglamento de la Ley N° 30225 de Contrataciones del Estado y sus modificatorias."
+    "fundamento": "Referencia Bibliogr├ífica: art├¡culo 35┬░ del Reglamento de la Ley N┬░ 30225 de Contrataciones del Estado y sus modificatorias."
   },
   {
     "id": 150,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "«Descripción de las características técnicas y/o requisitos funcionales del bien a ser contratado. Incluye las cantidades, calidades y las condiciones bajo las que se ejecutan las obligaciones». La anterior definición corresponde al concepto de",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "┬½Descripci├│n de las caracter├¡sticas t├®cnicas y/o requisitos funcionales del bien a ser contratado. Incluye las cantidades, calidades y las condiciones bajo las que se ejecutan las obligaciones┬╗. La anterior definici├│n corresponde al concepto de",
     "opciones": {
-      "A": "especificaciones técnicas.",
-      "B": "ficha técnica.",
-      "C": "requerimiento de la entidad.",
-      "D": "valorización de la obra."
+      "A": "Especificaciones t├®cnicas.",
+      "B": "Ficha t├®cnica.",
+      "C": "Requerimiento de la entidad.",
+      "D": "Valorizaci├│n de la obra."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Anexo 1 ? Definiciones. Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N° 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: Anexo 1 ÔÇô Definiciones. Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N┬░ 344-2018-EF."
   },
   {
     "id": 151,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Los expedientes técnicos o documentos equivalentes tienen una vigencia máxima de _____ años contados a partir de su aprobación o de su última actualización. Transcurrido dicho plazo sin haberse iniciado la ejecución física del proyecto de inversión, la UEI actualiza el expediente técnico o documento equivalente a fin de continuar con su ejecución.",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Los expedientes t├®cnicos o documentos equivalentes tienen una vigencia m├íxima de _____ a├▒os contados a partir de su aprobaci├│n o de su ├║ltima actualizaci├│n. Transcurrido dicho plazo sin haberse iniciado la ejecuci├│n f├¡sica del proyecto de inversi├│n, la UEI actualiza el expediente t├®cnico o documento equivalente a fin de continuar con su ejecuci├│n.",
     "opciones": {
-      "A": "dos (2) años",
-      "B": "diez (10) años",
-      "C": "cinco (5) años",
-      "D": "tres (3) años"
+      "A": "Dos (2) a├▒os",
+      "B": "Diez (10) a├▒os",
+      "C": "Cinco (5) a├▒os",
+      "D": "Tres (3) a├▒os"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 34.1 del Artículo 34 Vigencia de los Expedientes Técnicos o Documentos Equivalentes, de la Directiva N° 001-2019- EF/63.011 Directiva General Del Sistema Nacional De Programación Multianual Y Gestión De Inversiones?"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 34.1 del Art├¡culo 34 Vigencia de los Expedientes T├®cnicos o Documentos Equivalentes, de la Directiva N┬░ 001-2019- EF/63.011 Directiva General Del Sistema Nacional De Programaci├│n Multianual Y Gesti├│n De InversionesÔÇØ"
   },
   {
     "id": 152,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
-    "pregunta": "Las cláusulas obligatorias bajo responsabilidad que deben contener los contratos regulados por la normativa de contrataciones son las siguientes:",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
+    "pregunta": "Las cl├íusulas obligatorias bajo responsabilidad que deben contener los contratos regulados por la normativa de contrataciones son las siguientes:",
     "opciones": {
-      "A": "Resolución del contrato, responsabilidad de las partes, anticorrupción, marco legal del contrato y solución de controversias.",
-      "B": "Anticorrupción, facultad de elevar a escritura pública, solución de controversias y resolución de contrato por incumplimiento.",
-      "C": "Plazo de la ejecución de la prestación, garantías, responsabilidad por vicios ocultos, penalidades y solución de controversias.",
-      "D": "Garantías, anticorrupción, solución de controversias y resolución de contrato por incumplimiento."
+      "A": "Resoluci├│n del contrato, responsabilidad de las partes, anticorrupci├│n, marco legal del contrato y soluci├│n de controversias.",
+      "B": "Anticorrupci├│n, facultad de elevar a escritura p├║blica, soluci├│n de controversias y resoluci├│n de contrato por incumplimiento.",
+      "C": "Plazo de la ejecuci├│n de la prestaci├│n, garant├¡as, responsabilidad por vicios ocultos, penalidades y soluci├│n de controversias.",
+      "D": "Garant├¡as, anticorrupci├│n, soluci├│n de controversias y resoluci├│n de contrato por incumplimiento."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Decreto Supremo N° 344-2018-EF, Reglamento de la Ley de Contrataciones y Adquisiciones, artículo 138° ?Contenido del Contrato?, numeral 138.2."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Supremo N┬░ 344-2018-EF, Reglamento de la Ley de Contrataciones y Adquisiciones, art├¡culo 138┬░ ÔÇ£Contenido del ContratoÔÇØ, numeral 138.2."
   },
   {
     "id": 153,
-    "tema": "Tema 2: Contrataciones del Estado y Ejecución de Obras Públicas",
+    "tema": "Tema 2: Contrataciones del Estado y Ejecuci├│n de Obras P├║blicas",
     "pregunta": "Respecto a las prestaciones adicionales de obras mayores al 15 %, marque el enunciado INCORRECTO.",
     "opciones": {
-      "A": "Las prestaciones adicionales de obras cuyos montos, restándole los presupuestos deductivos vinculados, superen el 15 % del monto del contrato original, luego de ser aprobadas por el Titular de la Entidad, requieren previamente, para su ejecución y pago, la autorización expresa de la Contraloría General de la República.",
-      "B": "En el caso de adicionales con carácter de emergencia no se requiere la autorización de Contraloría General de la República.",
-      "C": "La Contraloría General de la República cuenta con un plazo máximo de quince (15) días hábiles, bajo responsabilidad, para emitir su pronunciamiento, el cual se encuentra motivado en todos los casos.",
-      "D": "Cuando se apruebe la prestación adicional de obras, el contratista está obligado a ampliar el monto de la garantía de fiel cumplimiento."
+      "A": "Las prestaciones adicionales de obras cuyos montos, rest├índole los presupuestos deductivos vinculados, superen el 15 % del monto del contrato original, luego de ser aprobadas por el Titular de la Entidad, requieren previamente, para su ejecuci├│n y pago, la autorizaci├│n expresa de la Contralor├¡a General de la Rep├║blica.",
+      "B": "En el caso de adicionales con car├ícter de emergencia no se requiere la autorizaci├│n de Contralor├¡a General de la Rep├║blica.",
+      "C": "La Contralor├¡a General de la Rep├║blica cuenta con un plazo m├íximo de quince (15) d├¡as h├íbiles, bajo responsabilidad, para emitir su pronunciamiento, el cual se encuentra motivado en todos los casos.",
+      "D": "Cuando se apruebe la prestaci├│n adicional de obras, el contratista est├í obligado a ampliar el monto de la garant├¡a de fiel cumplimiento."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Numerales 206.1, 206.2 y 206.6 del artículo 206 del Reglamento de la Ley N° 30225. «Ley de Contrataciones del Estado», aprobado por D.S. N° 344-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: Numerales 206.1, 206.2 y 206.6 del art├¡culo 206 del Reglamento de la Ley N┬░ 30225. ┬½Ley de Contrataciones del Estado┬╗, aprobado por D.S. N┬░ 344-2018-EF."
   },
   {
     "id": 154,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "El stock acumulado de los compromisos firmes y contingentes cuantificables, netos de ingresos, asumidos por el sector público no financiero en los contratos de Asociación Pública Privada, calculado a valor presente, NO puede exceder",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "El stock acumulado de los compromisos firmes y contingentes cuantificables, netos de ingresos, asumidos por el sector p├║blico no financiero en los contratos de Asociaci├│n P├║blica Privada, calculado a valor presente, NO puede exceder",
     "opciones": {
-      "A": "el 12 % del producto bruto interno.",
-      "B": "el 10 % del producto bruto interno.",
-      "C": "el 12 % de la deuda pública.",
-      "D": "el 2 % del total del monto de inversión de todos los proyectos adjudicados."
+      "A": "El 12 % del producto bruto interno.",
+      "B": "El 10 % del producto bruto interno.",
+      "C": "El 12 % de la deuda p├║blica.",
+      "D": "El 2 % del total del monto de inversi├│n de todos los proyectos adjudicados."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo N° 1362. Artículo 27"
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo N┬░ 1362. Art├¡culo 27"
   },
   {
     "id": 155,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "Son las condiciones previas, entre otras, para el inicio de la ejecución de las obras de un proyecto desarrollado bajo una Asociación Público Privada, EXCEPTO el",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "Son las condiciones previas, entre otras, para el inicio de la ejecuci├│n de las obras de un proyecto desarrollado bajo una Asociaci├│n P├║blico Privada, EXCEPTO el",
     "opciones": {
-      "A": "concesionario debe entregar las garantías exigidas en el respectivo contrato.",
-      "B": "concesionario haya obtenido el cierre financiero.",
-      "C": "concesionario haya suscrito el respectivo contrato de construcción.",
-      "D": "concedente debe haber obtenido las licencias y los permisos necesarios para la ejecución de las obras."
+      "A": "Concesionario debe entregar las garant├¡as exigidas en el respectivo contrato.",
+      "B": "Concesionario haya obtenido el cierre financiero.",
+      "C": "Concesionario haya suscrito el respectivo contrato de construcci├│n.",
+      "D": "Concedente debe haber obtenido las licencias y los permisos necesarios para la ejecuci├│n de las obras."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: numeral, 2º - Reglas aplicables a la ejecución de obras, inciso, 2.2 ? Condiciones para iniciar la ejecución de obras del Lineamiento para el Diseño de Contratos de Asociación Público Privada. MEF."
+    "fundamento": "Referencia bibliogr├ífica: numeral, 2┬║ - Reglas aplicables a la ejecuci├│n de obras, inciso, 2.2 ÔÇô Condiciones para iniciar la ejecuci├│n de obras del Lineamiento para el Dise├▒o de Contratos de Asociaci├│n P├║blico Privada. MEF."
   },
   {
     "id": 156,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "Son principios a considerar durante el desarrollo de los proyectos bajo Asociaciones Público Privadas, EXCEPTO la",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "Son principios a considerar durante el desarrollo de los proyectos bajo Asociaciones P├║blico Privadas, EXCEPTO la",
     "opciones": {
-      "A": "transparencia.",
-      "B": "integridad.",
-      "C": "responsabilidad Fiscal.",
-      "D": "planificación."
+      "A": "Transparencia.",
+      "B": "Integridad.",
+      "C": "Responsabilidad Fiscal.",
+      "D": "Planificaci├│n."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo 1362. Artículo 4"
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo 1362. Art├¡culo 4"
   },
   {
     "id": 157,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "Durante la etapa del diseño del proyecto desarrollado bajo una Asociación Público Privada, pueden existir discrepancias durante la aprobación del mencionado diseño. Sobre el particular, un mecanismo para solucionar dichos impases sin perjudicar la ejecución del proyecto, establecido en los contratos es",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "Durante la etapa del dise├▒o del proyecto desarrollado bajo una Asociaci├│n P├║blico Privada, pueden existir discrepancias durante la aprobaci├│n del mencionado dise├▒o. Sobre el particular, un mecanismo para solucionar dichos impases sin perjudicar la ejecuci├│n del proyecto, establecido en los contratos es",
     "opciones": {
-      "A": "la sujeción a lo señalado por el supervisor, dada la experiencia técnica de este agente.",
-      "B": "la consulta a Proinversión, como entidad que elaboró las bases y el contrato.",
-      "C": "la sujeción del estudio a un peritaje técnico que resulten compatibles con la naturaleza y los alcances del proyecto.",
-      "D": "que no pueden existir discrepancias en la aprobación del diseño presentado por el concesionario en su expediente técnico."
+      "A": "La sujeci├│n a lo se├▒alado por el supervisor, dada la experiencia t├®cnica de este agente.",
+      "B": "La consulta a Proinversi├│n, como entidad que elabor├│ las bases y el contrato.",
+      "C": "La sujeci├│n del estudio a un peritaje t├®cnico que resulten compatibles con la naturaleza y los alcances del proyecto.",
+      "D": "Que no pueden existir discrepancias en la aprobaci├│n del dise├▒o presentado por el concesionario en su expediente t├®cnico."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Lineamiento para el Diseño de Contratos de Asociación Público Privada. MEF. Página 13."
+    "fundamento": "Referencia bibliogr├ífica: Lineamiento para el Dise├▒o de Contratos de Asociaci├│n P├║blico Privada. MEF. P├ígina 13."
   },
   {
     "id": 158,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
     "pregunta": "En los proyectos autofinanciados",
     "opciones": {
-      "A": "cuando el contrato regule la posibilidad de realizar incrementos tarifarios, estos se emitirán a discreción del concesionario.",
-      "B": "el mecanismo de pago será la tarifa, peaje o precio que se cobre a los usuarios, ya sea directa o indirectamente.",
-      "C": "el contrato regula los cobros en porcentajes mínimos establecidos a las empresas públicas que participan del proyecto.",
-      "D": "y solo en el supuesto de proyectos escasamente rentables, el OPIP puede prescindir de la garantía no financiera."
+      "A": "Cuando el contrato regule la posibilidad de realizar incrementos tarifarios, estos se emitir├ín a discreci├│n del concesionario.",
+      "B": "El mecanismo de pago ser├í la tarifa, peaje o precio que se cobre a los usuarios, ya sea directa o indirectamente.",
+      "C": "El contrato regula los cobros en porcentajes m├¡nimos establecidos a las empresas p├║blicas que participan del proyecto.",
+      "D": "Y solo en el supuesto de proyectos escasamente rentables, el OPIP puede prescindir de la garant├¡a no financiera."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Lineamientos para el diseño de contratos de APP, numeral 7.2 literal A."
+    "fundamento": "Referencia bibliogr├ífica: Lineamientos para el dise├▒o de contratos de APP, numeral 7.2 literal A."
   },
   {
     "id": 159,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "El monto o valor total de la inversión para el caso de las asociaciones público- privadas está relacionado con el",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "El monto o valor total de la inversi├│n para el caso de las asociaciones p├║blico- privadas est├í relacionado con el",
     "opciones": {
-      "A": "valor presente de los flujos de inversión estimados en la identificación del proyecto.",
-      "B": "costo directo y otros costos como la elaboración del expediente técnico o equivalente, supervisión y gastos de liquidación.",
-      "C": "monto total del presupuesto que se estime como gasto de capital sin considerar operación y mantenimiento.",
-      "D": "valor del aseguramiento de respaldo de las obligaciones de la contraparte de la entidad púbica titular del proyecto."
+      "A": "Valor presente de los flujos de inversi├│n estimados en la identificaci├│n del proyecto.",
+      "B": "Costo directo y otros costos como la elaboraci├│n del expediente t├®cnico o equivalente, supervisi├│n y gastos de liquidaci├│n.",
+      "C": "Monto total del presupuesto que se estime como gasto de capital sin considerar operaci├│n y mantenimiento.",
+      "D": "Valor del aseguramiento de respaldo de las obligaciones de la contraparte de la entidad p├║bica titular del proyecto."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 6.1 Definiciones de la Directiva N° 017-2022- CG/GMPL ?Directiva Interna que establece Disposiciones Complementarias de la Ley N° 31358, Ley que establece medidas para la expansión de control concurrente? aprobada por Resolución de Contraloría N° 275-2022/CG"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 6.1 Definiciones de la Directiva N┬░ 017-2022- CG/GMPL ÔÇ£Directiva Interna que establece Disposiciones Complementarias de la Ley N┬░ 31358, Ley que establece medidas para la expansi├│n de control concurrenteÔÇØ aprobada por Resoluci├│n de Contralor├¡a N┬░ 275-2022/CG"
   },
   {
     "id": 160,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "De acuerdo con la normativa peruana de Asociaciones Público Privadas, en el caso de una modificación de un contrato de concesión, marque el enunciado correcto.",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "De acuerdo con la normativa peruana de Asociaciones P├║blico Privadas, en el caso de una modificaci├│n de un contrato de concesi├│n, marque el enunciado correcto.",
     "opciones": {
       "A": "El informe previo de la CGR es vinculante.",
-      "B": "Las partes pueden convenir en modificar el contrato de APP, manteniendo el equilibrio económico financiero y las condiciones de competencia del proceso de promoción, procurando no alterar la asignación de riesgos y la naturaleza del proyecto.",
-      "C": "Durante el proceso de evaluación de modificaciones contractuales, es potestad de la entidad pública titular del proyecto, publicar en su portal institucional, las propuestas de modificaciones contractuales que se presenten durante su evaluación.",
-      "D": "En los procesos de modificación de Contratos de APP, la entidad reguladora del proyecto es responsable de sustentar el valor por dinero a favor del Estado."
+      "B": "Las partes pueden convenir en modificar el contrato de APP, manteniendo el equilibrio econ├│mico financiero y las condiciones de competencia del proceso de promoci├│n, procurando no alterar la asignaci├│n de riesgos y la naturaleza del proyecto.",
+      "C": "Durante el proceso de evaluaci├│n de modificaciones contractuales, es potestad de la entidad p├║blica titular del proyecto, publicar en su portal institucional, las propuestas de modificaciones contractuales que se presenten durante su evaluaci├│n.",
+      "D": "En los procesos de modificaci├│n de Contratos de APP, la entidad reguladora del proyecto es responsable de sustentar el valor por dinero a favor del Estado."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo N° 1362 y su Reglamento. Art 134 ? modificaciones contractuales, numeral 134.1."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo N┬░ 1362 y su Reglamento. Art 134 ÔÇô modificaciones contractuales, numeral 134.1."
   },
   {
     "id": 161,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "Los proyectos ejecutados bajo la modalidad de Asociación Público Privada, independientemente de su clasificación y origen, se desarrollan en las siguientes fases:",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "Los proyectos ejecutados bajo la modalidad de Asociaci├│n P├║blico Privada, independientemente de su clasificaci├│n y origen, se desarrollan en las siguientes fases:",
     "opciones": {
-      "A": "Razonabilidad, igualdad de trato, competencia y confianza legítima.",
-      "B": "Planeamiento y programación, formulación, estructuración, transacción y ejecución contractual.",
-      "C": "Continuidad, ejercicio legítimo del poder, estructuración y planeamiento.",
-      "D": "Programación, igualdad de trato, continuidad, formulación y confianza legítima."
+      "A": "Razonabilidad, igualdad de trato, competencia y confianza leg├¡tima.",
+      "B": "Planeamiento y programaci├│n, formulaci├│n, estructuraci├│n, transacci├│n y ejecuci├│n contractual.",
+      "C": "Continuidad, ejercicio leg├¡timo del poder, estructuraci├│n y planeamiento.",
+      "D": "Programaci├│n, igualdad de trato, continuidad, formulaci├│n y confianza leg├¡tima."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: artículo 30º, fases, numeral 30.1 del D.L N.o 1362 que regula la promoción de la Inversión Privada mediante las APP y proyectos en activos."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 30┬║, fases, numeral 30.1 del D.L N.o 1362 que regula la promoci├│n de la Inversi├│n Privada mediante las APP y proyectos en activos."
   },
   {
     "id": 162,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "¿Cuáles son los macroprocesos de la implementación de una Asociación Público Privada?",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "┬┐Cu├íles son los macroprocesos de la implementaci├│n de una Asociaci├│n P├║blico Privada?",
     "opciones": {
-      "A": "Suscripción de contrato, presentación de ofertas, otorgamiento de buena pro y publicación de acuerdo",
+      "A": "Suscripci├│n de contrato, presentaci├│n de ofertas, otorgamiento de buena pro y publicaci├│n de acuerdo",
       "B": "Principios tarifarios, nivel y estructura, reajustes y revisiones",
-      "C": "Promoción, ejecución preoperativa, selección del proyecto y operación",
-      "D": "Demanda, sustento, productividad y evaluación"
+      "C": "Promoci├│n, ejecuci├│n preoperativa, selecci├│n del proyecto y operaci├│n",
+      "D": "Demanda, sustento, productividad y evaluaci├│n"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Guía de cumplimiento a las asociaciones público privadas."
+    "fundamento": "Referencia bibliogr├ífica: Gu├¡a de cumplimiento a las asociaciones p├║blico privadas."
   },
   {
     "id": 163,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "Señale la alternativa que corresponda con los objetivos de las bases del proceso de promoción.",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "Se├▒ale la alternativa que corresponda con los objetivos de las bases del proceso de promoci├│n.",
     "opciones": {
       "A": "Definir los servicios privados",
-      "B": "Lograr que los gobiernos regionales realicen el Plan de Promoción",
-      "C": "Lograr la concurrencia de la mayor cantidad de postores con experiencia en la ejecución, operación y mantenimiento de obras de infraestructura",
-      "D": "Lograr que las Asociaciones Público Privadas tengan como único alcance la provisión de mano de obra, de oferta e instalación de equipo"
+      "B": "Lograr que los gobiernos regionales realicen el Plan de Promoci├│n",
+      "C": "Lograr la concurrencia de la mayor cantidad de postores con experiencia en la ejecuci├│n, operaci├│n y mantenimiento de obras de infraestructura",
+      "D": "Lograr que las Asociaciones P├║blico Privadas tengan como ├║nico alcance la provisi├│n de mano de obra, de oferta e instalaci├│n de equipo"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Guía de cumplimiento a las asociaciones público privadas."
+    "fundamento": "Referencia bibliogr├ífica: Gu├¡a de cumplimiento a las asociaciones p├║blico privadas."
   },
   {
     "id": 164,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "¿Cuál de los siguientes proyectos se asignará a Proinversión en calidad del OPIP del gobierno nacional?",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "┬┐Cu├íl de los siguientes proyectos se asignar├í a Proinversi├│n en calidad del OPIP del gobierno nacional?",
     "opciones": {
-      "A": "Proyectos de competencia regional originados por iniciativa pública que sean multisectoriales o tengan un costo total de inversión superior a 15 000 UIT",
-      "B": "Proyectos de competencia nacional originados por iniciativa pública que sean multisectoriales o tengan un costo total de inversión superior a 15 000 UIT",
-      "C": "Proyectos de competencia nacional originados por iniciativa pública que sean multisectoriales o tengan un costo total de inversión superior a 10 000 UIT",
-      "D": "Proyectos de competencia nacional originados por iniciativa pública que sean sectoriales o tengan un costo total de inversión superior a 10 000 UIT"
+      "A": "Proyectos de competencia regional originados por iniciativa p├║blica que sean multisectoriales o tengan un costo total de inversi├│n superior a 15 000 UIT",
+      "B": "Proyectos de competencia nacional originados por iniciativa p├║blica que sean multisectoriales o tengan un costo total de inversi├│n superior a 15 000 UIT",
+      "C": "Proyectos de competencia nacional originados por iniciativa p├║blica que sean multisectoriales o tengan un costo total de inversi├│n superior a 10 000 UIT",
+      "D": "Proyectos de competencia nacional originados por iniciativa p├║blica que sean sectoriales o tengan un costo total de inversi├│n superior a 10 000 UIT"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Guía de cumplimiento a las asociaciones público privadas."
+    "fundamento": "Referencia bibliogr├ífica: Gu├¡a de cumplimiento a las asociaciones p├║blico privadas."
   },
   {
     "id": 165,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "De acuerdo con lo establecido en el Reglamento del Decreto Legislativo No 1362, Decreto Legislativo que regula la promoción de la inversión privada mediante Asociaciones Público Privadas (APP) y proyectos en activos, aprobado por Decreto Supremo No 240-2018-EF, señale la alternativa que contiene las fases de una APP.",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "De acuerdo con lo establecido en el Reglamento del Decreto Legislativo No 1362, Decreto Legislativo que regula la promoci├│n de la inversi├│n privada mediante Asociaciones P├║blico Privadas (APP) y proyectos en activos, aprobado por Decreto Supremo No 240-2018-EF, se├▒ale la alternativa que contiene las fases de una APP.",
     "opciones": {
-      "A": "Planeamiento y programación, estructuración, elaboración de bases, adjudicación, firma del contrato",
-      "B": "Elaboración de bases, aprobación del plan de promoción, presentación de sobres, adjudicación, firma de contrato",
-      "C": "Planeamiento y programación, formulación, estructuración, transacción y ejecución contractual",
-      "D": "Planeamiento y programación, estructuración, formulación, transacción y ejecución contractual"
+      "A": "Planeamiento y programaci├│n, estructuraci├│n, elaboraci├│n de bases, adjudicaci├│n, firma del contrato",
+      "B": "Elaboraci├│n de bases, aprobaci├│n del plan de promoci├│n, presentaci├│n de sobres, adjudicaci├│n, firma de contrato",
+      "C": "Planeamiento y programaci├│n, formulaci├│n, estructuraci├│n, transacci├│n y ejecuci├│n contractual",
+      "D": "Planeamiento y programaci├│n, estructuraci├│n, formulaci├│n, transacci├│n y ejecuci├│n contractual"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento del Decreto Legislativo No 1362 Que regula la Promoción de la Inversión Privada mediante las APP. Título 7 ? Proyectos en Activos ? Cap I - Iniciativas Estatales de Proyecto de Activos. Art 142: Fases de Proyectos de Activos"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento del Decreto Legislativo No 1362 Que regula la Promoci├│n de la Inversi├│n Privada mediante las APP. T├¡tulo 7 ÔÇô Proyectos en Activos ÔÇô Cap I - Iniciativas Estatales de Proyecto de Activos. Art 142: Fases de Proyectos de Activos"
   },
   {
     "id": 166,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "¿Cuáles son las funciones de Proinversión?",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "┬┐Cu├íles son las funciones de Proinversi├│n?",
     "opciones": {
-      "A": "Asegurar las condiciones de competencia, a través de un proceso de promoción transparente, garantizando la igualdad de condiciones entre todos los participantes",
-      "B": "Ejecutar la política nacional de promoción de la inversión privada",
-      "C": "Suscripción de contrato, presentación de ofertas, otorgamiento de buena pro y publicación de acuerdo y principios tarifarios, nivel y estructura, reajustes y revisiones.",
-      "D": "Demanda, sustento, productividad y evaluación"
+      "A": "Asegurar las condiciones de competencia, a trav├®s de un proceso de promoci├│n transparente, garantizando la igualdad de condiciones entre todos los participantes",
+      "B": "Ejecutar la pol├¡tica nacional de promoci├│n de la inversi├│n privada",
+      "C": "Suscripci├│n de contrato, presentaci├│n de ofertas, otorgamiento de buena pro y publicaci├│n de acuerdo y principios tarifarios, nivel y estructura, reajustes y revisiones.",
+      "D": "Demanda, sustento, productividad y evaluaci├│n"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: capítulo V, artículo 23 Proinversión, numeral 1 del Reglamento del Decreto Legislativo Nº 1362, Decreto Supremo Nº 240-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: cap├¡tulo V, art├¡culo 23 Proinversi├│n, numeral 1 del Reglamento del Decreto Legislativo N┬║ 1362, Decreto Supremo N┬║ 240-2018-EF"
   },
   {
     "id": 167,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "La Dirección General de Política de Promoción de la Inversión Privada del Ministerio de Economía y Finanzas, que como tal, se encarga de",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "La Direcci├│n General de Pol├¡tica de Promoci├│n de la Inversi├│n Privada del Ministerio de Econom├¡a y Finanzas, que como tal, se encarga de",
     "opciones": {
-      "A": "asesorar a OCI/sectorial de manera integral y proponer el esquema y nivel de subsidio requerido por el Estado y los mecanismos de pago.",
-      "B": "evaluar las características de diseño de ingeniería, operación y costos.",
-      "C": "analizar las condiciones de competencia y regulación económica.",
-      "D": "establecer los lineamientos de promoción y desarrollo de la inversión privada en Asociaciones Público Privadas y en Proyectos en Activos."
+      "A": "Asesorar a OCI/sectorial de manera integral y proponer el esquema y nivel de subsidio requerido por el Estado y los mecanismos de pago.",
+      "B": "Evaluar las caracter├¡sticas de dise├▒o de ingenier├¡a, operaci├│n y costos.",
+      "C": "Analizar las condiciones de competencia y regulaci├│n econ├│mica.",
+      "D": "Establecer los lineamientos de promoci├│n y desarrollo de la inversi├│n privada en Asociaciones P├║blico Privadas y en Proyectos en Activos."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: artículo 5 Sistema Nacional de Promoción de la Inversión Privada, artículo 5º numeral 5.4, inciso 1, del Decreto Legislativo Nº 1362."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 5 Sistema Nacional de Promoci├│n de la Inversi├│n Privada, art├¡culo 5┬║ numeral 5.4, inciso 1, del Decreto Legislativo N┬║ 1362."
   },
   {
     "id": 168,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "El órgano especializado para la gestión de proyectos ejerce, entre otras, la función de",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "El ├│rgano especializado para la gesti├│n de proyectos ejerce, entre otras, la funci├│n de",
     "opciones": {
-      "A": "aprobar los estudios técnicos necesarios para la correcta ejecución del proyecto, durante la fase de Ejecución Contractual.",
-      "B": "definir los servicios privados.",
-      "C": "lograr que los gobiernos regionales realicen el Plan de Promoción.",
-      "D": "lograr que las Asociaciones Público Privadas tengan como único alcance la provisión de mano de obra, de oferta e instalación de equipo."
+      "A": "Aprobar los estudios t├®cnicos necesarios para la correcta ejecuci├│n del proyecto, durante la fase de Ejecuci├│n Contractual.",
+      "B": "Definir los servicios privados.",
+      "C": "Lograr que los gobiernos regionales realicen el Plan de Promoci├│n.",
+      "D": "Lograr que las Asociaciones P├║blico Privadas tengan como ├║nico alcance la provisi├│n de mano de obra, de oferta e instalaci├│n de equipo."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: capítulo IV, artículo 20 Funciones del órgano especializado para la gestión de proyectos, numeral 2 del Reglamento del Decreto Legislativo Nº 1362, Decreto Supremo Nº 240-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: cap├¡tulo IV, art├¡culo 20 Funciones del ├│rgano especializado para la gesti├│n de proyectos, numeral 2 del Reglamento del Decreto Legislativo N┬║ 1362, Decreto Supremo N┬║ 240-2018-EF"
   },
   {
     "id": 169,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
     "pregunta": "Se considera proyectos sustitutos a",
     "opciones": {
-      "A": "los proyectos de competencia regional originados por iniciativa pública que sean multisectoriales o tengan un costo total de inversión superior a 15 000 UIT.",
-      "B": "aquellos que se encuentren orientados al mismo objetivo, siendo considerados como el mismo proyecto, aun cuando empleen tecnologías diferentes.",
-      "C": "los proyectos de competencia nacional originados por iniciativa pública que sean multisectoriales o tengan un costo total de inversión superior a 10 000 UIT.",
-      "D": "los proyectos de competencia nacional originados por iniciativa pública que sean sectoriales o tengan un costo total de inversión superior a 10 000 UIT."
+      "A": "Los proyectos de competencia regional originados por iniciativa p├║blica que sean multisectoriales o tengan un costo total de inversi├│n superior a 15 000 UIT.",
+      "B": "Aquellos que se encuentren orientados al mismo objetivo, siendo considerados como el mismo proyecto, aun cuando empleen tecnolog├¡as diferentes.",
+      "C": "Los proyectos de competencia nacional originados por iniciativa p├║blica que sean multisectoriales o tengan un costo total de inversi├│n superior a 10 000 UIT.",
+      "D": "Los proyectos de competencia nacional originados por iniciativa p├║blica que sean sectoriales o tengan un costo total de inversi├│n superior a 10 000 UIT."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Título V, Subcapítulo V, artículo 101 proyectos sustitutos, numeral 101.1 del Reglamento del Decreto Legislativo Nº 1362, Decreto Supremo Nº 240-2018-EF"
+    "fundamento": "Referencia bibliogr├ífica: T├¡tulo V, Subcap├¡tulo V, art├¡culo 101 proyectos sustitutos, numeral 101.1 del Reglamento del Decreto Legislativo N┬║ 1362, Decreto Supremo N┬║ 240-2018-EF"
   },
   {
     "id": 170,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "¿Qué alternativa NO refiere a una característica exigida para los proyectos de inversión que requieren estudios de preinversión a nivel de perfil?",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "┬┐Qu├® alternativa NO refiere a una caracter├¡stica exigida para los proyectos de inversi├│n que requieren estudios de preinversi├│n a nivel de perfil?",
     "opciones": {
-      "A": "Que sean proyectos de inversión de redes de servicios, proyectos de inversión multipropósitos y programas de inversión.",
-      "B": "Que se cuente con la suficiente experiencia en la formulación y ejecución de proyectos de la misma topología.",
-      "C": "El alto nivel de incertidumbre respecto del valor que pueden tomar las variables técnicas, económicas, ambientales y similares.",
-      "D": "Que su modalidad de ejecución se realice como asociación público privada o que su financiamiento demande fondos públicos provenientes de operaciones de endeudamiento externo."
+      "A": "Que sean proyectos de inversi├│n de redes de servicios, proyectos de inversi├│n multiprop├│sitos y programas de inversi├│n.",
+      "B": "Que se cuente con la suficiente experiencia en la formulaci├│n y ejecuci├│n de proyectos de la misma topolog├¡a.",
+      "C": "El alto nivel de incertidumbre respecto del valor que pueden tomar las variables t├®cnicas, econ├│micas, ambientales y similares.",
+      "D": "Que su modalidad de ejecuci├│n se realice como asociaci├│n p├║blico privada o que su financiamiento demande fondos p├║blicos provenientes de operaciones de endeudamiento externo."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: numeral 16.6 del artículo 16. Fase de formulación y evaluación, del Reglamento del Decreto Legislativo N° 1252 que crea el Sistema Nacional de Programación Multianual y Gestión de Inversiones, aprobado por DS 284-2018-EF."
+    "fundamento": "Referencia bibliogr├ífica: numeral 16.6 del art├¡culo 16. Fase de formulaci├│n y evaluaci├│n, del Reglamento del Decreto Legislativo N┬░ 1252 que crea el Sistema Nacional de Programaci├│n Multianual y Gesti├│n de Inversiones, aprobado por DS 284-2018-EF."
   },
   {
     "id": 171,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "De acuerdo con lo establecido en el Reglamento del Decreto Legislativo No 1362, que regula la promoción de la inversión privada mediante Asociaciones Público Privadas (APP) y Proyectos en Activos, aprobado por Decreto Supremo No 240- 2018-EF, señale la alternativa que contiene las fases de una APP.",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "De acuerdo con lo establecido en el Reglamento del Decreto Legislativo No 1362, que regula la promoci├│n de la inversi├│n privada mediante Asociaciones P├║blico Privadas (APP) y Proyectos en Activos, aprobado por Decreto Supremo No 240- 2018-EF, se├▒ale la alternativa que contiene las fases de una APP.",
     "opciones": {
-      "A": "Planeamiento y programación, estructuración, elaboración de bases, adjudicación, firma del contrato",
-      "B": "Planeamiento y programación, formulación, estructuración, transacción y ejecución contractual",
-      "C": "Elaboración de bases, aprobación del plan de promoción, presentación de sobres, adjudicación, firma de contrato",
-      "D": "Programación, estructuración, formulación, transacción y ejecución contractual"
+      "A": "Planeamiento y programaci├│n, estructuraci├│n, elaboraci├│n de bases, adjudicaci├│n, firma del contrato",
+      "B": "Planeamiento y programaci├│n, formulaci├│n, estructuraci├│n, transacci├│n y ejecuci├│n contractual",
+      "C": "Elaboraci├│n de bases, aprobaci├│n del plan de promoci├│n, presentaci├│n de sobres, adjudicaci├│n, firma de contrato",
+      "D": "Programaci├│n, estructuraci├│n, formulaci├│n, transacci├│n y ejecuci├│n contractual"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Reglamento del Decreto Legislativo No 1362 Que regula la Promoción de la Inversión Privada mediante las APP. Título 7 ? Proyectos en Activos ? Cap. I - Iniciativas Estatales de Proyecto de Activos. Art 42: Fases de Proyectos de Activos."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento del Decreto Legislativo No 1362 Que regula la Promoci├│n de la Inversi├│n Privada mediante las APP. T├¡tulo 7 ÔÇô Proyectos en Activos ÔÇô Cap. I - Iniciativas Estatales de Proyecto de Activos. Art 42: Fases de Proyectos de Activos."
   },
   {
     "id": 172,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "De acuerdo con la supervisión del Organismo Supervisor de las Contrataciones del Estado (OSCE), uno de los siguientes enunciados corresponde a supuestos excluidos de la aplicación de la Ley de Contrataciones del Estado.",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "De acuerdo con la supervisi├│n del Organismo Supervisor de las Contrataciones del Estado (OSCE), uno de los siguientes enunciados corresponde a supuestos excluidos de la aplicaci├│n de la Ley de Contrataciones del Estado.",
     "opciones": {
       "A": "Las contrataciones que realice el Estado peruano con otro Estado.",
-      "B": "Las asociaciones público privadas y proyectos en activos.",
-      "C": "Las contrataciones de servicios públicos, donde exista la posibilidad de contratar con más de un proveedor.",
-      "D": "Las contrataciones realizadas de acuerdo con las exigencias y procedimientos específicos de una organización nacional, estados o entidades cooperantes, siempre que se deriven de operaciones de endeudamiento externo."
+      "B": "Las asociaciones p├║blico privadas y proyectos en activos.",
+      "C": "Las contrataciones de servicios p├║blicos, donde exista la posibilidad de contratar con m├ís de un proveedor.",
+      "D": "Las contrataciones realizadas de acuerdo con las exigencias y procedimientos espec├¡ficos de una organizaci├│n nacional, estados o entidades cooperantes, siempre que se deriven de operaciones de endeudamiento externo."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 5 del TUO de la Ley N° 30225, Ley de Contrataciones del Estado, aprobado por D. S. N° 082-2019-EF."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 5 del TUO de la Ley N┬░ 30225, Ley de Contrataciones del Estado, aprobado por D. S. N┬░ 082-2019-EF."
   },
   {
     "id": 173,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "¿En qué fase del desarrollo de una APP por el Organismo Promotor de la Inversión Privada es publicada la Declaratoria de interés de una iniciativa privada, para desarrollar un proyecto bajo una Asociación Pública Privada (APP)? En la Fase de",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "┬┐En qu├® fase del desarrollo de una APP por el Organismo Promotor de la Inversi├│n Privada es publicada la Declaratoria de inter├®s de una iniciativa privada, para desarrollar un proyecto bajo una Asociaci├│n P├║blica Privada (APP)? En la Fase de",
     "opciones": {
-      "A": "formulación.",
-      "B": "estructuración.",
-      "C": "ejecución.",
-      "D": "planeamiento."
+      "A": "Formulaci├│n.",
+      "B": "Estructuraci├│n.",
+      "C": "Ejecuci├│n.",
+      "D": "Planeamiento."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo 1362 y Reglamento, articulo 87, numeral 87.1."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo 1362 y Reglamento, articulo 87, numeral 87.1."
   },
   {
     "id": 174,
-    "tema": "Tema 3: Asociaciones Público Privadas (APP) y Proyectos en Activos",
-    "pregunta": "Los Principios a considerar durante el desarrollo de los proyectos bajo Asociaciones Público Privadas son los siguientes, EXCEPTO la",
+    "tema": "Tema 3: Asociaciones P├║blico Privadas (APP) y Proyectos en Activos",
+    "pregunta": "Los Principios a considerar durante el desarrollo de los proyectos bajo Asociaciones P├║blico Privadas son los siguientes, EXCEPTO la",
     "opciones": {
-      "A": "transparencia.",
-      "B": "integridad.",
-      "C": "planificación.",
-      "D": "responsabilidad fiscal."
+      "A": "Transparencia.",
+      "B": "Integridad.",
+      "C": "Planificaci├│n.",
+      "D": "Responsabilidad fiscal."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo 1362. Artículo 4"
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo 1362. Art├¡culo 4"
   },
   {
     "id": 175,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Señale la alternativa que señala uno de los beneficios para una entidad pública de realizar un proyecto OxI.",
+    "pregunta": "Se├▒ale la alternativa que se├▒ala uno de los beneficios para una entidad p├║blica de realizar un proyecto OxI.",
     "opciones": {
-      "A": "Canaliza las consultas o las interpretaciones referidas al mecanismo de obras por impuestos, en coordinación con la Contraloría General de la República.",
-      "B": "Mejora la calidad de vida y/o competitividad en armonía con las políticas y planes de desarrollo nacional, regional y local.",
-      "C": "Realiza el seguimiento de todas las fases del mecanismo de obras por Impuestos y coordina sobre ello con la Contraloría General de la República.",
-      "D": "Puede solicitar información a las empresas privadas, y todo requerimiento de información se canaliza a través de la entidad pública."
+      "A": "Canaliza las consultas o las interpretaciones referidas al mecanismo de obras por impuestos, en coordinaci├│n con la Contralor├¡a General de la Rep├║blica.",
+      "B": "Mejora la calidad de vida y/o competitividad en armon├¡a con las pol├¡ticas y planes de desarrollo nacional, regional y local.",
+      "C": "Realiza el seguimiento de todas las fases del mecanismo de obras por Impuestos y coordina sobre ello con la Contralor├¡a General de la Rep├║blica.",
+      "D": "Puede solicitar informaci├│n a las empresas privadas, y todo requerimiento de informaci├│n se canaliza a trav├®s de la entidad p├║blica."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: numeral 4 ? Beneficios, gráfico 2, página 14 de la Guía metodológica del mecanismo de Obras por Impuestos ? Ministerio de Economía y Finanzas."
+    "fundamento": "Referencia bibliogr├ífica: numeral 4 ÔÇô Beneficios, gr├ífico 2, p├ígina 14 de la Gu├¡a metodol├│gica del mecanismo de Obras por Impuestos ÔÇô Ministerio de Econom├¡a y Finanzas."
   },
   {
     "id": 176,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Complete los espacios en blanco del siguiente enunciado. La modalidad Obras por Impuestos es un _______________ que permite que el sector público y el sector privado trabajen conjuntamente para reducir la brecha de infraestructura en el país a través de un ________________.",
+    "pregunta": "Complete los espacios en blanco del siguiente enunciado. La modalidad Obras por Impuestos es un _______________ que permite que el sector p├║blico y el sector privado trabajen conjuntamente para reducir la brecha de infraestructura en el pa├¡s a trav├®s de un ________________.",
     "opciones": {
-      "A": "mecanismo ? convenio",
-      "B": "convenio ? contrato",
-      "C": "consorcio ? contrato",
-      "D": "instituto técnico ? convenio"
+      "A": "Mecanismo ÔÇô convenio",
+      "B": "Convenio ÔÇô contrato",
+      "C": "Consorcio ÔÇô contrato",
+      "D": "Instituto t├®cnico ÔÇô convenio"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 3, Definición y alcance/Definición de la Guía metodológica del mecanismo de obras por impuestos, página 13."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 3, Definici├│n y alcance/Definici├│n de la Gu├¡a metodol├│gica del mecanismo de obras por impuestos, p├ígina 13."
   },
   {
     "id": 177,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Señale cuál es una de las competencias de la Dirección General de Políticas de Promoción de la Inversión Privada (DGPPIP), en relación a los proyectos desarrollados mediante obras por impuestos.",
+    "pregunta": "Se├▒ale cu├íl es una de las competencias de la Direcci├│n General de Pol├¡ticas de Promoci├│n de la Inversi├│n Privada (DGPPIP), en relaci├│n a los proyectos desarrollados mediante obras por impuestos.",
     "opciones": {
-      "A": "Canaliza las consultas o las interpretaciones referidas al mecanismo de obras por Impuestos, en coordinación con la Contraloría General de la República.",
-      "B": "Realiza el seguimiento de todas las fases del mecanismo de obras por impuestos y coordina sobre ello, con la Contraloría General de la República.",
-      "C": "No puede solicitar información a las empresas privadas, todo requerimiento de información se canaliza a través de la entidad pública.",
-      "D": "Emite opinión vinculante, exclusiva y excluyente sobre la interpretación y la aplicación del TUO de la Ley N° 29230 y del TUO del reglamento de la Ley 29230."
+      "A": "Canaliza las consultas o las interpretaciones referidas al mecanismo de obras por Impuestos, en coordinaci├│n con la Contralor├¡a General de la Rep├║blica.",
+      "B": "Realiza el seguimiento de todas las fases del mecanismo de obras por impuestos y coordina sobre ello, con la Contralor├¡a General de la Rep├║blica.",
+      "C": "No puede solicitar informaci├│n a las empresas privadas, todo requerimiento de informaci├│n se canaliza a trav├®s de la entidad p├║blica.",
+      "D": "Emite opini├│n vinculante, exclusiva y excluyente sobre la interpretaci├│n y la aplicaci├│n del TUO de la Ley N┬░ 29230 y del TUO del reglamento de la Ley 29230."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 8 Competencias de la DGPPIP-MEF de la Guía metodológica del mecanismo de Obras por Impuestos-Ministerio de Economía y Finanzas."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 8 Competencias de la DGPPIP-MEF de la Gu├¡a metodol├│gica del mecanismo de Obras por Impuestos-Ministerio de Econom├¡a y Finanzas."
   },
   {
     "id": 178,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Respecto de la normativa de obras por impuestos que se establece en el TUO de la Ley No 29230, identifique el/los enunciado(s) INCORRECTO(S). I. La entidad pública es responsable por la correcta supervisión del proyecto de inversión, para ello deberá en todos los casos contratar a una entidad privada supervisora, la cual podrá ser financiada por la empresa privada, en cuyo caso, el costo será reconocido en el CIPRL, de acuerdo con el artículo 8 del Texto Único Ordenado. II. La contratación es efectuada conforme a lo establecido en el reglamento para la selección de la empresa privada, en lo que le fuera aplicable. Asimismo, la ejecución del contrato de supervisión se realiza siguiendo los procedimientos que disponga el reglamento. III. En caso se resuelva el contrato de supervisión, la entidad pública debe contratar una nueva entidad privada supervisora. IV. A fin de asegurar la continuidad de la ejecución del proyecto de inversión pública, la entidad pública con cargo a su presupuesto institucional puede realizar las acciones de supervisión a través de su personal interno hasta por un plazo máximo de sesenta (60) días hábiles contados desde el día siguiente de la resolución del contrato de supervisión, para lo cual asume la responsabilidad de las labores de supervisión y de dar la conformidad de calidad de la obra correspondiente a dicho periodo.",
+    "pregunta": "Respecto de la normativa de obras por impuestos que se establece en el TUO de la Ley No 29230, identifique el/los enunciado(s) INCORRECTO(S). I. La entidad p├║blica es responsable por la correcta supervisi├│n del proyecto de inversi├│n, para ello deber├í en todos los casos contratar a una entidad privada supervisora, la cual podr├í ser financiada por la empresa privada, en cuyo caso, el costo ser├í reconocido en el CIPRL, de acuerdo con el art├¡culo 8 del Texto ├Ünico Ordenado. II. La contrataci├│n es efectuada conforme a lo establecido en el reglamento para la selecci├│n de la empresa privada, en lo que le fuera aplicable. Asimismo, la ejecuci├│n del contrato de supervisi├│n se realiza siguiendo los procedimientos que disponga el reglamento. III. En caso se resuelva el contrato de supervisi├│n, la entidad p├║blica debe contratar una nueva entidad privada supervisora. IV. A fin de asegurar la continuidad de la ejecuci├│n del proyecto de inversi├│n p├║blica, la entidad p├║blica con cargo a su presupuesto institucional puede realizar las acciones de supervisi├│n a trav├®s de su personal interno hasta por un plazo m├íximo de sesenta (60) d├¡as h├íbiles contados desde el d├¡a siguiente de la resoluci├│n del contrato de supervisi├│n, para lo cual asume la responsabilidad de las labores de supervisi├│n y de dar la conformidad de calidad de la obra correspondiente a dicho periodo.",
     "opciones": {
       "A": "I y III",
       "B": "I y II",
@@ -2311,90 +2311,90 @@ const BANCO_PREGUNTAS = [
       "D": "Solo IV"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 11 del TUO de la Ley N° 29230. Aprobado con Decreto Supremo N° 210-2022-EF del 14.09.2022"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 11 del TUO de la Ley N┬░ 29230. Aprobado con Decreto Supremo N┬░ 210-2022-EF del 14.09.2022"
   },
   {
     "id": 179,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Respecto de la solución de controversias, de acuerdo con la normativa de Obras por Impuestos que se establece en el TUO de la Ley N° 29230, ¿cuál de las siguientes afirmaciones es correcta?",
+    "pregunta": "Respecto de la soluci├│n de controversias, de acuerdo con la normativa de Obras por Impuestos que se establece en el TUO de la Ley N┬░ 29230, ┬┐cu├íl de las siguientes afirmaciones es correcta?",
     "opciones": {
-      "A": "La entidad pública y la empresa privada pueden convenir en someter sus controversias al trato directo, conforme a las reglas de la buena fe y común intención de las partes. El acuerdo al que se llegue tiene efecto vinculante y ejecutable para las partes y produce los efectos legales de la transacción.",
-      "B": "Las controversias que surjan entre las partes, en el marco de la ejecución de un convenio de inversión, se resuelven solo mediante arbitraje.",
-      "C": "Las controversias que surjan entre las partes, en el marco de la ejecución de un convenio de inversión, no pueden ser sometidas a conciliación.",
-      "D": "En los casos de mediación, la entidad pública puede suscribir un acta en la que se determinen los derechos y las obligaciones exigibles a las partes y con el fin de viabilizar la correcta ejecución del proyecto de inversión pública."
+      "A": "La entidad p├║blica y la empresa privada pueden convenir en someter sus controversias al trato directo, conforme a las reglas de la buena fe y com├║n intenci├│n de las partes. El acuerdo al que se llegue tiene efecto vinculante y ejecutable para las partes y produce los efectos legales de la transacci├│n.",
+      "B": "Las controversias que surjan entre las partes, en el marco de la ejecuci├│n de un convenio de inversi├│n, se resuelven solo mediante arbitraje.",
+      "C": "Las controversias que surjan entre las partes, en el marco de la ejecuci├│n de un convenio de inversi├│n, no pueden ser sometidas a conciliaci├│n.",
+      "D": "En los casos de mediaci├│n, la entidad p├║blica puede suscribir un acta en la que se determinen los derechos y las obligaciones exigibles a las partes y con el fin de viabilizar la correcta ejecuci├│n del proyecto de inversi├│n p├║blica."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 19 del TUO de la Ley 29230. aprobado con Decreto Supremo N° 210-2022-EF del 14.09.2022"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 19 del TUO de la Ley 29230. aprobado con Decreto Supremo N┬░ 210-2022-EF del 14.09.2022"
   },
   {
     "id": 180,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "En el marco normativo de obras por impuestos, sobre la actualización de estudios de preinversión, fichas técnicas o expedientes técnicos a propuesta de la empresa privada, es INCORRECTO afirmar que",
+    "pregunta": "En el marco normativo de obras por impuestos, sobre la actualizaci├│n de estudios de preinversi├│n, fichas t├®cnicas o expedientes t├®cnicos a propuesta de la empresa privada, es INCORRECTO afirmar que",
     "opciones": {
-      "A": "las empresas privadas pueden proponer a las entidades públicas la actualización de los estudios de preinversión, de las fichas técnicas o de los expedientes técnicos de los proyectos de inversión declarados viables según el Sistema Nacional de Programación Multianual y Gestión de Inversiones.",
-      "B": "las entidades públicas no podrán reembolsar a las empresas privadas los costos de actualización de los estudios de preinversión.",
-      "C": "las propuestas de actualización de los estudios de preinversión, de las fichas técnicas o de los expedientes técnicos de los proyectos de inversión declarados viables tienen carácter de petición de gracia.",
-      "D": "el derecho del proponente se agota con la presentación de la propuesta ante la entidad pública, sin posibilidad de cuestionamiento o impugnación del pronunciamiento en sede administrativa o judicial."
+      "A": "Las empresas privadas pueden proponer a las entidades p├║blicas la actualizaci├│n de los estudios de preinversi├│n, de las fichas t├®cnicas o de los expedientes t├®cnicos de los proyectos de inversi├│n declarados viables seg├║n el Sistema Nacional de Programaci├│n Multianual y Gesti├│n de Inversiones.",
+      "B": "Las entidades p├║blicas no podr├ín reembolsar a las empresas privadas los costos de actualizaci├│n de los estudios de preinversi├│n.",
+      "C": "Las propuestas de actualizaci├│n de los estudios de preinversi├│n, de las fichas t├®cnicas o de los expedientes t├®cnicos de los proyectos de inversi├│n declarados viables tienen car├ícter de petici├│n de gracia.",
+      "D": "El derecho del proponente se agota con la presentaci├│n de la propuesta ante la entidad p├║blica, sin posibilidad de cuestionamiento o impugnaci├│n del pronunciamiento en sede administrativa o judicial."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 3 del Anexo del Texto Único Ordenado de la Ley No 29230."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 3 del Anexo del Texto ├Ünico Ordenado de la Ley No 29230."
   },
   {
     "id": 181,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
     "pregunta": "En el marco del mecanismo de Obras por Impuestos, marque la alternativa correcta.",
     "opciones": {
-      "A": "Como requisito para iniciar la convocatoria al proceso de selección de la empresa privada que suscriba el convenio de inversión, la entidad pública otorga previamente la certificación presupuestaria.",
-      "B": "Mediante proveído del Titular de la entidad, se realiza la priorización del proyecto de inversión a ejecutarse.",
-      "C": "Para proyectos de inversión que se ejecuten parcial o totalmente en años fiscales siguientes, la Dirección General de Presupuesto Público requiere de oficio a la entidad su compromiso de priorización y su programación presupuestaria.",
-      "D": "Los Certificados de Inversiones Públicas del Gobierno Nacional (CIPGN) pueden ser financiados con cargo a recursos de la fuente de financiamiento de Recursos Directamente Recaudados, provenientes del Fondo Especial para la Seguridad Ciudadana y orientados al financiamiento de los proyectos de inversión."
+      "A": "Como requisito para iniciar la convocatoria al proceso de selecci├│n de la empresa privada que suscriba el convenio de inversi├│n, la entidad p├║blica otorga previamente la certificaci├│n presupuestaria.",
+      "B": "Mediante prove├¡do del Titular de la entidad, se realiza la priorizaci├│n del proyecto de inversi├│n a ejecutarse.",
+      "C": "Para proyectos de inversi├│n que se ejecuten parcial o totalmente en a├▒os fiscales siguientes, la Direcci├│n General de Presupuesto P├║blico requiere de oficio a la entidad su compromiso de priorizaci├│n y su programaci├│n presupuestaria.",
+      "D": "Los Certificados de Inversiones P├║blicas del Gobierno Nacional (CIPGN) pueden ser financiados con cargo a recursos de la fuente de financiamiento de Recursos Directamente Recaudados, provenientes del Fondo Especial para la Seguridad Ciudadana y orientados al financiamiento de los proyectos de inversi├│n."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley No 29230 que Impulsa la Inversión Pública Regional y Local con participación del Sector Privado ? Anexo Ley TUO N° 29230. Art. 4 ? Ejecución de Proyectos de Inversión de entidades del gobierno Nacional."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley No 29230 que Impulsa la Inversi├│n P├║blica Regional y Local con participaci├│n del Sector Privado ÔÇô Anexo Ley TUO N┬░ 29230. Art. 4 ÔÇô Ejecuci├│n de Proyectos de Inversi├│n de entidades del gobierno Nacional."
   },
   {
     "id": 182,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Señale cuál es una de Competencias de la Dirección General de Políticas de Promoción de la Inversión Privada (DGPPIP), en relación a los proyectos desarrollados mediante Obras por Impuestos.",
+    "pregunta": "Se├▒ale cu├íl es una de Competencias de la Direcci├│n General de Pol├¡ticas de Promoci├│n de la Inversi├│n Privada (DGPPIP), en relaci├│n a los proyectos desarrollados mediante Obras por Impuestos.",
     "opciones": {
-      "A": "Canaliza las consultas o las interpretaciones referidas al mecanismo de Obras por Impuestos, en coordinación con la Contraloría General de la República.",
-      "B": "Realiza el seguimiento de todas las fases del mecanismo de Obras por Impuestos y coordina sobre ello, con la Contraloría General de la República.",
-      "C": "No puede solicitar información a las empresas privadas, todo requerimiento de información se canaliza a través de la entidad pública.",
-      "D": "Emite opinión vinculante, exclusiva y excluyente sobre la interpretación y la aplicación del TUO de la Ley N° 29230 y del TUO del Reglamento de la Ley 29230."
+      "A": "Canaliza las consultas o las interpretaciones referidas al mecanismo de Obras por Impuestos, en coordinaci├│n con la Contralor├¡a General de la Rep├║blica.",
+      "B": "Realiza el seguimiento de todas las fases del mecanismo de Obras por Impuestos y coordina sobre ello, con la Contralor├¡a General de la Rep├║blica.",
+      "C": "No puede solicitar informaci├│n a las empresas privadas, todo requerimiento de informaci├│n se canaliza a trav├®s de la entidad p├║blica.",
+      "D": "Emite opini├│n vinculante, exclusiva y excluyente sobre la interpretaci├│n y la aplicaci├│n del TUO de la Ley N┬░ 29230 y del TUO del Reglamento de la Ley 29230."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento del Decreto Legislativo No 1362 Que regula la Promoción de la Inversión Privada mediante las APP. Título 7 ? Proyectos en Activos ? Capítulo I - Iniciativas Estatales de Proyecto de Activos. Art 42: Fases de Proyectos de Activos"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento del Decreto Legislativo No 1362 Que regula la Promoci├│n de la Inversi├│n Privada mediante las APP. T├¡tulo 7 ÔÇô Proyectos en Activos ÔÇô Cap├¡tulo I - Iniciativas Estatales de Proyecto de Activos. Art 42: Fases de Proyectos de Activos"
   },
   {
     "id": 183,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "NO son funciones de la Subgerencia de Control de Asociaciones Público- Privadas y Obras por Impuestos.",
+    "pregunta": "NO son funciones de la Subgerencia de Control de Asociaciones P├║blico- Privadas y Obras por Impuestos.",
     "opciones": {
       "A": "Ejecutar los servicios de control gubernamental, en el marco de los principios que rigen el ejercicio del control gubernamental, respecto a las denuncias evaluadas que les sean derivadas, de acuerdo a los lineamientos y normativa aplicable.",
       "B": "Aprobar las carpetas de servicio de control posterior a ser ejecutados, que correspondan a su competencia.",
-      "C": "Efectuar el registro en los sistemas informáticos correspondientes de la información sobre los avances de los servicios de control gubernamental realizados, así como de los informes resultantes.",
-      "D": "Desaprobar las carpetas de servicio de control posterior a ser ejecutados en las entidades comprendidas en su ámbito de competencia."
+      "C": "Efectuar el registro en los sistemas inform├íticos correspondientes de la informaci├│n sobre los avances de los servicios de control gubernamental realizados, as├¡ como de los informes resultantes.",
+      "D": "Desaprobar las carpetas de servicio de control posterior a ser ejecutados en las entidades comprendidas en su ├ímbito de competencia."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Numeral 6.1 Definiciones de la Directiva N° 017-2022- CG/GMPL ?Directiva Interna que establece Disposiciones Complementarias de la Ley N° 31358, Ley que establece Medidas para la Expansión de Control Concurrente? aprobada por Resolución de Contraloría N° 275-2022/CG"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 6.1 Definiciones de la Directiva N┬░ 017-2022- CG/GMPL ÔÇ£Directiva Interna que establece Disposiciones Complementarias de la Ley N┬░ 31358, Ley que establece Medidas para la Expansi├│n de Control ConcurrenteÔÇØ aprobada por Resoluci├│n de Contralor├¡a N┬░ 275-2022/CG"
   },
   {
     "id": 184,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "¿Cuál de los siguientes enunciados NO es un principio rector del proceso de obras por impuestos?",
+    "pregunta": "┬┐Cu├íl de los siguientes enunciados NO es un principio rector del proceso de obras por impuestos?",
     "opciones": {
       "A": "Igualdad de trato",
       "B": "Competencia",
       "C": "Razonabilidad",
-      "D": "Confianza legítima"
+      "D": "Confianza leg├¡tima"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Directiva 001-2022-CG/NORM, Numeral 2 segundo párrafo."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 001-2022-CG/NORM, Numeral 2 segundo p├írrafo."
   },
   {
     "id": 185,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Respecto de la participación de la Contraloría General de la República en el mecanismo de obras por impuestos, determine el valor de verdad (V o F) de los siguientes enunciados: I. Las entidades facilitan el acceso al lugar donde se ejecuta el proyecto. Si este se encuentra en ejecución, las empresas privadas permiten el acceso de la Contraloría General de la República al cuaderno de obra y a la documentación relacionada con el proyecto. II. Cuando las bases integradas incluyan modificaciones en el monto total de inversión referencial, dicho exceso debe encontrarse dentro del límite establecido de acuerdo con el artículo 97 y debe enviarse una copia de la misma a la Contraloría General de la República para el control respectivo. III. Sobre toda modificación al monto de inversión del proyecto, la empresa privada comunica el hecho a la Contraloría General de la República y reporta el incumplimiento al Ministerio de Economía y Finanzas. IV. El Ministerio de Economía y Finanzas pone en conocimiento de la Contraloría General de la República el listado de entidades públicas que no pueden suscribir nuevos convenios hasta su subsanación.",
+    "pregunta": "Respecto de la participaci├│n de la Contralor├¡a General de la Rep├║blica en el mecanismo de obras por impuestos, determine el valor de verdad (V o F) de los siguientes enunciados: I. Las entidades facilitan el acceso al lugar donde se ejecuta el proyecto. Si este se encuentra en ejecuci├│n, las empresas privadas permiten el acceso de la Contralor├¡a General de la Rep├║blica al cuaderno de obra y a la documentaci├│n relacionada con el proyecto. II. Cuando las bases integradas incluyan modificaciones en el monto total de inversi├│n referencial, dicho exceso debe encontrarse dentro del l├¡mite establecido de acuerdo con el art├¡culo 97 y debe enviarse una copia de la misma a la Contralor├¡a General de la Rep├║blica para el control respectivo. III. Sobre toda modificaci├│n al monto de inversi├│n del proyecto, la empresa privada comunica el hecho a la Contralor├¡a General de la Rep├║blica y reporta el incumplimiento al Ministerio de Econom├¡a y Finanzas. IV. El Ministerio de Econom├¡a y Finanzas pone en conocimiento de la Contralor├¡a General de la Rep├║blica el listado de entidades p├║blicas que no pueden suscribir nuevos convenios hasta su subsanaci├│n.",
     "opciones": {
       "A": "IV, IIV, IIIF, IVF",
       "B": "IV, IIF, IIIF, IVF",
@@ -2402,220 +2402,220 @@ const BANCO_PREGUNTAS = [
       "D": "IF, IIV, IIIF, IVF"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: TUO del Reglamento de la Ley N° 29230, artículo 5.2, 46."
+    "fundamento": "Referencia bibliogr├ífica: TUO del Reglamento de la Ley N┬░ 29230, art├¡culo 5.2, 46."
   },
   {
     "id": 186,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "¿Cuáles son las fases para el desarrollo de Obras por Impuestos?",
+    "pregunta": "┬┐Cu├íles son las fases para el desarrollo de Obras por Impuestos?",
     "opciones": {
-      "A": "Priorización, publicación, proceso de selección y ejecución.",
-      "B": "Actos previos, priorización, publicación, procedimiento de selección y ejecución.",
-      "C": "Priorización, proceso de selección y ejecución.",
-      "D": "Priorización, actos previos, proceso de selección y ejecución."
+      "A": "Priorizaci├│n, publicaci├│n, proceso de selecci├│n y ejecuci├│n.",
+      "B": "Actos previos, priorizaci├│n, publicaci├│n, procedimiento de selecci├│n y ejecuci├│n.",
+      "C": "Priorizaci├│n, proceso de selecci├│n y ejecuci├│n.",
+      "D": "Priorizaci├│n, actos previos, proceso de selecci├│n y ejecuci├│n."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Guía metodológica del mecanismo de Obras por Impuestos, p. 19."
+    "fundamento": "Referencia bibliogr├ífica: Gu├¡a metodol├│gica del mecanismo de Obras por Impuestos, p. 19."
   },
   {
     "id": 187,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "De acuerdo con el mecanismo de Obras por Impuestos, según la Ley 29230, marque la afirmación correcta.",
+    "pregunta": "De acuerdo con el mecanismo de Obras por Impuestos, seg├║n la Ley 29230, marque la afirmaci├│n correcta.",
     "opciones": {
-      "A": "Mediante proveído del titular de la entidad se realiza la priorización del proyecto de inversión a ejecutarse.",
-      "B": "Como requisito para iniciar la convocatoria al proceso de selección de la empresa privada que suscriba el convenio de inversión para financiar y/o ejecutar proyectos de inversión, IOARR mediante el mecanismo establecido en la presente TUO, la entidad pública otorga previamente la certificación presupuestaria.",
-      "C": "Para proyectos de inversión que se ejecuten parcial o totalmente en años fiscales siguientes, la Dirección General de Presupuesto Público requiere, de oficio, a la entidad su compromiso de priorización y su programación presupuestaria.",
-      "D": "Los Certificados de Inversión Pública del Gobierno Nacional (CIPGN) pueden ser financiados con cargo a recursos de la fuente de financiamiento de Recursos Directamente Recaudados, provenientes del Fondo Especial para la Seguridad Ciudadana y orientados al financiamiento de los proyectos de inversión."
+      "A": "Mediante prove├¡do del titular de la entidad se realiza la priorizaci├│n del proyecto de inversi├│n a ejecutarse.",
+      "B": "Como requisito para iniciar la convocatoria al proceso de selecci├│n de la empresa privada que suscriba el convenio de inversi├│n para financiar y/o ejecutar proyectos de inversi├│n, IOARR mediante el mecanismo establecido en la presente TUO, la entidad p├║blica otorga previamente la certificaci├│n presupuestaria.",
+      "C": "Para proyectos de inversi├│n que se ejecuten parcial o totalmente en a├▒os fiscales siguientes, la Direcci├│n General de Presupuesto P├║blico requiere, de oficio, a la entidad su compromiso de priorizaci├│n y su programaci├│n presupuestaria.",
+      "D": "Los Certificados de Inversi├│n P├║blica del Gobierno Nacional (CIPGN) pueden ser financiados con cargo a recursos de la fuente de financiamiento de Recursos Directamente Recaudados, provenientes del Fondo Especial para la Seguridad Ciudadana y orientados al financiamiento de los proyectos de inversi├│n."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: 6to. Párrafo del Artículo 4 del TUO de la Ley N° 29230, aprobado por el Decreto Supremo N° 210-2022-EF del 14.09.2022"
+    "fundamento": "Referencia bibliogr├ífica: 6to. P├írrafo del Art├¡culo 4 del TUO de la Ley N┬░ 29230, aprobado por el Decreto Supremo N┬░ 210-2022-EF del 14.09.2022"
   },
   {
     "id": 188,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
     "pregunta": "En el marco de la normativa de Obras por Impuestos, marque la respuesta incorrecta.",
     "opciones": {
-      "A": "Finalizada la ejecución o avance del proyecto, la entidad pública solicita a PROINVERSIÓN el certificado Inversión Pública Regional y Local-Tesoro Público (CIPRL) o el certificado Inversión Pública Gobierno Nacional- Tesoro Público (CIPGN).",
-      "B": "OxI es un mecanismo que permite que el sector público y el sector privado trabajen de la mano para reducir la brecha de infraestructura en el país, a través de la suscripción de un convenio. Mediante este mecanismo, las empresas privadas adelantan el pago de su impuesto a la renta para financiar y ejecutar directamente, de forma rápida y eficiente, proyectos de inversión pública que las entidades del gobierno nacional, gobierno regional, gobierno local y universidades públicas priorizan.",
-      "C": "Mediante el mecanismo de OxI se pueden financiar y ejecutar proyectos que guarden armonía con las políticas y los planes de desarrollo nacional, regional o local. Las entidades públicas del Gobierno Nacional pueden realizar proyectos mediante OxI que incluyan investigación aplicada y/o innovación tecnológica.",
-      "D": "Mediante el certificado Inversión Pública Regional y Local-Tesoro Público (CIPRL) o el certificado Inversión Pública Gobierno Nacional- Tesoro Público (CIPGN), se le reconoce a la empresa privada la inversión realizada. Estos certificados solo pueden ser utilizados para el pago del impuesto a la renta."
+      "A": "Finalizada la ejecuci├│n o avance del proyecto, la entidad p├║blica solicita a PROINVERSI├ôN el certificado Inversi├│n P├║blica Regional y Local-Tesoro P├║blico (CIPRL) o el certificado Inversi├│n P├║blica Gobierno Nacional- Tesoro P├║blico (CIPGN).",
+      "B": "OxI es un mecanismo que permite que el sector p├║blico y el sector privado trabajen de la mano para reducir la brecha de infraestructura en el pa├¡s, a trav├®s de la suscripci├│n de un convenio. Mediante este mecanismo, las empresas privadas adelantan el pago de su impuesto a la renta para financiar y ejecutar directamente, de forma r├ípida y eficiente, proyectos de inversi├│n p├║blica que las entidades del gobierno nacional, gobierno regional, gobierno local y universidades p├║blicas priorizan.",
+      "C": "Mediante el mecanismo de OxI se pueden financiar y ejecutar proyectos que guarden armon├¡a con las pol├¡ticas y los planes de desarrollo nacional, regional o local. Las entidades p├║blicas del Gobierno Nacional pueden realizar proyectos mediante OxI que incluyan investigaci├│n aplicada y/o innovaci├│n tecnol├│gica.",
+      "D": "Mediante el certificado Inversi├│n P├║blica Regional y Local-Tesoro P├║blico (CIPRL) o el certificado Inversi├│n P├║blica Gobierno Nacional- Tesoro P├║blico (CIPGN), se le reconoce a la empresa privada la inversi├│n realizada. Estos certificados solo pueden ser utilizados para el pago del impuesto a la renta."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Guía Metodológica del mecanismo de Obras por Impuestos. Definición, pág. 13."
+    "fundamento": "Referencia bibliogr├ífica: Gu├¡a Metodol├│gica del mecanismo de Obras por Impuestos. Definici├│n, p├íg. 13."
   },
   {
     "id": 189,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "Respecto al monto total de inversión referencial establecido para el proceso de selección, es INCORRECTO afirmar que este",
+    "pregunta": "Respecto al monto total de inversi├│n referencial establecido para el proceso de selecci├│n, es INCORRECTO afirmar que este",
     "opciones": {
-      "A": "incluye, en todos los casos, los costos de supervisión, el costo de la ficha técnica o de los estudios de preinversión, en caso el proyecto haya sido propuesto por el sector privado, y el costo de operación y/o el costo de mantenimiento.",
-      "B": "debe contemplar, en caso la entidad pública cuente con el expediente técnico, el monto de inversión señalado en este para realizar la convocatoria sin considerar el costo de elaboración de tales documentos.",
-      "C": "recoge el nuevo monto de inversión registrado en el Banco de Inversiones de INVIERTE.PE en fecha posterior a su declaratoria de viabilidad y priorización, a través de una autorización del titular de la entidad pública.",
-      "D": "es el valor citado en la convocatoria y las bases. Asimismo, se expresa a precios de mercado."
+      "A": "Incluye, en todos los casos, los costos de supervisi├│n, el costo de la ficha t├®cnica o de los estudios de preinversi├│n, en caso el proyecto haya sido propuesto por el sector privado, y el costo de operaci├│n y/o el costo de mantenimiento.",
+      "B": "Debe contemplar, en caso la entidad p├║blica cuente con el expediente t├®cnico, el monto de inversi├│n se├▒alado en este para realizar la convocatoria sin considerar el costo de elaboraci├│n de tales documentos.",
+      "C": "Recoge el nuevo monto de inversi├│n registrado en el Banco de Inversiones de INVIERTE.PE en fecha posterior a su declaratoria de viabilidad y priorizaci├│n, a trav├®s de una autorizaci├│n del titular de la entidad p├║blica.",
+      "D": "Es el valor citado en la convocatoria y las bases. Asimismo, se expresa a precios de mercado."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numerales 26.3, 26.5 y 26.6 del TUO del Reglamento de la Ley No 29230."
+    "fundamento": "Referencia bibliogr├ífica: Numerales 26.3, 26.5 y 26.6 del TUO del Reglamento de la Ley No 29230."
   },
   {
     "id": 190,
     "tema": "Tema 4: Obras por Impuestos (OxI)",
-    "pregunta": "En relación con las variaciones o modificaciones al monto total de inversión, indique la alternativa que NO corresponde.",
+    "pregunta": "En relaci├│n con las variaciones o modificaciones al monto total de inversi├│n, indique la alternativa que NO corresponde.",
     "opciones": {
-      "A": "Aprobado el expediente técnico, la entidad pública puede modificar el monto de inversión del proyecto al autorizar a la empresa privada la ejecución de mayores trabajos de obra, para lo cual solo es necesario acreditar que las mismas responden a modificaciones a las especificaciones técnicas o a las condiciones originales de ejecución del proyecto.",
-      "B": "Se reconocen las variaciones aprobadas y convenidas con la entidad pública mediante adenda, siempre que signifiquen mayores trabajos de obra.",
+      "A": "Aprobado el expediente t├®cnico, la entidad p├║blica puede modificar el monto de inversi├│n del proyecto al autorizar a la empresa privada la ejecuci├│n de mayores trabajos de obra, para lo cual solo es necesario acreditar que las mismas responden a modificaciones a las especificaciones t├®cnicas o a las condiciones originales de ejecuci├│n del proyecto.",
+      "B": "Se reconocen las variaciones aprobadas y convenidas con la entidad p├║blica mediante adenda, siempre que signifiquen mayores trabajos de obra.",
       "C": "Cuando no resulten aplicables los mayores trabajos de obra, reducciones y ampliaciones, las partes pueden acordar otras modificaciones al convenio siempre que deriven de hechos sobrevinientes al perfeccionamiento del convenio, que no sean imputables a alguna de las partes, que permitan alcanzar la finalidad del convenio de manera oportuna y eficiente, y que no cambien los elementos determinantes del objeto del convenio.",
-      "D": "Una vez elaborado el expediente técnico por la empresa privada o modificado mediante un documento de trabajo y aprobado por la entidad pública, se encuentra prohibida la aprobación de adicionales por errores o deficiencias en el expediente técnico."
+      "D": "Una vez elaborado el expediente t├®cnico por la empresa privada o modificado mediante un documento de trabajo y aprobado por la entidad p├║blica, se encuentra prohibida la aprobaci├│n de adicionales por errores o deficiencias en el expediente t├®cnico."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: TUO del Reglamento de la Ley No 29230, artículo 72.1."
+    "fundamento": "Referencia bibliogr├ífica: TUO del Reglamento de la Ley No 29230, art├¡culo 72.1."
   },
   {
     "id": 191,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "En el marco de los proyectos especiales de inversión pública, los contratos estandarizados más comunes son los siguientes:",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "En el marco de los proyectos especiales de inversi├│n p├║blica, los contratos estandarizados m├ís comunes son los siguientes:",
     "opciones": {
-      "A": "New Engineering Contract (NEC), International Federation of Consulting Engineers (FIDIC) y Asociaciones Público Privadas (APP).",
-      "B": "New Engineering Contract (NEC), International Federation of Consulting Engineers (FIDIC), Asociaciones Público Privadas (APP), Government to Government Agreements (GtoG).",
+      "A": "New Engineering Contract (NEC), International Federation of Consulting Engineers (FIDIC) y Asociaciones P├║blico Privadas (APP).",
+      "B": "New Engineering Contract (NEC), International Federation of Consulting Engineers (FIDIC), Asociaciones P├║blico Privadas (APP), Government to Government Agreements (GtoG).",
       "C": "New Engineering Contract (NEC), International Federation of Consulting Engineers (FIDIC) y Engineering Advancement Association of Japan (ENAA).",
       "D": "New Engineering Contract (NEC), International Federation of Consulting Engineers (FIDIC), Memorandum of Understanding (MOU), Government to Government Agreements (GtoG)."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Literal e) del artículo 3 del D.S. N° 119-2020 EF, Reglamento de Proyectos Especiales de Inversión Pública en el marco del Decreto de Urgencia N° 021-2020. Numeral 3, de las disposiciones complementaria finales."
+    "fundamento": "Referencia bibliogr├ífica: Literal e) del art├¡culo 3 del D.S. N┬░ 119-2020 EF, Reglamento de Proyectos Especiales de Inversi├│n P├║blica en el marco del Decreto de Urgencia N┬░ 021-2020. Numeral 3, de las disposiciones complementaria finales."
   },
   {
     "id": 192,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
     "pregunta": "En cuanto al control concurrente, marque el enunciado correcto.",
     "opciones": {
-      "A": "El Informe de hito de control es elaborado por la Comisión de Control una vez concluida la etapa de ejecución del Control Concurrente y corresponde a la evaluación del último hito de control.",
-      "B": "De acuerdo a lo establecido en la Directiva N° 013-2022-CG/NORM Servicio de Control Simultáneo, los elementos de la situación adversa en el control concurrente son la condición, criterio, causa y efecto.",
-      "C": "Es la modalidad del Servicio de Control Simultáneo que se realiza a modo de acompañamiento sistemático multidisciplinario, cuya finalidad es evaluar, mediante la aplicación de diversas técnicas, un conjunto de hitos de control pertenecientes a un proceso en curso, de manera ordenada, sucesiva e interconectada en el momento de su ejecución.",
-      "D": "Tiene por característica ser oportuno y célere; sin embargo, excepcionalmente su desarrollo y emisión de resultados pueden efectuarse cuando el proceso ha concluido, permitiendo a la entidad o dependencia, y de ser el caso, a las instancias competentes, programar acciones correctivas a futuro."
+      "A": "El Informe de hito de control es elaborado por la Comisi├│n de Control una vez concluida la etapa de ejecuci├│n del Control Concurrente y corresponde a la evaluaci├│n del ├║ltimo hito de control.",
+      "B": "De acuerdo a lo establecido en la Directiva N┬░ 013-2022-CG/NORM Servicio de Control Simult├íneo, los elementos de la situaci├│n adversa en el control concurrente son la condici├│n, criterio, causa y efecto.",
+      "C": "Es la modalidad del Servicio de Control Simult├íneo que se realiza a modo de acompa├▒amiento sistem├ítico multidisciplinario, cuya finalidad es evaluar, mediante la aplicaci├│n de diversas t├®cnicas, un conjunto de hitos de control pertenecientes a un proceso en curso, de manera ordenada, sucesiva e interconectada en el momento de su ejecuci├│n.",
+      "D": "Tiene por caracter├¡stica ser oportuno y c├®lere; sin embargo, excepcionalmente su desarrollo y emisi├│n de resultados pueden efectuarse cuando el proceso ha concluido, permitiendo a la entidad o dependencia, y de ser el caso, a las instancias competentes, programar acciones correctivas a futuro."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Directiva N° 013-2022-CG/NORM numeral 7, acápite 7.1; subnumeral 7.1.1.3; Glosario de términos pg. 27 de la Directiva, definición ?situación adversa?; subnumeral 6.1.1. pg.4, Características del Servicio de Control Simultáneo."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 013-2022-CG/NORM numeral 7, ac├ípite 7.1; subnumeral 7.1.1.3; Glosario de t├®rminos pg. 27 de la Directiva, definici├│n ÔÇ£situaci├│n adversaÔÇØ; subnumeral 6.1.1. pg.4, Caracter├¡sticas del Servicio de Control Simult├íneo."
   },
   {
     "id": 193,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Respecto de la participación de un experto en la comisión auditora, es correcto asumir que",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Respecto de la participaci├│n de un experto en la comisi├│n auditora, es correcto asumir que",
     "opciones": {
-      "A": "su contratación es necesario para evaluar su competencia profesional y dependencia, así como establecer una cláusula de confidencialidad respecto de la información a la que tenga acceso.",
-      "B": "se trata de una persona natural que posee habilidades, conocimiento y experiencia en un campo particular, distinto al de control gubernamental.",
-      "C": "debe cumplir con las disposiciones de las normas generales, así como la normativa que emita la CGR, en lo que le resulte aplicable.",
-      "D": "sus informes técnicos son utilizados por la comisión auditora como evidencia suficiente y apropiada que respalde las opiniones o conclusiones del informe de auditoría."
+      "A": "Su contrataci├│n es necesario para evaluar su competencia profesional y dependencia, as├¡ como establecer una cl├íusula de confidencialidad respecto de la informaci├│n a la que tenga acceso.",
+      "B": "Se trata de una persona natural que posee habilidades, conocimiento y experiencia en un campo particular, distinto al de control gubernamental.",
+      "C": "Debe cumplir con las disposiciones de las normas generales, as├¡ como la normativa que emita la CGR, en lo que le resulte aplicable.",
+      "D": "Sus informes t├®cnicos son utilizados por la comisi├│n auditora como evidencia suficiente y apropiada que respalde las opiniones o conclusiones del informe de auditor├¡a."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: MAC numeral 6.4.3. ítem 115."
+    "fundamento": "Referencia bibliogr├ífica: MAC numeral 6.4.3. ├¡tem 115."
   },
   {
     "id": 194,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "¿Qué atribución NO le compete a la Contraloría?",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "┬┐Qu├® atribuci├│n NO le compete a la Contralor├¡a?",
     "opciones": {
-      "A": "Ordena que los órganos del sistema realicen las acciones de control que a su juicio sean necesarias o ejerce en forma directa el control interno sobre los actos de las entidades.",
-      "B": "Presenta anualmente al Congreso de la República el informe de evaluación a la cuenta general de la República, para cuya formulación la CGR dictará las disposiciones pertinentes.",
+      "A": "Ordena que los ├│rganos del sistema realicen las acciones de control que a su juicio sean necesarias o ejerce en forma directa el control interno sobre los actos de las entidades.",
+      "B": "Presenta anualmente al Congreso de la Rep├║blica el informe de evaluaci├│n a la cuenta general de la Rep├║blica, para cuya formulaci├│n la CGR dictar├í las disposiciones pertinentes.",
       "C": "Aprueba el Plan Nacional de Control y los planes anuales de control de las entidades.",
-      "D": "Recibe y atiende denuncias y sugerencias de la ciudadanía relacionadas con las funciones de la administración pública, y les otorga el trámite correspondiente sea en el ámbito interno o derivándolas ante la autoridad competente, en el que la identidad de los denunciantes y el contenido de la denuncia estén protegidos por el principio de reserva."
+      "D": "Recibe y atiende denuncias y sugerencias de la ciudadan├¡a relacionadas con las funciones de la administraci├│n p├║blica, y les otorga el tr├ímite correspondiente sea en el ├ímbito interno o deriv├índolas ante la autoridad competente, en el que la identidad de los denunciantes y el contenido de la denuncia est├®n protegidos por el principio de reserva."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: artículo 22 de la Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 22 de la Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica."
   },
   {
     "id": 195,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Marque la alternativa correcta sobre la ejecución del Servicio de Control Específico a hechos con presunta irregularidad, respecto de proyectos de inversión con componentes de infraestructura.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Marque la alternativa correcta sobre la ejecuci├│n del Servicio de Control Espec├¡fico a hechos con presunta irregularidad, respecto de proyectos de inversi├│n con componentes de infraestructura.",
     "opciones": {
-      "A": "La Gerencia de Control de Megaproyectos y sus unidades orgánicas ejecutan SCE a proyectos con monto viable igual o mayor a trescientos millones de soles.",
-      "B": "No corresponde reasignar, por excepción, la ejecución del SCE a otro órgano o unidad orgánica de la CGR distinta a la establecida.",
-      "C": "La Gerencia de Control Político Institucional y Económico, y sus unidades orgánicas dependientes, ejecutan inversiones con carácter de secreto militar o de orden interno.",
-      "D": "La Subgerencia de Atención de Denuncias ejecutan SCE a proyectos con monto viable menor a treinta millones y la materia de control tuvo origen en una denuncia."
+      "A": "La Gerencia de Control de Megaproyectos y sus unidades org├ínicas ejecutan SCE a proyectos con monto viable igual o mayor a trescientos millones de soles.",
+      "B": "No corresponde reasignar, por excepci├│n, la ejecuci├│n del SCE a otro ├│rgano o unidad org├ínica de la CGR distinta a la establecida.",
+      "C": "La Gerencia de Control Pol├¡tico Institucional y Econ├│mico, y sus unidades org├ínicas dependientes, ejecutan inversiones con car├ícter de secreto militar o de orden interno.",
+      "D": "La Subgerencia de Atenci├│n de Denuncias ejecutan SCE a proyectos con monto viable menor a treinta millones y la materia de control tuvo origen en una denuncia."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 3, inciso d) de la Resolución de Contraloría N° 014-2022-CG del 26 de enero del 2022."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 3, inciso d) de la Resoluci├│n de Contralor├¡a N┬░ 014-2022-CG del 26 de enero del 2022."
   },
   {
     "id": 196,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Se realiza a modo de acompañamiento sistemático, multidisciplinario, evaluando, a través de la aplicación de diversas técnicas, un conjunto de hitos de control de un proceso en curso, de forma ordenada, sucesiva e interconectada, en el momento de su ejecución. El enunciado precedente hace referencia",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Se realiza a modo de acompa├▒amiento sistem├ítico, multidisciplinario, evaluando, a trav├®s de la aplicaci├│n de diversas t├®cnicas, un conjunto de hitos de control de un proceso en curso, de forma ordenada, sucesiva e interconectada, en el momento de su ejecuci├│n. El enunciado precedente hace referencia",
     "opciones": {
-      "A": "al control concurrente.",
-      "B": "a la visita de control.",
-      "C": "a la orientación de oficio.",
-      "D": "al servicio de control previo."
+      "A": "Al control concurrente.",
+      "B": "A la visita de control.",
+      "C": "A la orientaci├│n de oficio.",
+      "D": "Al servicio de control previo."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG/NORM Servicio de control Simultáneo numeral 7.1, aprobada con Resolución de Contraloría Nº 218-2022- CG"
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG/NORM Servicio de control Simult├íneo numeral 7.1, aprobada con Resoluci├│n de Contralor├¡a N┬║ 218-2022- CG"
   },
   {
     "id": 197,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Según la Ley N° 30225. Ley de Contrataciones del Estado, las entidades públicas pueden contratar directamente con un determinado proveedor, salvo",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Seg├║n la Ley N┬░ 30225. Ley de Contrataciones del Estado, las entidades p├║blicas pueden contratar directamente con un determinado proveedor, salvo",
     "opciones": {
-      "A": "cuando se contrate con otra entidad, siempre que en razón de costos de oportunidad resulte más eficiente y técnicamente viable para satisfacer la necesidad.",
-      "B": "ante una situación de emergencia derivada de acontecimientos catastróficos, situaciones que afecten la defensa o seguridad nacional, situaciones que supongan el grave peligro o de una emergencia sanitaria nacional de salud.",
-      "C": "ante un pedido del titular de la entidad debidamente sustentado con un informe técnico y legal.",
-      "D": "ante una situación de desabastecimiento debidamente comprobada, que afecte o impida a la entidad cumplir con sus actividades u operaciones."
+      "A": "Cuando se contrate con otra entidad, siempre que en raz├│n de costos de oportunidad resulte m├ís eficiente y t├®cnicamente viable para satisfacer la necesidad.",
+      "B": "Ante una situaci├│n de emergencia derivada de acontecimientos catastr├│ficos, situaciones que afecten la defensa o seguridad nacional, situaciones que supongan el grave peligro o de una emergencia sanitaria nacional de salud.",
+      "C": "Ante un pedido del titular de la entidad debidamente sustentado con un informe t├®cnico y legal.",
+      "D": "Ante una situaci├│n de desabastecimiento debidamente comprobada, que afecte o impida a la entidad cumplir con sus actividades u operaciones."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 30225. Ley de Contrataciones del Estado. Artículo 27º, Contratación Directa, inciso a), b) y c)."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 30225. Ley de Contrataciones del Estado. Art├¡culo 27┬║, Contrataci├│n Directa, inciso a), b) y c)."
   },
   {
     "id": 198,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Una Ampliación Marginal de la Edificación u Obra Civil (AME) trata sobre la construcción de obras o ambientes adicionales a los ya existentes que no modifican la capacidad de producción de la Unidad productora (UP), así como la incorporación o modificación de los elementos estructurales de una edificación existente, dentro de una UP en funcionamiento. Respecto de la AME, marque la alternativa INCORRECTA.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Una Ampliaci├│n Marginal de la Edificaci├│n u Obra Civil (AME) trata sobre la construcci├│n de obras o ambientes adicionales a los ya existentes que no modifican la capacidad de producci├│n de la Unidad productora (UP), as├¡ como la incorporaci├│n o modificaci├│n de los elementos estructurales de una edificaci├│n existente, dentro de una UP en funcionamiento. Respecto de la AME, marque la alternativa INCORRECTA.",
     "opciones": {
-      "A": "En tanto que la construcción permite a la UP alcance los estándares de calidad, este escenario se configura como uno que podría incrementar los niveles de calidad del servicio.",
-      "B": "Para la identificación, se debe satisfacer la condición de que la construcción de obras o ambientes adicionales no tiene como objetivo el incremento de la capacidad de la UP.",
-      "C": "De ser el caso, el equipo y mobiliario, que no constituyen activos estratégicos, que sean necesarios en las obras o ambientes adicionales, se deben adquirir con otras inversiones no sujetas al INVIERTE.PE.",
-      "D": "La AME se enfoca en que la UP cuente con todos los activos relacionados a edificaciones u obra civil que sean fundamentales, de tal manera que le permita alcanzar los estándares de calidad en la prestación del servicio."
+      "A": "En tanto que la construcci├│n permite a la UP alcance los est├índares de calidad, este escenario se configura como uno que podr├¡a incrementar los niveles de calidad del servicio.",
+      "B": "Para la identificaci├│n, se debe satisfacer la condici├│n de que la construcci├│n de obras o ambientes adicionales no tiene como objetivo el incremento de la capacidad de la UP.",
+      "C": "De ser el caso, el equipo y mobiliario, que no constituyen activos estrat├®gicos, que sean necesarios en las obras o ambientes adicionales, se deben adquirir con otras inversiones no sujetas al INVIERTE.PE.",
+      "D": "La AME se enfoca en que la UP cuente con todos los activos relacionados a edificaciones u obra civil que sean fundamentales, de tal manera que le permita alcanzar los est├índares de calidad en la prestaci├│n del servicio."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 2.2.2 A, C y D de Lineamientos para la identificación y registro de las Inversiones de Optimización, de Ampliación Marginal, de Rehabilitación y de Reposición - IOARR. Ministerio de Economía y Finanzas, Dirección General de Programación Multianual de Inversiones - DGPMI. Versión enero 2022"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 2.2.2 A, C y D de Lineamientos para la identificaci├│n y registro de las Inversiones de Optimizaci├│n, de Ampliaci├│n Marginal, de Rehabilitaci├│n y de Reposici├│n - IOARR. Ministerio de Econom├¡a y Finanzas, Direcci├│n General de Programaci├│n Multianual de Inversiones - DGPMI. Versi├│n enero 2022"
   },
   {
     "id": 199,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
     "pregunta": "En el marco de la normativa de APP, marque la alternativa INCORRECTA.",
     "opciones": {
-      "A": "Solamente una APP eficiente es aquella que no presenta riesgos y, además, no requiere financiamiento público.",
-      "B": "Las variaciones del nivel de precios en el país donde se desarrolla el proyecto puede constituir un riesgo necesario de mitigar.",
-      "C": "Las APP autofinanciadas pueden requerir de garantías.",
-      "D": "Las APP son modalidades de participación de inversión privada en las que se incorpora experiencia, conocimientos, equipos, tecnología y se distribuyen riesgos."
+      "A": "Solamente una APP eficiente es aquella que no presenta riesgos y, adem├ís, no requiere financiamiento p├║blico.",
+      "B": "Las variaciones del nivel de precios en el pa├¡s donde se desarrolla el proyecto puede constituir un riesgo necesario de mitigar.",
+      "C": "Las APP autofinanciadas pueden requerir de garant├¡as.",
+      "D": "Las APP son modalidades de participaci├│n de inversi├│n privada en las que se incorpora experiencia, conocimientos, equipos, tecnolog├¡a y se distribuyen riesgos."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 7.2.3 de la Directiva N° 018-2022-CG/GMPL Directiva Externa que establece Disposiciones Complementarias de la Ley N° 31358, Ley que establece Medidas para la Expansión de Control Concurrente aprobada por Resolución de Contraloría N° 275-2022/CG."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 7.2.3 de la Directiva N┬░ 018-2022-CG/GMPL Directiva Externa que establece Disposiciones Complementarias de la Ley N┬░ 31358, Ley que establece Medidas para la Expansi├│n de Control Concurrente aprobada por Resoluci├│n de Contralor├¡a N┬░ 275-2022/CG."
   },
   {
     "id": 200,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Respecto a la elaboración del informe, ¿a qué característica hacen referencia las siguientes afirmaciones? I. Requiere que la evidencia presentada fluya de la documentación de auditoría y que las observaciones sean correctamente expuestas. II. Se basa en la necesidad de asegurarse que la información que se presenta sea confiable a fin de evitar errores en la presentación de los hechos o en el significado de los mismos.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Respecto a la elaboraci├│n del informe, ┬┐a qu├® caracter├¡stica hacen referencia las siguientes afirmaciones? I. Requiere que la evidencia presentada fluya de la documentaci├│n de auditor├¡a y que las observaciones sean correctamente expuestas. II. Se basa en la necesidad de asegurarse que la informaci├│n que se presenta sea confiable a fin de evitar errores en la presentaci├│n de los hechos o en el significado de los mismos.",
     "opciones": {
       "A": "Objetividad",
       "B": "Exactitud",
-      "C": "Precisión",
-      "D": "Concisión"
+      "C": "Precisi├│n",
+      "D": "Concisi├│n"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Base legal: Artículo 9°, inciso e, de la Ley N.° 27785 «Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República» y sus modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Art├¡culo 9┬░, inciso e, de la Ley N.┬░ 27785 ┬½Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica┬╗ y sus modificatorias."
   },
   {
     "id": 201,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Señale la respuesta correcta en relación con la Contraloría General de la República.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Se├▒ale la respuesta correcta en relaci├│n con la Contralor├¡a General de la Rep├║blica.",
     "opciones": {
       "A": "Es un organismo perteneciente al Poder Ejecutivo.",
       "B": "Es una dependencia del Poder Legislativo.",
       "C": "Es un organismo que solo supervisa a gobiernos regionales.",
-      "D": "Es un organismo constitucional autónomo. Solución: La serie establece una relación autor y lugar de nacimiento. La alternativa que completa de manera correcta es Arguedas: Andahuaylas. Presente en: OXI_Esp_Sr2.pdf"
+      "D": "Es un organismo constitucional aut├│nomo. Soluci├│n: La serie establece una relaci├│n autor y lugar de nacimiento. La alternativa que completa de manera correcta es Arguedas: Andahuaylas. Presente en: OXI_Esp_Sr2.pdf"
     },
     "correcta": "D",
     "fundamento": ""
   },
   {
     "id": 202,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Son elementos de uso obligatorio que generalmente conectan a los entrepisos y techos con los muros que, adecuadamente rigidizados en su plano, actúan como elemento de arriostre horizontal.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Son elementos de uso obligatorio que generalmente conectan a los entrepisos y techos con los muros que, adecuadamente rigidizados en su plano, act├║an como elemento de arriostre horizontal.",
     "opciones": {
       "A": "Soleras",
       "B": "Braquete",
@@ -2623,77 +2623,77 @@ const BANCO_PREGUNTAS = [
       "D": "Pedestal"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA E.080 Adobe, Articulo 3, Definiciones, 3.10 Vigas collar o soleras."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA E.080 Adobe, Articulo 3, Definiciones, 3.10 Vigas collar o soleras."
   },
   {
     "id": 203,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Los _______________ constituyen un conjunto de procesos cuyos productos tienen como propósito brindar una respuesta satisfactoria a las necesidades de control gubernamental que corresponde atender a los órganos del sistema.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Los _______________ constituyen un conjunto de procesos cuyos productos tienen como prop├│sito brindar una respuesta satisfactoria a las necesidades de control gubernamental que corresponde atender a los ├│rganos del sistema.",
     "opciones": {
-      "A": "sistemas legales",
-      "B": "servicios de control",
-      "C": "sistemas de gestión",
-      "D": "servicios relacionados"
+      "A": "Sistemas legales",
+      "B": "Servicios de control",
+      "C": "Sistemas de gesti├│n",
+      "D": "Servicios relacionados"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Base legal: Numerales 1.15 y 1.16 de las Normas generales de control gubernamental, aprobada por R.C. N° 273-2014-CG y modificatoria."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Numerales 1.15 y 1.16 de las Normas generales de control gubernamental, aprobada por R.C. N┬░ 273-2014-CG y modificatoria."
   },
   {
     "id": 204,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "De acuerdo con los procesos de la gestión de proyectos, el proceso de __________ incluye la definición de tareas, la descripción del alcance, los entregables del proyecto, la definición y estimación de los costos de ejecución, el cronograma del proyecto, el ordenamiento secuencial de todas las actividades del proyecto, los enfoques para la gestión de los recursos humanos, adquisiciones, calidad, riesgos, entre otros.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "De acuerdo con los procesos de la gesti├│n de proyectos, el proceso de __________ incluye la definici├│n de tareas, la descripci├│n del alcance, los entregables del proyecto, la definici├│n y estimaci├│n de los costos de ejecuci├│n, el cronograma del proyecto, el ordenamiento secuencial de todas las actividades del proyecto, los enfoques para la gesti├│n de los recursos humanos, adquisiciones, calidad, riesgos, entre otros.",
     "opciones": {
-      "A": "planificación",
-      "B": "Iniciación",
-      "C": "ejecución",
-      "D": "control"
+      "A": "Planificaci├│n",
+      "B": "Iniciaci├│n",
+      "C": "Ejecuci├│n",
+      "D": "Control"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Manual de procedimientos para la gestión de proyectos de la CGR, Capítulo ll, 2.3. Los procesos de la gestión de proyectos, 2.3.2 Planificación"
+    "fundamento": "Referencia bibliogr├ífica: Manual de procedimientos para la gesti├│n de proyectos de la CGR, Cap├¡tulo ll, 2.3. Los procesos de la gesti├│n de proyectos, 2.3.2 Planificaci├│n"
   },
   {
     "id": 205,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "De acuerdo con el Manual de procedimientos para la gestión de proyectos en la Contraloría General de la República, ¿cuál de los procesos NO corresponde a la gestión de proyectos?",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "De acuerdo con el Manual de procedimientos para la gesti├│n de proyectos en la Contralor├¡a General de la Rep├║blica, ┬┐cu├íl de los procesos NO corresponde a la gesti├│n de proyectos?",
     "opciones": {
-      "A": "Proceso de planificación",
+      "A": "Proceso de planificaci├│n",
       "B": "Proceso de control",
-      "C": "Proceso de iniciación",
-      "D": "Proceso de aprobación"
+      "C": "Proceso de iniciaci├│n",
+      "D": "Proceso de aprobaci├│n"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 2.3. del Manual de procedimientos para la gestión de proyectos en la CGR, aprobado con Resolución de Contraloría N° 185-2010-CG, Num. 2.2."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 2.3. del Manual de procedimientos para la gesti├│n de proyectos en la CGR, aprobado con Resoluci├│n de Contralor├¡a N┬░ 185-2010-CG, Num. 2.2."
   },
   {
     "id": 206,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "¿Cuál de los siguientes documentos NO constituye una entrada para desarrollar el enunciado del alcance de un proyecto?",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "┬┐Cu├íl de los siguientes documentos NO constituye una entrada para desarrollar el enunciado del alcance de un proyecto?",
     "opciones": {
-      "A": "Documentación de requisitos del proyecto",
-      "B": "Acta de constitución del proyecto",
+      "A": "Documentaci├│n de requisitos del proyecto",
+      "B": "Acta de constituci├│n del proyecto",
       "C": "Entregables aceptados del proyecto",
-      "D": "Activos de los procesos de la organización"
+      "D": "Activos de los procesos de la organizaci├│n"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Resolución de Contraloría N° 185-2010-CG que aprueba el Manual de procedimientos para la gestión de proyectos en la CGR. Num. 5.1.5."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n de Contralor├¡a N┬░ 185-2010-CG que aprueba el Manual de procedimientos para la gesti├│n de proyectos en la CGR. Num. 5.1.5."
   },
   {
     "id": 207,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Es una herramienta de gestión mediante la cual se localiza y reconoce que existe un peligro y se definen sus características para luego valorar el nivel, grado y gravedad de los riesgos; además, proporciona la información necesaria para que el/la empleador/a se encuentre en condiciones de tomar una decisión apropiada sobre la oportunidad, prioridad y tipo de medidas preventivas que debe adoptar.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Es una herramienta de gesti├│n mediante la cual se localiza y reconoce que existe un peligro y se definen sus caracter├¡sticas para luego valorar el nivel, grado y gravedad de los riesgos; adem├ís, proporciona la informaci├│n necesaria para que el/la empleador/a se encuentre en condiciones de tomar una decisi├│n apropiada sobre la oportunidad, prioridad y tipo de medidas preventivas que debe adoptar.",
     "opciones": {
-      "A": "Examen médico ocupacional",
+      "A": "Examen m├®dico ocupacional",
       "B": "Permiso escrito para trabajos de alto riesgo (PETAR)",
-      "C": "Análisis de trabajo seguro (ATS)",
-      "D": "Identificación de peligros, y la evaluación de riesgos y controles (IPERC)"
+      "C": "An├ílisis de trabajo seguro (ATS)",
+      "D": "Identificaci├│n de peligros, y la evaluaci├│n de riesgos y controles (IPERC)"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 5 del Decreto Supremo N° 011-2019-TR"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 5 del Decreto Supremo N┬░ 011-2019-TR"
   },
   {
     "id": 208,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "¿Cómo se llaman los elementos de uso obligatorio que generalmente conectan a los entrepisos y techos con los muros que, adecuadamente rigidizados en su plano, actúan como elemento de arriostre horizontal?",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "┬┐C├│mo se llaman los elementos de uso obligatorio que generalmente conectan a los entrepisos y techos con los muros que, adecuadamente rigidizados en su plano, act├║an como elemento de arriostre horizontal?",
     "opciones": {
       "A": "Braquete",
       "B": "Capitel",
@@ -2701,64 +2701,64 @@ const BANCO_PREGUNTAS = [
       "D": "Soleras"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA E.080 Adobe, Articulo 3, Definiciones, 3.10 Vigas collar o soleras."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA E.080 Adobe, Articulo 3, Definiciones, 3.10 Vigas collar o soleras."
   },
   {
     "id": 209,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Respecto de la Ampliación Marginal de la Edificación u Obra Civil (AME), marque el enunciado INCORRECTO",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Respecto de la Ampliaci├│n Marginal de la Edificaci├│n u Obra Civil (AME), marque el enunciado INCORRECTO",
     "opciones": {
-      "A": "En tanto que la construcción permite a la UP alcance los estándares de calidad, este escenario se configura como uno que podría incrementar los niveles de calidad del servicio.",
-      "B": "Para la identificación, se debe satisfacer la condición de que la construcción de obras o ambientes adicionales no tiene como objetivo el incremento de la capacidad de la UP.",
-      "C": "De ser el caso, el equipo y mobiliario, que no constituyen activos estratégicos, que sean necesarios en las obras o ambientes adicionales, se deben adquirir con otras inversiones no sujetas al INVIERTE.PE.",
-      "D": "La AME se enfoca en que la UP cuente con todos los activos relacionados a edificaciones u obra civil que sean fundamentales, de tal manera que le permita alcanzar los estándares de calidad en la prestación del servicio."
+      "A": "En tanto que la construcci├│n permite a la UP alcance los est├índares de calidad, este escenario se configura como uno que podr├¡a incrementar los niveles de calidad del servicio.",
+      "B": "Para la identificaci├│n, se debe satisfacer la condici├│n de que la construcci├│n de obras o ambientes adicionales no tiene como objetivo el incremento de la capacidad de la UP.",
+      "C": "De ser el caso, el equipo y mobiliario, que no constituyen activos estrat├®gicos, que sean necesarios en las obras o ambientes adicionales, se deben adquirir con otras inversiones no sujetas al INVIERTE.PE.",
+      "D": "La AME se enfoca en que la UP cuente con todos los activos relacionados a edificaciones u obra civil que sean fundamentales, de tal manera que le permita alcanzar los est├índares de calidad en la prestaci├│n del servicio."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Numeral 2.2.2 A, C y D de Lineamientos para la identificación y registro de las Inversiones de Optimización, de Ampliación Marginal, de Rehabilitación y de Reposición - IOARR. Ministerio de Economía y Finanzas, Dirección General de Programación Multianual de Inversiones - DGPMI. Versión enero 2022"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 2.2.2 A, C y D de Lineamientos para la identificaci├│n y registro de las Inversiones de Optimizaci├│n, de Ampliaci├│n Marginal, de Rehabilitaci├│n y de Reposici├│n - IOARR. Ministerio de Econom├¡a y Finanzas, Direcci├│n General de Programaci├│n Multianual de Inversiones - DGPMI. Versi├│n enero 2022"
   },
   {
     "id": 210,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "De acuerdo con los procesos de la Gestión de proyectos, el proceso de ________ incluye la definición de tareas, la descripción del alcance, los entregables del proyecto, la definición y estimación de los costos de ejecución, el cronograma del proyecto, el ordenamiento secuencial de todas las actividades del proyecto, los enfoques para la gestión de los recursos humanos, adquisiciones, calidad, riesgos, entre otros.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "De acuerdo con los procesos de la Gesti├│n de proyectos, el proceso de ________ incluye la definici├│n de tareas, la descripci├│n del alcance, los entregables del proyecto, la definici├│n y estimaci├│n de los costos de ejecuci├│n, el cronograma del proyecto, el ordenamiento secuencial de todas las actividades del proyecto, los enfoques para la gesti├│n de los recursos humanos, adquisiciones, calidad, riesgos, entre otros.",
     "opciones": {
-      "A": "iniciación.",
-      "B": "planificación.",
-      "C": "ejecución.",
-      "D": "control."
+      "A": "Iniciaci├│n.",
+      "B": "Planificaci├│n.",
+      "C": "Ejecuci├│n.",
+      "D": "Control."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Manual de procedimientos para la gestión de proyectos CGR, Capitulo ll, 2.3 Los procesos de la gestión de proyectos, 2.3.2 Planificación"
+    "fundamento": "Referencia bibliogr├ífica: Manual de procedimientos para la gesti├│n de proyectos CGR, Capitulo ll, 2.3 Los procesos de la gesti├│n de proyectos, 2.3.2 Planificaci├│n"
   },
   {
     "id": 211,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "De acuerdo con el Manual de Procedimientos para la Gestión de Proyectos en la CGR, ¿cuál de los procesos no corresponde a la Gestión de Proyectos?",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "De acuerdo con el Manual de Procedimientos para la Gesti├│n de Proyectos en la CGR, ┬┐cu├íl de los procesos no corresponde a la Gesti├│n de Proyectos?",
     "opciones": {
-      "A": "Proceso de planificación",
+      "A": "Proceso de planificaci├│n",
       "B": "Proceso de control",
-      "C": "Proceso de aprobación",
-      "D": "Proceso de iniciación"
+      "C": "Proceso de aprobaci├│n",
+      "D": "Proceso de iniciaci├│n"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Numeral 2.3. del Manual de Procedimientos para la Gestión de Proyectos en la CGR aprobado con Resolución de Contraloría N° 185-2010-CG, Num 2.2."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 2.3. del Manual de Procedimientos para la Gesti├│n de Proyectos en la CGR aprobado con Resoluci├│n de Contralor├¡a N┬░ 185-2010-CG, Num 2.2."
   },
   {
     "id": 212,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "El ________________ es la salida de un modelo de programación que presenta actividades vinculadas con fechas planificadas, duraciones, hitos y recursos.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "El ________________ es la salida de un modelo de programaci├│n que presenta actividades vinculadas con fechas planificadas, duraciones, hitos y recursos.",
     "opciones": {
-      "A": "informe de visión",
-      "B": "diagrama de red",
-      "C": "cronograma del proyecto",
-      "D": "cronograma de hitos"
+      "A": "Informe de visi├│n",
+      "B": "Diagrama de red",
+      "C": "Cronograma del proyecto",
+      "D": "Cronograma de hitos"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: PMBOK. Séptima edición."
+    "fundamento": "Referencia bibliogr├ífica: PMBOK. S├®ptima edici├│n."
   },
   {
     "id": 213,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "_______________ constituyen un conjunto de procesos cuyos productos tienen como propósito dar una respuesta satisfactoria a las necesidades de control gubernamental que corresponde atender a los órganos del sistema.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "_______________ constituyen un conjunto de procesos cuyos productos tienen como prop├│sito dar una respuesta satisfactoria a las necesidades de control gubernamental que corresponde atender a los ├│rganos del sistema.",
     "opciones": {
       "A": "Los servicios relacionados",
       "B": "Los controles externos",
@@ -2766,116 +2766,116 @@ const BANCO_PREGUNTAS = [
       "D": "Los servicios de control"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Base legal: Numerales 1.15 y 1.16 de las Normas generales de Control Gubernamental, aprobada por R.C. N° 273-2014-CG y modificatoria."
+    "fundamento": "Referencia bibliogr├ífica: Base legal: Numerales 1.15 y 1.16 de las Normas generales de Control Gubernamental, aprobada por R.C. N┬░ 273-2014-CG y modificatoria."
   },
   {
     "id": 214,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "De acuerdo con el reglamento de la Ley Nº 29785, Ley del Derecho a la Consulta Previa a los Pueblos Indígenas u Originarios, es INCORRECTO que",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "De acuerdo con el reglamento de la Ley N┬║ 29785, Ley del Derecho a la Consulta Previa a los Pueblos Ind├¡genas u Originarios, es INCORRECTO que",
     "opciones": {
-      "A": "las consultas deben ser formales, plenas y llevarse a cabo de buena fe.",
-      "B": "deben establecerse mecanismos apropiados, realizándose las consultas de una forma adaptada a las circunstancias y a las particularidades de cada pueblo indígena consultado.",
-      "C": "el derecho a la consulta implica la necesidad de que el pueblo indígena sea informado, escuchado y haga llegar sus propuestas para llegar a un acuerdo acerca de las medidas consultadas.",
-      "D": "el Estado no está obligado a informar al pueblo indígena ni a apoyar la evaluación interna de aquella que participen del proceso de consulta."
+      "A": "Las consultas deben ser formales, plenas y llevarse a cabo de buena fe.",
+      "B": "Deben establecerse mecanismos apropiados, realiz├índose las consultas de una forma adaptada a las circunstancias y a las particularidades de cada pueblo ind├¡gena consultado.",
+      "C": "El derecho a la consulta implica la necesidad de que el pueblo ind├¡gena sea informado, escuchado y haga llegar sus propuestas para llegar a un acuerdo acerca de las medidas consultadas.",
+      "D": "El Estado no est├í obligado a informar al pueblo ind├¡gena ni a apoyar la evaluaci├│n interna de aquella que participen del proceso de consulta."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Decreto Supremo Nº 001-2012-MC. Reglamento de la Ley Nº 29785, Ley del Derecho a la Consulta Previa a los Pueblos Indígenas u Originarios reconocido en el Convenio 169 de la Organización Internacional del Trabajo (OIT)"
+    "fundamento": "Referencia bibliogr├ífica: Decreto Supremo N┬║ 001-2012-MC. Reglamento de la Ley N┬║ 29785, Ley del Derecho a la Consulta Previa a los Pueblos Ind├¡genas u Originarios reconocido en el Convenio 169 de la Organizaci├│n Internacional del Trabajo (OIT)"
   },
   {
     "id": 215,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "La Ley N° 27444, Ley del Procedimiento Administrativo General, se sustenta fundamentalmente en once principios. Señale cuál de los siguientes enunciados corresponde al principio de legalidad.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "La Ley N┬░ 27444, Ley del Procedimiento Administrativo General, se sustenta fundamentalmente en once principios. Se├▒ale cu├íl de los siguientes enunciados corresponde al principio de legalidad.",
     "opciones": {
-      "A": "Las autoridades deben promover de oficio el procedimiento y ordenar la realización o práctica de los actos que resulten convenientes para el esclarecimiento y resolución de las cuestiones necesarias.",
-      "B": "Las autoridades administrativas deben actuar sin ninguna clase de discriminación entre los administrados, otorgándoles tratamiento y tutela igualitarios frente al procedimiento.",
+      "A": "Las autoridades deben promover de oficio el procedimiento y ordenar la realizaci├│n o pr├íctica de los actos que resulten convenientes para el esclarecimiento y resoluci├│n de las cuestiones necesarias.",
+      "B": "Las autoridades administrativas deben actuar sin ninguna clase de discriminaci├│n entre los administrados, otorg├índoles tratamiento y tutela igualitarios frente al procedimiento.",
       "C": "Los sujetos del procedimiento administrativo deben hacer prevalecer el cumplimiento de la finalidad del acto procedimental.",
-      "D": "Las autoridades administrativas deben actuar con respeto a la Constitución, la ley y al derecho, dentro de las facultades que le estén atribuidas y de acuerdo con los fines para los que les fueron conferidas."
+      "D": "Las autoridades administrativas deben actuar con respeto a la Constituci├│n, la ley y al derecho, dentro de las facultades que le est├®n atribuidas y de acuerdo con los fines para los que les fueron conferidas."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley Nº 27444 - Ley del Procedimiento Administrativo General Artículo IV. 1.1 Principios del procedimiento administrativo"
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬║ 27444 - Ley del Procedimiento Administrativo General Art├¡culo IV. 1.1 Principios del procedimiento administrativo"
   },
   {
     "id": 216,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "En septiembre de 2019, el presidente Martín Vizcarra disolvió el Congreso de la República, debido a que este había denegado, por segunda vez, la confianza al premier del Gobierno, del partido Peruanos por el Kambio (PPK). La denegación fáctica de la confianza ?el argumento del Gobierno? se produjo cuando el Congreso",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "En septiembre de 2019, el presidente Mart├¡n Vizcarra disolvi├│ el Congreso de la Rep├║blica, debido a que este hab├¡a denegado, por segunda vez, la confianza al premier del Gobierno, del partido Peruanos por el Kambio (PPK). La denegaci├│n f├íctica de la confianza ÔÇôel argumento del GobiernoÔÇô se produjo cuando el Congreso",
     "opciones": {
-      "A": "decidió nombrar a los miembros del Tribunal Constitucional antes que discutir el proyecto presentado por el premier sobre los requisitos para elegir a los tribunos.",
-      "B": "desconoció las propuestas de reforma política planteadas por el Ejecutivo que incluían la eliminación de la reelección de los congresistas de la República.",
-      "C": "rechazó las acusaciones constitucionales que hiciera el Gobierno en contra del fiscal de la nación, Pedro Chávarry, y el juez supremo, César Hinostroza.",
-      "D": "invitó a la Comisión de Venecia para que resolviera la constitucionalidad del proyecto que presentó el Ejecutivo para el adelanto general de elecciones."
+      "A": "Decidi├│ nombrar a los miembros del Tribunal Constitucional antes que discutir el proyecto presentado por el premier sobre los requisitos para elegir a los tribunos.",
+      "B": "Desconoci├│ las propuestas de reforma pol├¡tica planteadas por el Ejecutivo que inclu├¡an la eliminaci├│n de la reelecci├│n de los congresistas de la Rep├║blica.",
+      "C": "Rechaz├│ las acusaciones constitucionales que hiciera el Gobierno en contra del fiscal de la naci├│n, Pedro Ch├ívarry, y el juez supremo, C├®sar Hinostroza.",
+      "D": "Invit├│ a la Comisi├│n de Venecia para que resolviera la constitucionalidad del proyecto que present├│ el Ejecutivo para el adelanto general de elecciones."
     },
     "correcta": "A",
-    "fundamento": "Solución: La disolución del Congreso, en 2019, fue justificada por el presidente en virtud de denegación fáctica de una cuestión de confianza presentada por el premier Salvador del Solar sobre las reglas de elección de los miembros del Tribunal Constitucional, denegación que fue la segunda de la administración de Peruanos Por el Kambio."
+    "fundamento": "Soluci├│n: La disoluci├│n del Congreso, en 2019, fue justificada por el presidente en virtud de denegaci├│n f├íctica de una cuesti├│n de confianza presentada por el premier Salvador del Solar sobre las reglas de elecci├│n de los miembros del Tribunal Constitucional, denegaci├│n que fue la segunda de la administraci├│n de Peruanos Por el Kambio."
   },
   {
     "id": 217,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Es una función del supervisor, EXCEPTO",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Es una funci├│n del supervisor, EXCEPTO",
     "opciones": {
-      "A": "participar en reuniones de coordinación e integración con el equipo de planeamiento y proponer los ajustes al plan de auditoría inicial de ser necesario.",
-      "B": "participar en el proceso de acreditación de la comisión auditora, en la entidad sujeta al servicio de control.",
-      "C": "aprobar la redacción y sustento de las desviaciones de cumplimiento y las evaluaciones de los comentarios presentados.",
-      "D": "validar los objetivos y procedimientos de auditoría contenidos en el plan de auditoría definitivo para su aprobación."
+      "A": "Participar en reuniones de coordinaci├│n e integraci├│n con el equipo de planeamiento y proponer los ajustes al plan de auditor├¡a inicial de ser necesario.",
+      "B": "Participar en el proceso de acreditaci├│n de la comisi├│n auditora, en la entidad sujeta al servicio de control.",
+      "C": "Aprobar la redacci├│n y sustento de las desviaciones de cumplimiento y las evaluaciones de los comentarios presentados.",
+      "D": "Validar los objetivos y procedimientos de auditor├¡a contenidos en el plan de auditor├¡a definitivo para su aprobaci├│n."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: MAC. Numeral 56."
+    "fundamento": "Referencia bibliogr├ífica: MAC. Numeral 56."
   },
   {
     "id": 218,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "¿Qué es el riesgo inherente?",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "┬┐Qu├® es el riesgo inherente?",
     "opciones": {
       "A": "Es la posibilidad del componente a errores significativos antes de reconocer el efecto de los controles.",
-      "B": "Es la necesidad básica del componente a errores significativos antes de reconocer el efecto de los controles.",
-      "C": "Es la susceptibilidad básica del componente a errores significativos antes de reconocer el efecto de los controles.",
-      "D": "Es la posibilidad básica del componente a errores significativos antes de reconocer el efecto de los controles."
+      "B": "Es la necesidad b├ísica del componente a errores significativos antes de reconocer el efecto de los controles.",
+      "C": "Es la susceptibilidad b├ísica del componente a errores significativos antes de reconocer el efecto de los controles.",
+      "D": "Es la posibilidad b├ísica del componente a errores significativos antes de reconocer el efecto de los controles."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Manual de Auditoría Financiera Gubernamental, Numeral 19.1."
+    "fundamento": "Referencia bibliogr├ífica: Manual de Auditor├¡a Financiera Gubernamental, Numeral 19.1."
   },
   {
     "id": 219,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Señale cuáles son los procedimientos específicos para la gestión de proyectos.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Se├▒ale cu├íles son los procedimientos espec├¡ficos para la gesti├│n de proyectos.",
     "opciones": {
-      "A": "Iniciación del proyecto, planificación del proyecto, ejecución del proyecto, control del proyecto y cierre del proyecto.",
-      "B": "Constitución del proyecto, planeación del proyecto, desempeño del proyecto, control del proyecto y culminación del proyecto.",
-      "C": "Constitución del proyecto, planificación del proyecto, ejecución del proyecto, seguimiento del proyecto y cierre del proyecto.",
-      "D": "Iniciación del proyecto, planeación del proyecto, desempeño del proyecto, seguimiento del proyecto y conclusión del proyecto."
+      "A": "Iniciaci├│n del proyecto, planificaci├│n del proyecto, ejecuci├│n del proyecto, control del proyecto y cierre del proyecto.",
+      "B": "Constituci├│n del proyecto, planeaci├│n del proyecto, desempe├▒o del proyecto, control del proyecto y culminaci├│n del proyecto.",
+      "C": "Constituci├│n del proyecto, planificaci├│n del proyecto, ejecuci├│n del proyecto, seguimiento del proyecto y cierre del proyecto.",
+      "D": "Iniciaci├│n del proyecto, planeaci├│n del proyecto, desempe├▒o del proyecto, seguimiento del proyecto y conclusi├│n del proyecto."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Manual de Procedimientos para la Gestión de Proyectos en la CGR aprobado por Resolución de Contraloría Nº 185-2010-CG, Numeral 5.1."
+    "fundamento": "Referencia bibliogr├ífica: Manual de Procedimientos para la Gesti├│n de Proyectos en la CGR aprobado por Resoluci├│n de Contralor├¡a N┬║ 185-2010-CG, Numeral 5.1."
   },
   {
     "id": 220,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Indique la alternativa que no guarda relación con el siguiente enunciado: «El valor, incluidos los resultados desde la perspectiva del cliente o usuario final, es el indicador definitivo del éxito y la fuerza impulsora de los proyectos»",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Indique la alternativa que no guarda relaci├│n con el siguiente enunciado: ┬½El valor, incluidos los resultados desde la perspectiva del cliente o usuario final, es el indicador definitivo del ├®xito y la fuerza impulsora de los proyectos┬╗",
     "opciones": {
-      "A": "El valor es el indicador definitivo del éxito del proyecto.",
-      "B": "El valor se puede obtener a lo largo del proyecto, al final del mismo o después de que el proyecto se haya completado.",
-      "C": "Los equipos de proyecto evalúan el progreso y se adaptan para maximizar el valor esperado.",
-      "D": "El valor y los beneficio que contribuyen al valor no pueden definirse en términos cuantitativos y/o cualitativos."
+      "A": "El valor es el indicador definitivo del ├®xito del proyecto.",
+      "B": "El valor se puede obtener a lo largo del proyecto, al final del mismo o despu├®s de que el proyecto se haya completado.",
+      "C": "Los equipos de proyecto eval├║an el progreso y se adaptan para maximizar el valor esperado.",
+      "D": "El valor y los beneficio que contribuyen al valor no pueden definirse en t├®rminos cuantitativos y/o cualitativos."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: El Estándar para la Dirección de Proyectos y Guía de los Fundamentos para la Dirección de Proyectos, Guía del PMBOK, séptima edición, ítem 3.4."
+    "fundamento": "Referencia bibliogr├ífica: El Est├índar para la Direcci├│n de Proyectos y Gu├¡a de los Fundamentos para la Direcci├│n de Proyectos, Gu├¡a del PMBOK, s├®ptima edici├│n, ├¡tem 3.4."
   },
   {
     "id": 221,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Evaluar continuamente la exposición al ____________, tanto de oportunidades como de amenazas, con el fin de maximizar los impactos positivos y minimizar los impactos negativos para el proyecto y sus resultados.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Evaluar continuamente la exposici├│n al ____________, tanto de oportunidades como de amenazas, con el fin de maximizar los impactos positivos y minimizar los impactos negativos para el proyecto y sus resultados.",
     "opciones": {
-      "A": "mercado",
-      "B": "liderazgo",
-      "C": "riesgo",
-      "D": "medio ambiente"
+      "A": "Mercado",
+      "B": "Liderazgo",
+      "C": "Riesgo",
+      "D": "Medio ambiente"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: El Estándar para la Dirección de Proyectos y Guía de los Fundamentos para la Dirección de Proyectos, Guía del PMBOK, séptima edición, ítem 3.10."
+    "fundamento": "Referencia bibliogr├ífica: El Est├índar para la Direcci├│n de Proyectos y Gu├¡a de los Fundamentos para la Direcci├│n de Proyectos, Gu├¡a del PMBOK, s├®ptima edici├│n, ├¡tem 3.10."
   },
   {
     "id": 222,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Asigne el valor de verdad (V o F) en base al siguiente enunciado: «Los miembros del equipo de proyecto aplican el pensamiento crítico al ?» I. Investigar y recopilar información imparcial y equilibrada. II. Reconocer, analizar y resolver problemas. III. Identificar sesgos, supuestos no declarados y valores. IV. Analizar datos y evidencia para evaluar argumentos y perspectivas.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Asigne el valor de verdad (V o F) en base al siguiente enunciado: ┬½Los miembros del equipo de proyecto aplican el pensamiento cr├¡tico al ÔÇª┬╗ I. Investigar y recopilar informaci├│n imparcial y equilibrada. II. Reconocer, analizar y resolver problemas. III. Identificar sesgos, supuestos no declarados y valores. IV. Analizar datos y evidencia para evaluar argumentos y perspectivas.",
     "opciones": {
       "A": "IV, IIV, IIIF, IVF",
       "B": "IV, IIF, IIIV, IVF",
@@ -2883,129 +2883,129 @@ const BANCO_PREGUNTAS = [
       "D": "IV, IIV, IIIV, IVF"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: El Estándar para la Dirección de Proyectos y Guía de los Fundamentos para la Dirección de Proyectos, Guía del PMBOK, séptima edición, ítem 2.2.4.2."
+    "fundamento": "Referencia bibliogr├ífica: El Est├índar para la Direcci├│n de Proyectos y Gu├¡a de los Fundamentos para la Direcci├│n de Proyectos, Gu├¡a del PMBOK, s├®ptima edici├│n, ├¡tem 2.2.4.2."
   },
   {
     "id": 223,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "En relación con las cadencias de entrega que puede tener un proyecto, seleccione la alternativa INCORRECTA.",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "En relaci├│n con las cadencias de entrega que puede tener un proyecto, seleccione la alternativa INCORRECTA.",
     "opciones": {
       "A": "Una entrega",
       "B": "Tres entregas",
-      "C": "Múltiples entregas",
-      "D": "Entregas periódicas"
+      "C": "M├║ltiples entregas",
+      "D": "Entregas peri├│dicas"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: El Estándar para la Dirección de Proyectos y Guía de los Fundamentos para la Dirección de Proyectos, Guía del PMBOK, séptima edición, ítem 2.3.2."
+    "fundamento": "Referencia bibliogr├ífica: El Est├índar para la Direcci├│n de Proyectos y Gu├¡a de los Fundamentos para la Direcci├│n de Proyectos, Gu├¡a del PMBOK, s├®ptima edici├│n, ├¡tem 2.3.2."
   },
   {
     "id": 224,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
     "pregunta": "Un __________________ es el medio utilizado para crear y desarrollar el producto, servicio o resultado durante el ciclo de vida del proyecto.",
     "opciones": {
-      "A": "crecimiento",
-      "B": "ciclo de vida",
-      "C": "enfoque de crecimiento",
-      "D": "enfoque de desarrollo"
+      "A": "Crecimiento",
+      "B": "Ciclo de vida",
+      "C": "Enfoque de crecimiento",
+      "D": "Enfoque de desarrollo"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: El Estándar para la Dirección de Proyectos y Guía de los Fundamentos para la Dirección de Proyectos, Guía del PMBOK, séptima edición, ítem 2.3.3."
+    "fundamento": "Referencia bibliogr├ífica: El Est├índar para la Direcci├│n de Proyectos y Gu├¡a de los Fundamentos para la Direcci├│n de Proyectos, Gu├¡a del PMBOK, s├®ptima edici├│n, ├¡tem 2.3.3."
   },
   {
     "id": 225,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "Los estudios de factibilidad técnico económica son de carácter",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "Los estudios de factibilidad t├®cnico econ├│mica son de car├ícter",
     "opciones": {
-      "A": "facultativo.",
-      "B": "delegable.",
-      "C": "innecesario.",
-      "D": "obligatorio."
+      "A": "Facultativo.",
+      "B": "Delegable.",
+      "C": "Innecesario.",
+      "D": "Obligatorio."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, Decreto Supremo Nº 011-2006-Vivienda, II.3. Obras de Saneamiento, Norma OS.010 Captación y conducción de agua para consumo humano, Numeral 4.4.1."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, Decreto Supremo N┬║ 011-2006-Vivienda, II.3. Obras de Saneamiento, Norma OS.010 Captaci├│n y conducci├│n de agua para consumo humano, Numeral 4.4.1."
   },
   {
     "id": 226,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
     "pregunta": "Indique el enunciado que define el anteproyecto.",
     "opciones": {
-      "A": "Es una propuesta a nivel constructivo que tiene por objeto la armonización del entorno humano, desde la concepción de los objetos de uso hasta el urbanismo.",
-      "B": "Constituye el nivel de desarrollo preliminar de una propuesta arquitectónica, y se elabora como parte del proceso de diseño con el fin de obtener la aprobación previa del propietario.",
-      "C": "Consigna la evaluación de la viabilidad ambiental de un proyecto durante su etapa de habilitación urbana, edificación y funcionamiento, de ser el caso.",
-      "D": "Es un documento que contiene en forma explícita las características, requisitos del proyecto, así como las especificaciones técnicas necesarias para la ejecución de la obra. Está constituido por planos por especialidades, especificaciones técnicas y memorias descriptivas y, estudios técnicos específicos, cuando se requieran por las características de la obra."
+      "A": "Es una propuesta a nivel constructivo que tiene por objeto la armonizaci├│n del entorno humano, desde la concepci├│n de los objetos de uso hasta el urbanismo.",
+      "B": "Constituye el nivel de desarrollo preliminar de una propuesta arquitect├│nica, y se elabora como parte del proceso de dise├▒o con el fin de obtener la aprobaci├│n previa del propietario.",
+      "C": "Consigna la evaluaci├│n de la viabilidad ambiental de un proyecto durante su etapa de habilitaci├│n urbana, edificaci├│n y funcionamiento, de ser el caso.",
+      "D": "Es un documento que contiene en forma expl├¡cita las caracter├¡sticas, requisitos del proyecto, as├¡ como las especificaciones t├®cnicas necesarias para la ejecuci├│n de la obra. Est├í constituido por planos por especialidades, especificaciones t├®cnicas y memorias descriptivas y, estudios t├®cnicos espec├¡ficos, cuando se requieran por las caracter├¡sticas de la obra."
     },
     "correcta": "B",
-    "fundamento": "Referencia Bibliográfica: Resolución Ministerial N°029-2021-VIVIENDA, Norma Técnica G.040, Definiciones del Reglamento Nacional de Edificaciones."
+    "fundamento": "Referencia Bibliogr├ífica: Resoluci├│n Ministerial N┬░029-2021-VIVIENDA, Norma T├®cnica G.040, Definiciones del Reglamento Nacional de Edificaciones."
   },
   {
     "id": 227,
-    "tema": "Tema 5: Gestión de Proyectos, Megaproyectos y Contratos Estandarizados",
-    "pregunta": "La Contraloría General de la República goza de autonomía",
+    "tema": "Tema 5: Gesti├│n de Proyectos, Megaproyectos y Contratos Estandarizados",
+    "pregunta": "La Contralor├¡a General de la Rep├║blica goza de autonom├¡a",
     "opciones": {
-      "A": "económica, administrativa y financiera para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobación por el Congreso de la República.",
-      "B": "administrativa para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobación por el Congreso de la República.",
-      "C": "financiera para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobación por el Congreso de la República.",
-      "D": "económica para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobación por el Congreso de la República."
+      "A": "Econ├│mica, administrativa y financiera para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobaci├│n por el Congreso de la Rep├║blica.",
+      "B": "Administrativa para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobaci├│n por el Congreso de la Rep├║blica.",
+      "C": "Financiera para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobaci├│n por el Congreso de la Rep├║blica.",
+      "D": "Econ├│mica para el cumplimiento eficaz de sus funciones, en cuya virtud elabora, aprueba y ejecuta su presupuesto anual en el monto que corresponda a sus necesidades institucionales para su aprobaci├│n por el Congreso de la Rep├║blica."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República. Ley N° 27785. Artículo 34. Autonomía económica"
+    "fundamento": "Referencia bibliogr├ífica: Ley Org├ínica del Sistema Nacional de Control y de la Contralor├¡a General de la Rep├║blica. Ley N┬░ 27785. Art├¡culo 34. Autonom├¡a econ├│mica"
   },
   {
     "id": 228,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Respecto de las intervenciones en edificaciones declaradas, como monumentos del patrimonio moderno de la época contemporánea, se consideran las siguientes, EXCEPTO",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Respecto de las intervenciones en edificaciones declaradas, como monumentos del patrimonio moderno de la ├®poca contempor├ínea, se consideran las siguientes, EXCEPTO",
     "opciones": {
-      "A": "las intervenciones y obras en edificaciones declaradas, como monumento del patrimonio moderno de la época contemporánea, deben garantizar la conservación, mantenimiento, puesta en valor, remodelación, ampliación y/o acondicionamiento, manteniendo los valores arquitectónicos, históricos, artísticos, entre otros, que ameritaron su reconocimiento como tal.",
-      "B": "se permiten las obras de remodelación y/o acondicionamiento para el cambio de usos y funciones en los inmuebles del patrimonio moderno. Para el caso de acondicionamiento, los materiales a utilizar sean de carácter temporal y reversibles; y, el uso propuesto conforme y/o permitido en concordancia con el Plan de Desarrollo Urbano local.",
-      "C": "para el acondicionamiento de instalaciones eléctricas, sanitarias y electromecánicas, se ejecutan de acuerdo con las disposiciones establecidas en el Reglamento Nacional de Edificaciones, según su especialidad.",
-      "D": "los equipos e instalaciones de energía, gas, cableados u otros, que se pueden instalar en los techos de las edificaciones y estar visiblemente expuestos, de modo que sean percibidos desde el exterior del inmueble para su monitoreo."
+      "A": "Las intervenciones y obras en edificaciones declaradas, como monumento del patrimonio moderno de la ├®poca contempor├ínea, deben garantizar la conservaci├│n, mantenimiento, puesta en valor, remodelaci├│n, ampliaci├│n y/o acondicionamiento, manteniendo los valores arquitect├│nicos, hist├│ricos, art├¡sticos, entre otros, que ameritaron su reconocimiento como tal.",
+      "B": "Se permiten las obras de remodelaci├│n y/o acondicionamiento para el cambio de usos y funciones en los inmuebles del patrimonio moderno. Para el caso de acondicionamiento, los materiales a utilizar sean de car├ícter temporal y reversibles; y, el uso propuesto conforme y/o permitido en concordancia con el Plan de Desarrollo Urbano local.",
+      "C": "Para el acondicionamiento de instalaciones el├®ctricas, sanitarias y electromec├ínicas, se ejecutan de acuerdo con las disposiciones establecidas en el Reglamento Nacional de Edificaciones, seg├║n su especialidad.",
+      "D": "Los equipos e instalaciones de energ├¡a, gas, cableados u otros, que se pueden instalar en los techos de las edificaciones y estar visiblemente expuestos, de modo que sean percibidos desde el exterior del inmueble para su monitoreo."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: artículo 10 de la Norma Técnica A.140, Bienes Culturales Inmuebles del Reglamento Nacional de Edificaciones, aprobada por Resolución Ministerial No 185-2021-VIVIENDA."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 10 de la Norma T├®cnica A.140, Bienes Culturales Inmuebles del Reglamento Nacional de Edificaciones, aprobada por Resoluci├│n Ministerial No 185-2021-VIVIENDA."
   },
   {
     "id": 229,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "El incumplimiento de la entrega de la documentación e información requerida, en el marco del servicio de control en la forma solicitada, si no es puesta en conocimiento de la comisión de contraloría",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "El incumplimiento de la entrega de la documentaci├│n e informaci├│n requerida, en el marco del servicio de control en la forma solicitada, si no es puesta en conocimiento de la comisi├│n de contralor├¡a",
     "opciones": {
-      "A": "esta elabora el memorándum de control Interno y es puesta en conocimiento de la comisión de la CGR.",
-      "B": "es una infracción al ejercicio de control sujeta a la potestad sancionadora de la CGR.",
-      "C": "es una infracción por la que se debe adoptar acciones inmediatas.",
-      "D": "es una justificación para dar por culminado el servicio de control."
+      "A": "Esta elabora el memor├índum de control Interno y es puesta en conocimiento de la comisi├│n de la CGR.",
+      "B": "Es una infracci├│n al ejercicio de control sujeta a la potestad sancionadora de la CGR.",
+      "C": "Es una infracci├│n por la que se debe adoptar acciones inmediatas.",
+      "D": "Es una justificaci├│n para dar por culminado el servicio de control."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva No 013-2022-CG/NORM. Servicio de Control Simultáneo. Aprobada por Resolución No 218-2022- CG de fecha 30/05/2022."
+    "fundamento": "Referencia bibliogr├ífica: Directiva No 013-2022-CG/NORM. Servicio de Control Simult├íneo. Aprobada por Resoluci├│n No 218-2022- CG de fecha 30/05/2022."
   },
   {
     "id": 230,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "A qué alternativa corresponde la siguiente definición: «Conjunto de documentos que comprende: memoria descriptiva, especificaciones técnicas, planos de ejecución de obra, metrados, presupuesto de obra, fecha de determinación del presupuesto de obra, análisis de precios, calendario de avance de obra valorizado, fórmulas polinómicas y, si el caso lo requiere, estudio de suelos, estudio geológico, de impacto ambiental u otros complementarios».",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "A qu├® alternativa corresponde la siguiente definici├│n: ┬½Conjunto de documentos que comprende: memoria descriptiva, especificaciones t├®cnicas, planos de ejecuci├│n de obra, metrados, presupuesto de obra, fecha de determinaci├│n del presupuesto de obra, an├ílisis de precios, calendario de avance de obra valorizado, f├│rmulas polin├│micas y, si el caso lo requiere, estudio de suelos, estudio geol├│gico, de impacto ambiental u otros complementarios┬╗.",
     "opciones": {
       "A": "Obra de mantenimiento",
-      "B": "Expediente técnico de obra",
-      "C": "Proyecto de inversión pública (PIP)",
+      "B": "Expediente t├®cnico de obra",
+      "C": "Proyecto de inversi├│n p├║blica (PIP)",
       "D": "Estudio de factibilidad"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Anexo N° 1 Definiciones, del Reglamento de la Ley 30225 30225, Ley de Contrataciones del Estado."
+    "fundamento": "Referencia bibliogr├ífica: Anexo N┬░ 1 Definiciones, del Reglamento de la Ley 30225 30225, Ley de Contrataciones del Estado."
   },
   {
     "id": 231,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En los edificios de oficinas que requieren inspección técnica de seguridad en edificaciones, ¿Cuándo NO se exige usar sistemas de agua contraincendios?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En los edificios de oficinas que requieren inspecci├│n t├®cnica de seguridad en edificaciones, ┬┐Cu├índo NO se exige usar sistemas de agua contraincendios?",
     "opciones": {
-      "A": "Hasta el quinto piso cuando el área de planta techada por piso sea igual o menor de 560 m2",
-      "B": "Hasta el cuarto piso cuando el área de planta techada por piso sea igual o menor de 560 m2",
-      "C": "Hasta el cuarto piso cuando el área de planta techada por piso sea igual o menor de 650 m2",
-      "D": "Cualquier número de pisos con área techada mayor de 560 m2"
+      "A": "Hasta el quinto piso cuando el ├írea de planta techada por piso sea igual o menor de 560 m2",
+      "B": "Hasta el cuarto piso cuando el ├írea de planta techada por piso sea igual o menor de 560 m2",
+      "C": "Hasta el cuarto piso cuando el ├írea de planta techada por piso sea igual o menor de 650 m2",
+      "D": "Cualquier n├║mero de pisos con ├írea techada mayor de 560 m2"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: literal f) del numeral 1.1.2. del ?Manual de Ejecución de Inspección Técnica de Seguridad en Edificaciones? aprobado con Resolución Jefatural N° 016-2018-CENEPRED/J del 22 de enero de 2018."
+    "fundamento": "Referencia bibliogr├ífica: literal f) del numeral 1.1.2. del ÔÇ£Manual de Ejecuci├│n de Inspecci├│n T├®cnica de Seguridad en EdificacionesÔÇØ aprobado con Resoluci├│n Jefatural N┬░ 016-2018-CENEPRED/J del 22 de enero de 2018."
   },
   {
     "id": 232,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "¿Cuál es la norma que regula habilitaciones industriales?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬┐Cu├íl es la norma que regula habilitaciones industriales?",
     "opciones": {
       "A": "Norma TH.020",
       "B": "Norma TH.010",
@@ -3013,12 +3013,12 @@ const BANCO_PREGUNTAS = [
       "D": "Norma TH.030"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones"
   },
   {
     "id": 233,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "¿Cuál es el porcentaje máximo de contenido de humedad que puede tener la madera aserrada para ser instalada?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬┐Cu├íl es el porcentaje m├íximo de contenido de humedad que puede tener la madera aserrada para ser instalada?",
     "opciones": {
       "A": "25 %",
       "B": "20 %",
@@ -3026,12 +3026,12 @@ const BANCO_PREGUNTAS = [
       "D": "12 %"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA E.010 Madera, Capitulo ll, artículo 2: La madera, 2.1 Consideraciones, 2.1.2"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA E.010 Madera, Capitulo ll, art├¡culo 2: La madera, 2.1 Consideraciones, 2.1.2"
   },
   {
     "id": 234,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "El caudal de contribución al alcantarillado debe ser calculado con un coeficiente de retorno (C) del ________ del caudal de agua potable consumida.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "El caudal de contribuci├│n al alcantarillado debe ser calculado con un coeficiente de retorno (C) del ________ del caudal de agua potable consumida.",
     "opciones": {
       "A": "60 %",
       "B": "75 %",
@@ -3039,25 +3039,25 @@ const BANCO_PREGUNTAS = [
       "D": "90 %"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA OS.070 Redes de agua residuales, 4 Disposiciones específicas para diseños, 4.4 caudal de contribución al alcantarillado."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA OS.070 Redes de agua residuales, 4 Disposiciones espec├¡ficas para dise├▒os, 4.4 caudal de contribuci├│n al alcantarillado."
   },
   {
     "id": 235,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Las cámaras y/o cajas de inspección se ubican en los siguientes lugares, EXCEPTO",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Las c├ímaras y/o cajas de inspecci├│n se ubican en los siguientes lugares, EXCEPTO",
     "opciones": {
-      "A": "en el cambio de dirección del ramal colector de aguas residuales.",
-      "B": "en zonas de pendiente suave.",
-      "C": "al inicio de los tramos de arranque del ramal colector de aguas residuales.",
-      "D": "en lugares donde se requieren por razones de inspección y limpieza."
+      "A": "En el cambio de direcci├│n del ramal colector de aguas residuales.",
+      "B": "En zonas de pendiente suave.",
+      "C": "Al inicio de los tramos de arranque del ramal colector de aguas residuales.",
+      "D": "En lugares donde se requieren por razones de inspecci├│n y limpieza."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA OS.070 Redes de agua residuales, 4 Disposiciones específicas para diseños, 4.8 Cámaras de inspección. Solución: En zonas de pendiente suave la conexión entre el lote y el ramal colector podrá ser mediante cachimba, tee sanitaria o yee en reemplazo de la caja y su registro correspondiente."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA OS.070 Redes de agua residuales, 4 Disposiciones espec├¡ficas para dise├▒os, 4.8 C├ímaras de inspecci├│n. Soluci├│n: En zonas de pendiente suave la conexi├│n entre el lote y el ramal colector podr├í ser mediante cachimba, tee sanitaria o yee en reemplazo de la caja y su registro correspondiente."
   },
   {
     "id": 236,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Para la eliminación de partículas por medios físicos en el tratamiento de agua para consumo humano, señale cuál NO es una unidad de tratamiento físico.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Para la eliminaci├│n de part├¡culas por medios f├¡sicos en el tratamiento de agua para consumo humano, se├▒ale cu├íl NO es una unidad de tratamiento f├¡sico.",
     "opciones": {
       "A": "Prefiltros de grava",
       "B": "Desarenadores",
@@ -3065,25 +3065,25 @@ const BANCO_PREGUNTAS = [
       "D": "Decantadores"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA OS.020 Plantas de tratamiento de agua para consumo humano, 4.3 Determinación del grado de tratamiento, 4.3.7 Eliminación de partículas por medios físicos."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA OS.020 Plantas de tratamiento de agua para consumo humano, 4.3 Determinaci├│n del grado de tratamiento, 4.3.7 Eliminaci├│n de part├¡culas por medios f├¡sicos."
   },
   {
     "id": 237,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Con relación a la clasificación de campo en la cartografía, ¿cuáles NO son accidentes culturales misceláneos?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Con relaci├│n a la clasificaci├│n de campo en la cartograf├¡a, ┬┐cu├íles NO son accidentes culturales miscel├íneos?",
     "opciones": {
-      "A": "Túneles y tuberías",
-      "B": "Líneas de energía, telefónicas y antenas",
-      "C": "Áreas recreativas, muros y cercos",
+      "A": "T├║neles y tuber├¡as",
+      "B": "L├¡neas de energ├¡a, telef├│nicas y antenas",
+      "C": "├üreas recreativas, muros y cercos",
       "D": "Aeropuertos, campos de aterrizaje y helipuertos"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: numeral 7.1.3 de la Norma Técnica Especificaciones Técnicas Para La Producción De Cartografía Básica Escala 1:1 000"
+    "fundamento": "Referencia bibliogr├ífica: numeral 7.1.3 de la Norma T├®cnica Especificaciones T├®cnicas Para La Producci├│n De Cartograf├¡a B├ísica Escala 1:1 000"
   },
   {
     "id": 238,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "¿Cuál es el porcentaje máximo de adición de otros productos en el cemento Portland que NO excedan el peso total?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬┐Cu├íl es el porcentaje m├íximo de adici├│n de otros productos en el cemento Portland que NO excedan el peso total?",
     "opciones": {
       "A": "1 %",
       "B": "5 %",
@@ -3091,51 +3091,51 @@ const BANCO_PREGUNTAS = [
       "D": "3 %"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones, Norma E.060 Concreto Armado, Artículo 2, Definiciones, Cemento Portland."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento nacional de edificaciones, Norma E.060 Concreto Armado, Art├¡culo 2, Definiciones, Cemento Portland."
   },
   {
     "id": 239,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "Una de las siguientes alternativas NO corresponde a los componentes de la acometida:",
     "opciones": {
       "A": "El medidor",
-      "B": "Tubo de conexión",
+      "B": "Tubo de conexi├│n",
       "C": "Sistema de venteo",
-      "D": "Equipos de regulación"
+      "D": "Equipos de regulaci├│n"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones, Norma EM.040 Instalaciones de gas, Capítulo 3, 3.1.3. Acometida."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento nacional de edificaciones, Norma EM.040 Instalaciones de gas, Cap├¡tulo 3, 3.1.3. Acometida."
   },
   {
     "id": 240,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En el caso de diseño de estructuras de concreto armado, ¿cuál NO es uno de los requisitos mínimos para la elaboración de planos de un proyecto estructural?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En el caso de dise├▒o de estructuras de concreto armado, ┬┐cu├íl NO es uno de los requisitos m├¡nimos para la elaboraci├│n de planos de un proyecto estructural?",
     "opciones": {
-      "A": "Relación de las normas empleadas en el diseño",
+      "A": "Relaci├│n de las normas empleadas en el dise├▒o",
       "B": "Resistencia especificada o tipo de acero del refuerzo",
-      "C": "Tamaño, localización y refuerzo de todos los elementos estructurales",
-      "D": "Características y resistencia del revestimiento"
+      "C": "Tama├▒o, localizaci├│n y refuerzo de todos los elementos estructurales",
+      "D": "Caracter├¡sticas y resistencia del revestimiento"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Norma E.060 del Reglamento nacional de edificaciones."
+    "fundamento": "Referencia bibliogr├ífica: Norma E.060 del Reglamento nacional de edificaciones."
   },
   {
     "id": 241,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "____________ es una fuerza de arrastre hacia abajo ejercida sobre el pilote por el suelo que lo rodea.",
     "opciones": {
-      "A": "La fricción negativa",
+      "A": "La fricci├│n negativa",
       "B": "La carga portante",
       "C": "La fuerza de arrastre",
-      "D": "La presión de confinamiento"
+      "D": "La presi├│n de confinamiento"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Norma E.050 del Reglamento nacional de edificaciones. Suelos y cimentaciones, Capítulo 5, Cimentaciones profundas, artículo 26, Cimentación por pilotes, 26.4 Capacidad de carga del grupo de pilotes, Fricción negativa."
+    "fundamento": "Referencia bibliogr├ífica: Norma E.050 del Reglamento nacional de edificaciones. Suelos y cimentaciones, Cap├¡tulo 5, Cimentaciones profundas, art├¡culo 26, Cimentaci├│n por pilotes, 26.4 Capacidad de carga del grupo de pilotes, Fricci├│n negativa."
   },
   {
     "id": 242,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "¿Cuál es la norma que regula la seguridad durante la construcción?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬┐Cu├íl es la norma que regula la seguridad durante la construcci├│n?",
     "opciones": {
       "A": "G.040",
       "B": "G.060",
@@ -3143,129 +3143,129 @@ const BANCO_PREGUNTAS = [
       "D": "G.070"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento nacional de edificaciones"
   },
   {
     "id": 243,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En redes de aguas residuales, constituye una diferencia de nivel entre la superficie de terreno y la generatriz ___________ de la tubería.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En redes de aguas residuales, constituye una diferencia de nivel entre la superficie de terreno y la generatriz ___________ de la tuber├¡a.",
     "opciones": {
-      "A": "superior interna",
-      "B": "inferior interna",
-      "C": "inferior externa",
-      "D": "superior externa"
+      "A": "Superior interna",
+      "B": "Inferior interna",
+      "C": "Inferior externa",
+      "D": "Superior externa"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones. Norma OS.070. Redes de aguas residuales. 5.1.5 Definiciones, profundidad"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento nacional de edificaciones. Norma OS.070. Redes de aguas residuales. 5.1.5 Definiciones, profundidad"
   },
   {
     "id": 244,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En plantas de tratamiento de aguas residuales, la cloración se define como la aplicación de cloro o compuestos de este al agua residual para su desinfección y, en algunos casos, para ___________ o control de olores.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En plantas de tratamiento de aguas residuales, la cloraci├│n se define como la aplicaci├│n de cloro o compuestos de este al agua residual para su desinfecci├│n y, en algunos casos, para ___________ o control de olores.",
     "opciones": {
-      "A": "aeración",
-      "B": "coagulación",
-      "C": "clarificación",
-      "D": "oxidación química"
+      "A": "Aeraci├│n",
+      "B": "Coagulaci├│n",
+      "C": "Clarificaci├│n",
+      "D": "Oxidaci├│n qu├¡mica"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones. Norma OS.090. Redes de Aguas Residuales. 3. Definiciones, Cloración."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento nacional de edificaciones. Norma OS.090. Redes de Aguas Residuales. 3. Definiciones, Cloraci├│n."
   },
   {
     "id": 245,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Las estructuras y los elementos estructurales deberán diseñarse para obtener en todas sus secciones ____________ que sean, por lo menos, iguales a las __________ calculadas para las cargas y fuerzas amplificadas en las combinaciones que se estipulan en esta norma.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Las estructuras y los elementos estructurales deber├ín dise├▒arse para obtener en todas sus secciones ____________ que sean, por lo menos, iguales a las __________ calculadas para las cargas y fuerzas amplificadas en las combinaciones que se estipulan en esta norma.",
     "opciones": {
-      "A": "resistencias de diseño - resistencias requeridas",
-      "B": "resistencias requeridas - resistencias de diseño",
-      "C": "resistencias de diseño - resistencias estimadas",
-      "D": "resistencias estimadas - resistencias de diseño"
+      "A": "Resistencias de dise├▒o - resistencias requeridas",
+      "B": "Resistencias requeridas - resistencias de dise├▒o",
+      "C": "Resistencias de dise├▒o - resistencias estimadas",
+      "D": "Resistencias estimadas - resistencias de dise├▒o"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Norma E.060, Concreto armado."
+    "fundamento": "Referencia bibliogr├ífica: Norma E.060, Concreto armado."
   },
   {
     "id": 246,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "¿Qué son las coordenadas geográficas?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬┐Qu├® son las coordenadas geogr├íficas?",
     "opciones": {
-      "A": "Son los valores numéricos norte y este que permiten representar la posición horizontal de un punto en una zona de la proyección.",
-      "B": "Son los valores de latitud y de longitud que indican la posición horizontal de un punto sobre la superficie de la tierra en un mapa.",
-      "C": "Es un sistema de líneas rectas verticales y horizontales espaciadas uniformemente que se intersecan en ángulos rectos.",
-      "D": "Es una medida de dispersión alrededor del promedio probable de una cantidad evaluada normalmente."
+      "A": "Son los valores num├®ricos norte y este que permiten representar la posici├│n horizontal de un punto en una zona de la proyecci├│n.",
+      "B": "Son los valores de latitud y de longitud que indican la posici├│n horizontal de un punto sobre la superficie de la tierra en un mapa.",
+      "C": "Es un sistema de l├¡neas rectas verticales y horizontales espaciadas uniformemente que se intersecan en ├íngulos rectos.",
+      "D": "Es una medida de dispersi├│n alrededor del promedio probable de una cantidad evaluada normalmente."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Numeral 1.3 de la Norma técnica. Especificaciones técnicas para la producción de cartografía básica, escala 1:1000"
+    "fundamento": "Referencia bibliogr├ífica: Numeral 1.3 de la Norma t├®cnica. Especificaciones t├®cnicas para la producci├│n de cartograf├¡a b├ísica, escala 1:1000"
   },
   {
     "id": 247,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Es una herramienta de gestión de seguridad y salud en el trabajo que sirve para identificar peligros y evaluar los riesgos que puedan generar lesiones o daño en trabajadores durante la ejecución de cada una de sus actividades de construcción, y para determinar los controles.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Es una herramienta de gesti├│n de seguridad y salud en el trabajo que sirve para identificar peligros y evaluar los riesgos que puedan generar lesiones o da├▒o en trabajadores durante la ejecuci├│n de cada una de sus actividades de construcci├│n, y para determinar los controles.",
     "opciones": {
-      "A": "Análisis de trabajo seguro (ATS)",
-      "B": "Examen médico ocupacional",
+      "A": "An├ílisis de trabajo seguro (ATS)",
+      "B": "Examen m├®dico ocupacional",
       "C": "Permiso escrito para trabajos de alto riesgo (PETAR)",
-      "D": "Identificación de peligros y la evaluación de riesgos y controles (IPERC)"
+      "D": "Identificaci├│n de peligros y la evaluaci├│n de riesgos y controles (IPERC)"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 5 del Decreto Supremo N° 011-2019-TR."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 5 del Decreto Supremo N┬░ 011-2019-TR."
   },
   {
     "id": 248,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En las charlas de inducción brindadas por el empleador, ¿qué tema NO se aborda?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En las charlas de inducci├│n brindadas por el empleador, ┬┐qu├® tema NO se aborda?",
     "opciones": {
-      "A": "Código de colores y señalización",
+      "A": "C├│digo de colores y se├▒alizaci├│n",
       "B": "Sistema de bloqueo, rotulado o etiquetado",
       "C": "Control de sustancias peligrosas",
       "D": "Reglamento interno de seguridad"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 52 del Decreto Supremo N° 011-2019-TR."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 52 del Decreto Supremo N┬░ 011-2019-TR."
   },
   {
     "id": 249,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "El objetivo del tratamiento en una Planta de Tratamiento de Agua Potable (PTAP), es la remoción de los contaminantes fisicoquímicos y microbiológicos del agua de bebida hasta los límites establecidos en",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "El objetivo del tratamiento en una Planta de Tratamiento de Agua Potable (PTAP), es la remoci├│n de los contaminantes fisicoqu├¡micos y microbiol├│gicos del agua de bebida hasta los l├¡mites establecidos en",
     "opciones": {
-      "A": "las normas nacionales de calidad de agua.",
-      "B": "los límites máximos permisibles.",
-      "C": "los estándares de calidad ambiental.",
-      "D": "los límites mínimos permisibles."
+      "A": "Las normas nacionales de calidad de agua.",
+      "B": "Los l├¡mites m├íximos permisibles.",
+      "C": "Los est├índares de calidad ambiental.",
+      "D": "Los l├¡mites m├¡nimos permisibles."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones. Norma OS.020. Planta de tratamiento de agua para consumo humano. 4. Disposiciones Generales 4.1 Objetivo del tratamiento."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones. Norma OS.020. Planta de tratamiento de agua para consumo humano. 4. Disposiciones Generales 4.1 Objetivo del tratamiento."
   },
   {
     "id": 250,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "Los componentes de la acometida son los siguientes, EXCEPTO",
     "opciones": {
-      "A": "el medidor.",
-      "B": "el tubo de conexión.",
-      "C": "el sistema de venteo.",
-      "D": "los equipos de regulación"
+      "A": "El medidor.",
+      "B": "El tubo de conexi├│n.",
+      "C": "El sistema de venteo.",
+      "D": "Los equipos de regulaci├│n"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA EM.040 Instalaciones de gas, Capítulo 3, 3.1.3 Acometida"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, NORMA EM.040 Instalaciones de gas, Cap├¡tulo 3, 3.1.3 Acometida"
   },
   {
     "id": 251,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En el caso de diseño de estructuras de concreto armado, los requisitos mínimos para la elaboración de planos de un proyecto estructural son los siguientes, EXCEPTO",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En el caso de dise├▒o de estructuras de concreto armado, los requisitos m├¡nimos para la elaboraci├│n de planos de un proyecto estructural son los siguientes, EXCEPTO",
     "opciones": {
-      "A": "la resistencia especificada o tipo de acero del refuerzo.",
-      "B": "la relación de las normas empleadas en el diseño.",
-      "C": "las características y resistencia del revestimiento.",
-      "D": "el tamaño, localización y refuerzo de todos los elementos estructurales."
+      "A": "La resistencia especificada o tipo de acero del refuerzo.",
+      "B": "La relaci├│n de las normas empleadas en el dise├▒o.",
+      "C": "Las caracter├¡sticas y resistencia del revestimiento.",
+      "D": "El tama├▒o, localizaci├│n y refuerzo de todos los elementos estructurales."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Norma E.060 del Reglamento Nacional de Edificaciones."
+    "fundamento": "Referencia bibliogr├ífica: Norma E.060 del Reglamento Nacional de Edificaciones."
   },
   {
     "id": 252,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "¿Cuál es la norma que regula seguridad durante la construcción?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬┐Cu├íl es la norma que regula seguridad durante la construcci├│n?",
     "opciones": {
       "A": "G.040",
       "B": "G.050",
@@ -3273,129 +3273,129 @@ const BANCO_PREGUNTAS = [
       "D": "G.070"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones"
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones"
   },
   {
     "id": 253,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Las unidades de albañilería de concreto se utilizan después de lograr su resistencia especificada y su estabilidad volumétrica. Para el caso de unidades curadas con agua, ¿cuál es el plazo mínimo para su uso?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Las unidades de alba├▒iler├¡a de concreto se utilizan despu├®s de lograr su resistencia especificada y su estabilidad volum├®trica. Para el caso de unidades curadas con agua, ┬┐cu├íl es el plazo m├¡nimo para su uso?",
     "opciones": {
-      "A": "30 días",
-      "B": "25 días",
-      "C": "26 días",
-      "D": "28 días"
+      "A": "30 D├¡as",
+      "B": "25 D├¡as",
+      "C": "26 D├¡as",
+      "D": "28 D├¡as"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 5 de la Norma E.070 del Reglamento Nacional de Edificaciones"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 5 de la Norma E.070 del Reglamento Nacional de Edificaciones"
   },
   {
     "id": 254,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Determine en qué Norma del Reglamento Nacional de Edificaciones se encuentra el Mapa Eólico del Perú, que sirve de guía para establecer las velocidades básicas del viento en la zona donde se ubica una estructura.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Determine en qu├® Norma del Reglamento Nacional de Edificaciones se encuentra el Mapa E├│lico del Per├║, que sirve de gu├¡a para establecer las velocidades b├ísicas del viento en la zona donde se ubica una estructura.",
     "opciones": {
       "A": "E.020 Cargas",
-      "B": "E.030 Diseño sismorresistente",
+      "B": "E.030 Dise├▒o sismorresistente",
       "C": "E.060 Concreto armado",
-      "D": "E.090 Estructuras metálicas"
+      "D": "E.090 Estructuras met├ílicas"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Anexo 2 de la Norma E.020 del Reglamento Nacional de Edificaciones"
+    "fundamento": "Referencia bibliogr├ífica: Anexo 2 de la Norma E.020 del Reglamento Nacional de Edificaciones"
   },
   {
     "id": 255,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Si durante la ejecución del control simultáneo se identifica la existencia de situaciones adversas respecto de las cuales la entidad debe adoptar de manera inmediata las acciones que correspondan, la comisión de control debe emitir",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Si durante la ejecuci├│n del control simult├íneo se identifica la existencia de situaciones adversas respecto de las cuales la entidad debe adoptar de manera inmediata las acciones que correspondan, la comisi├│n de control debe emitir",
     "opciones": {
-      "A": "un reporte de riesgos ante situaciones adversas.",
-      "B": "un reporte de avance ante situaciones adversas.",
-      "C": "una orientación de oficio.",
-      "D": "un memorando de control interno."
+      "A": "Un reporte de riesgos ante situaciones adversas.",
+      "B": "Un reporte de avance ante situaciones adversas.",
+      "C": "Una orientaci├│n de oficio.",
+      "D": "Un memorando de control interno."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG/NORM numeral 7.1.1.2 literal c y numeral 7.2.1.2 literal c"
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG/NORM numeral 7.1.1.2 literal c y numeral 7.2.1.2 literal c"
   },
   {
     "id": 256,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "De acuerdo con la captación y conducción de agua para consumo humano (CCACH), el uso de ___________ se determinará mediante un estudio a través del cual se evaluará la disponibilidad del recurso de agua en cantidad, calidad y oportunidad para el fin requerido.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "De acuerdo con la captaci├│n y conducci├│n de agua para consumo humano (CCACH), el uso de ___________ se determinar├í mediante un estudio a trav├®s del cual se evaluar├í la disponibilidad del recurso de agua en cantidad, calidad y oportunidad para el fin requerido.",
     "opciones": {
-      "A": "las aguas subterráneas.",
-      "B": "las aguas superficiales.",
-      "C": "las aguas connatas.",
-      "D": "las aguas marinas."
+      "A": "Las aguas subterr├íneas.",
+      "B": "Las aguas superficiales.",
+      "C": "Las aguas connatas.",
+      "D": "Las aguas marinas."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones. Norma OS.010. Captación y conducción de agua para consumo humano. 4.2. Aguas subterráneas."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento nacional de edificaciones. Norma OS.010. Captaci├│n y conducci├│n de agua para consumo humano. 4.2. Aguas subterr├íneas."
   },
   {
     "id": 257,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En una planta de tratamiento de agua potable (PTAP), el objetivo es la remoción de los contaminantes fisicoquímicos y microbiológicos del agua de bebida hasta los límites establecidos en",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En una planta de tratamiento de agua potable (PTAP), el objetivo es la remoci├│n de los contaminantes fisicoqu├¡micos y microbiol├│gicos del agua de bebida hasta los l├¡mites establecidos en",
     "opciones": {
-      "A": "los estándares de calidad ambiental.",
-      "B": "los límites máximos permisibles.",
-      "C": "las normas nacionales de calidad de agua.",
-      "D": "los límites mínimos permisibles."
+      "A": "Los est├índares de calidad ambiental.",
+      "B": "Los l├¡mites m├íximos permisibles.",
+      "C": "Las normas nacionales de calidad de agua.",
+      "D": "Los l├¡mites m├¡nimos permisibles."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones. Norma OS.020. Planta de tratamiento de agua para consumo humano. 4. Disposiciones generales 4.1 Objetivo del tratamiento."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones. Norma OS.020. Planta de tratamiento de agua para consumo humano. 4. Disposiciones generales 4.1 Objetivo del tratamiento."
   },
   {
     "id": 258,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Es un ensayo desarrollado en el Perú que se utiliza para efectuar auscultaciones dinámicas, en el que se requiere investigación adicional de suelos para su interpretación y no sustituye al ensayo de penetración estándar (SPT).",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Es un ensayo desarrollado en el Per├║ que se utiliza para efectuar auscultaciones din├ímicas, en el que se requiere investigaci├│n adicional de suelos para su interpretaci├│n y no sustituye al ensayo de penetraci├│n est├índar (SPT).",
     "opciones": {
       "A": "Ensayo de corte de veleta de campo",
-      "B": "Penetrómetro dinámico ligero de punta cónica",
-      "C": "Cono dinámico superpesado",
-      "D": "Cono dinámico tipo peck"
+      "B": "Penetr├│metro din├ímico ligero de punta c├│nica",
+      "C": "Cono din├ímico superpesado",
+      "D": "Cono din├ímico tipo peck"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Norma Técnica E.050 Suelos y cimentaciones 2018, Capítulo ll. Estudios, artículo 14. Técnicas de exploración de campo para ITS y EMS, 14.2.6. Auscultación Dinámica mediante cono dinámico tipo peck (ANEXO lll)."
+    "fundamento": "Referencia bibliogr├ífica: Norma T├®cnica E.050 Suelos y cimentaciones 2018, Cap├¡tulo ll. Estudios, art├¡culo 14. T├®cnicas de exploraci├│n de campo para ITS y EMS, 14.2.6. Auscultaci├│n Din├ímica mediante cono din├ímico tipo peck (ANEXO lll)."
   },
   {
     "id": 259,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Con relación al análisis de presión admisible, ¿qué factor NO se tomaría en cuenta para la determinación de la presión admisible?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Con relaci├│n al an├ílisis de presi├│n admisible, ┬┐qu├® factor NO se tomar├¡a en cuenta para la determinaci├│n de la presi├│n admisible?",
     "opciones": {
       "A": "Factor de seguridad de cimentaciones",
-      "B": "Profundidad de cimentación",
-      "C": "Dimensión de los elementos de cimentación",
-      "D": "Características físico-mecánicas de los suelos"
+      "B": "Profundidad de cimentaci├│n",
+      "C": "Dimensi├│n de los elementos de cimentaci├│n",
+      "D": "Caracter├¡sticas f├¡sico-mec├ínicas de los suelos"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Norma técnica E.050. Suelos y cimentaciones 2018, Capítulo lll. Análisis de las condiciones de cimentación, Artículo 17. Presión admisible."
+    "fundamento": "Referencia bibliogr├ífica: Norma t├®cnica E.050. Suelos y cimentaciones 2018, Cap├¡tulo lll. An├ílisis de las condiciones de cimentaci├│n, Art├¡culo 17. Presi├│n admisible."
   },
   {
     "id": 260,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Con relación a suelos y cimentaciones, ¿cuál de las alternativas NO es un problema especial de cimentación?",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Con relaci├│n a suelos y cimentaciones, ┬┐cu├íl de las alternativas NO es un problema especial de cimentaci├│n?",
     "opciones": {
       "A": "Suelos colapsables",
       "B": "Macizo rocoso",
-      "C": "Ataque químico por suelos y aguas subterráneas",
+      "C": "Ataque qu├¡mico por suelos y aguas subterr├íneas",
       "D": "Suelos expansivos"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: N.T.E. E.50, Suelos y cimentaciones, capítulo 6 Problemas especiales de cimentación."
+    "fundamento": "Referencia bibliogr├ífica: N.T.E. E.50, Suelos y cimentaciones, cap├¡tulo 6 Problemas especiales de cimentaci├│n."
   },
   {
     "id": 261,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Se define como la carga transmitida por las estructuras al terreno en el nivel de cimentación, que incluye el peso del propio cimiento.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Se define como la carga transmitida por las estructuras al terreno en el nivel de cimentaci├│n, que incluye el peso del propio cimiento.",
     "opciones": {
-      "A": "Presión de trabajo",
-      "B": "Presión admisible",
-      "C": "Profundidad de cimentación",
-      "D": "Presión de contacto"
+      "A": "Presi├│n de trabajo",
+      "B": "Presi├│n admisible",
+      "C": "Profundidad de cimentaci├│n",
+      "D": "Presi├│n de contacto"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: N.T.E. E.50. Suelos y cimentaciones, Anexo l, Glosario, Presión de contacto."
+    "fundamento": "Referencia bibliogr├ífica: N.T.E. E.50. Suelos y cimentaciones, Anexo l, Glosario, Presi├│n de contacto."
   },
   {
     "id": 262,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Se define como un refuerzo colocado perpendicularmente en ángulo con respecto al refuerzo longitudinal, empleado para resistir esfuerzos de cortante y de torsión en un elemento estructural.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Se define como un refuerzo colocado perpendicularmente en ├íngulo con respecto al refuerzo longitudinal, empleado para resistir esfuerzos de cortante y de torsi├│n en un elemento estructural.",
     "opciones": {
       "A": "Estribo",
       "B": "Columna",
@@ -3403,12 +3403,12 @@ const BANCO_PREGUNTAS = [
       "D": "Viga"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Norma E.060 Concreto armado, capítulo 2, 2.2 Definiciones, Estribo."
+    "fundamento": "Referencia bibliogr├ífica: Norma E.060 Concreto armado, cap├¡tulo 2, 2.2 Definiciones, Estribo."
   },
   {
     "id": 263,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Se define como un elemento que sobresale de un muro, soporte estructural o decorativo, y que forma parte del techo de una edificación.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Se define como un elemento que sobresale de un muro, soporte estructural o decorativo, y que forma parte del techo de una edificaci├│n.",
     "opciones": {
       "A": "Altillo",
       "B": "Alero",
@@ -3416,77 +3416,77 @@ const BANCO_PREGUNTAS = [
       "D": "Ochavo"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Norma G.040 Definiciones, Alero."
+    "fundamento": "Referencia bibliogr├ífica: Norma G.040 Definiciones, Alero."
   },
   {
     "id": 264,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Es la persona natural o jurídica, pública o privada que ejecuta la obra directamente o bajo contrato con terceros; asimismo, administra, promueve, habilita y comercializa un proyecto y/o edificación.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Es la persona natural o jur├¡dica, p├║blica o privada que ejecuta la obra directamente o bajo contrato con terceros; asimismo, administra, promueve, habilita y comercializa un proyecto y/o edificaci├│n.",
     "opciones": {
-      "A": "Comisión técnica",
+      "A": "Comisi├│n t├®cnica",
       "B": "Promotor inmobiliario",
       "C": "Propietario",
-      "D": "Responsable de la habilitación urbana"
+      "D": "Responsable de la habilitaci├│n urbana"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Ley N°29090. Habilitaciones urbanas, Actores, Artículo 4. - Actores y responsabilidades, 1. Promotor inmobiliario."
+    "fundamento": "Referencia bibliogr├ífica: Ley N┬░29090. Habilitaciones urbanas, Actores, Art├¡culo 4. - Actores y responsabilidades, 1. Promotor inmobiliario."
   },
   {
     "id": 265,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Señale la alternativa que contenga el alcance de la Norma IS.010 Instalaciones sanitarias para edificaciones.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Se├▒ale la alternativa que contenga el alcance de la Norma IS.010 Instalaciones sanitarias para edificaciones.",
     "opciones": {
-      "A": "Requisitos mínimos para el sistema de desagües para edificaciones en general",
-      "B": "Requisitos mínimos para el diseño de las instalaciones sanitarias para edificaciones en general",
-      "C": "Identificación de peligros y la evaluación de riesgos y controles (IPERC)",
-      "D": "Requisitos mínimos para el diseño de las instalaciones del sistema de abastecimiento"
+      "A": "Requisitos m├¡nimos para el sistema de desag├╝es para edificaciones en general",
+      "B": "Requisitos m├¡nimos para el dise├▒o de las instalaciones sanitarias para edificaciones en general",
+      "C": "Identificaci├│n de peligros y la evaluaci├│n de riesgos y controles (IPERC)",
+      "D": "Requisitos m├¡nimos para el dise├▒o de las instalaciones del sistema de abastecimiento"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Numeral 1.1 de la Norma IS.010 Instalaciones sanitarias para edificaciones, aprobada con Decreto Supremo N° 011-2006-Vivienda."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 1.1 de la Norma IS.010 Instalaciones sanitarias para edificaciones, aprobada con Decreto Supremo N┬░ 011-2006-Vivienda."
   },
   {
     "id": 266,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Si en el marco del servicio de control simultáneo, la entidad auditada no informa el incumplimiento de la entrega de la documentación requerida a la comisión de Contraloría,",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Si en el marco del servicio de control simult├íneo, la entidad auditada no informa el incumplimiento de la entrega de la documentaci├│n requerida a la comisi├│n de Contralor├¡a,",
     "opciones": {
-      "A": "es una infracción por la que se debe adoptar acciones inmediatas.",
-      "B": "esta elabora el memorándum de control Interno.",
-      "C": "es una infracción al ejercicio de control sujeta a la potestad sancionadora de la Contraloría.",
-      "D": "es una justificación para dar por culminado el servicio de control."
+      "A": "Es una infracci├│n por la que se debe adoptar acciones inmediatas.",
+      "B": "Esta elabora el memor├índum de control Interno.",
+      "C": "Es una infracci├│n al ejercicio de control sujeta a la potestad sancionadora de la Contralor├¡a.",
+      "D": "Es una justificaci├│n para dar por culminado el servicio de control."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Directiva No 013-2022-CG/NORM, Servicio de Control Simultaneo, numeral 6.1.9"
+    "fundamento": "Referencia bibliogr├ífica: Directiva No 013-2022-CG/NORM, Servicio de Control Simultaneo, numeral 6.1.9"
   },
   {
     "id": 267,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "Es responsabilidad del supervisor de obra, EXCEPTO",
     "opciones": {
-      "A": "revisar la documentación del proyecto elaborado por los profesionales responsables del mismo, con la finalidad de planificar y asistir preventivamente al propietario o a quien lo contrate.",
-      "B": "revisar la calificación del personal del contratista, proveedor o subcontratistas que participen en el proyecto de construcción.",
-      "C": "Emitir reportes que señalen el grado de cumplimiento de los requisitos especificados en la documentación del proyecto.",
-      "D": "demostrar que está calificado y que cumplirá con los requisitos establecidos en el contrato principal"
+      "A": "Revisar la documentaci├│n del proyecto elaborado por los profesionales responsables del mismo, con la finalidad de planificar y asistir preventivamente al propietario o a quien lo contrate.",
+      "B": "Revisar la calificaci├│n del personal del contratista, proveedor o subcontratistas que participen en el proyecto de construcci├│n.",
+      "C": "Emitir reportes que se├▒alen el grado de cumplimiento de los requisitos especificados en la documentaci├│n del proyecto.",
+      "D": "Demostrar que est├í calificado y que cumplir├í con los requisitos establecidos en el contrato principal"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo Nº 011-2006-VIVIENDA, Norma G.030 Derechos y Responsabilidades, artículo 40."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo N┬║ 011-2006-VIVIENDA, Norma G.030 Derechos y Responsabilidades, art├¡culo 40."
   },
   {
     "id": 268,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Se considera como ___________________ al conjunto de trabajos que, por su gran magnitud y extensión, requieren el uso de equipo pesado.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Se considera como ___________________ al conjunto de trabajos que, por su gran magnitud y extensi├│n, requieren el uso de equipo pesado.",
     "opciones": {
-      "A": "obra de construcción pesada",
-      "B": "obra de construcción de gran envergadura",
-      "C": "obra de construcción trascendental",
-      "D": "obra de construcción de gran montaje"
+      "A": "Obra de construcci├│n pesada",
+      "B": "Obra de construcci├│n de gran envergadura",
+      "C": "Obra de construcci├│n trascendental",
+      "D": "Obra de construcci├│n de gran montaje"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo Nº 011-2006-VIVIENDA, Norma G.050 Seguridad Durante la Construcción, artículo 15."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo N┬║ 011-2006-VIVIENDA, Norma G.050 Seguridad Durante la Construcci├│n, art├¡culo 15."
   },
   {
     "id": 269,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Marque el tipo de muro que corresponde con la siguiente definición «Muro portante transversal al muro al que provee estabilidad y resistencia lateral».",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Marque el tipo de muro que corresponde con la siguiente definici├│n ┬½Muro portante transversal al muro al que provee estabilidad y resistencia lateral┬╗.",
     "opciones": {
       "A": "Muro arriostrado",
       "B": "Muro de arriostre",
@@ -3494,298 +3494,298 @@ const BANCO_PREGUNTAS = [
       "D": "Muro portante"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Norma E.070 Albañilería"
+    "fundamento": "Referencia bibliogr├ífica: Norma E.070 Alba├▒iler├¡a"
   },
   {
     "id": 270,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "De acuerdo con la Resolución Ministerial 029-2021-VIVIENDA, Norma Técnica G.040, Definiciones del Reglamento Nacional de Edificaciones, son parámetros urbanísticos y edificatorios las",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "De acuerdo con la Resoluci├│n Ministerial 029-2021-VIVIENDA, Norma T├®cnica G.040, Definiciones del Reglamento Nacional de Edificaciones, son par├ímetros urban├¡sticos y edificatorios las",
     "opciones": {
-      "A": "disposiciones técnicas y legales que dictan las municipalidades que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
-      "B": "disposiciones técnicas y legales resultantes de los planes de desarrollo urbano que regulan el diseño y las condiciones técnicas de los proyectos de habilitaciones urbanas y/o las edificaciones.",
-      "C": "indicaciones técnicas que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
-      "D": "características del diseño de una propuesta arquitectónica aplicables a una edificación."
+      "A": "Disposiciones t├®cnicas y legales que dictan las municipalidades que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
+      "B": "Disposiciones t├®cnicas y legales resultantes de los planes de desarrollo urbano que regulan el dise├▒o y las condiciones t├®cnicas de los proyectos de habilitaciones urbanas y/o las edificaciones.",
+      "C": "Indicaciones t├®cnicas que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
+      "D": "Caracter├¡sticas del dise├▒o de una propuesta arquitect├│nica aplicables a una edificaci├│n."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Resolución Ministerial N° 029-2021-VIVIENDA, Norma Técnica G.040, Definiciones del Reglamento Nacional de Edificaciones."
+    "fundamento": "Referencia bibliogr├ífica: Resoluci├│n Ministerial N┬░ 029-2021-VIVIENDA, Norma T├®cnica G.040, Definiciones del Reglamento Nacional de Edificaciones."
   },
   {
     "id": 271,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "«El desarrollo y la emisión de sus resultados se efectúan durante el proceso en curso, lo que permite a la entidad o dependencia, y de ser el caso, a las instancias competentes, adoptar a tiempo las acciones correspondientes». Señale la opción donde se expresa esta característica del servicio de control simultáneo.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "┬½El desarrollo y la emisi├│n de sus resultados se efect├║an durante el proceso en curso, lo que permite a la entidad o dependencia, y de ser el caso, a las instancias competentes, adoptar a tiempo las acciones correspondientes┬╗. Se├▒ale la opci├│n donde se expresa esta caracter├¡stica del servicio de control simult├íneo.",
     "opciones": {
-      "A": "Célere",
+      "A": "C├®lere",
       "B": "Oportuno",
       "C": "Preventivo",
-      "D": "Sincrónico"
+      "D": "Sincr├│nico"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva N° 013-2022-CG/NORM Numeral 6.1.1, literal c."
+    "fundamento": "Referencia bibliogr├ífica: Directiva N┬░ 013-2022-CG/NORM Numeral 6.1.1, literal c."
   },
   {
     "id": 272,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "De acuerdo con las características de los voladizos, identifique la alternativa INCORRECTA.",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "De acuerdo con las caracter├¡sticas de los voladizos, identifique la alternativa INCORRECTA.",
     "opciones": {
-      "A": "En las edificaciones que tengan retiro se permitirá voladizos sobre la pista, ya que, por razones vinculadas al perfil urbano preexistente, el Plan Urbano distrital establece la posibilidad de ejecutar balcones, voladizos de protección para lluvias, cornisas u otros elementos arquitectónicos cuya proyección caiga sobre la vía pública.",
-      "B": "En las edificaciones que no tengan retiro no se permitirá voladizos sobre la vereda, salvo que, por razones vinculadas al perfil urbano preexistente, el Plan Urbano distrital establezca la posibilidad de ejecutar balcones, voladizos de protección para lluvias, cornisas u otros elementos arquitectónicos cuya proyección caiga sobre la vía pública.",
-      "C": "Se puede edificar voladizos sobre el retiro frontal hasta 0.50 m, a partir de 2.30 m de altura. Voladizos mayores, exigen el aumento del retiro de la edificación en una longitud equivalente.",
-      "D": "No se permitirán voladizos sobre retiros laterales y posteriores mínimos reglamentarios, ni sobre retiros frontales cuya finalidad sea el ensanche de vía."
+      "A": "En las edificaciones que tengan retiro se permitir├í voladizos sobre la pista, ya que, por razones vinculadas al perfil urbano preexistente, el Plan Urbano distrital establece la posibilidad de ejecutar balcones, voladizos de protecci├│n para lluvias, cornisas u otros elementos arquitect├│nicos cuya proyecci├│n caiga sobre la v├¡a p├║blica.",
+      "B": "En las edificaciones que no tengan retiro no se permitir├í voladizos sobre la vereda, salvo que, por razones vinculadas al perfil urbano preexistente, el Plan Urbano distrital establezca la posibilidad de ejecutar balcones, voladizos de protecci├│n para lluvias, cornisas u otros elementos arquitect├│nicos cuya proyecci├│n caiga sobre la v├¡a p├║blica.",
+      "C": "Se puede edificar voladizos sobre el retiro frontal hasta 0.50 m, a partir de 2.30 m de altura. Voladizos mayores, exigen el aumento del retiro de la edificaci├│n en una longitud equivalente.",
+      "D": "No se permitir├ín voladizos sobre retiros laterales y posteriores m├¡nimos reglamentarios, ni sobre retiros frontales cuya finalidad sea el ensanche de v├¡a."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo Nº 011-2006-VIVIENDA, Título III Edificaciones, Titulo III.1. Arquitectura, Norma A.010 Condiciones Generales de Diseño, artículo 14."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo N┬║ 011-2006-VIVIENDA, T├¡tulo III Edificaciones, Titulo III.1. Arquitectura, Norma A.010 Condiciones Generales de Dise├▒o, art├¡culo 14."
   },
   {
     "id": 273,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "Los proyectos de cada especialidad están compuestos por",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "Los proyectos de cada especialidad est├ín compuestos por",
     "opciones": {
-      "A": "planos, especificaciones del proyecto y memoria descriptiva o de cálculo.",
-      "B": "planos, especificaciones técnicas y memoria descriptiva o de cálculo.",
-      "C": "planos, estudio preventivo, especificaciones técnicas y memoria descriptiva o de cálculo.",
-      "D": "estudio preventivo, especificaciones técnicas y memoria descriptiva o de cálculo."
+      "A": "Planos, especificaciones del proyecto y memoria descriptiva o de c├ílculo.",
+      "B": "Planos, especificaciones t├®cnicas y memoria descriptiva o de c├ílculo.",
+      "C": "Planos, estudio preventivo, especificaciones t├®cnicas y memoria descriptiva o de c├ílculo.",
+      "D": "Estudio preventivo, especificaciones t├®cnicas y memoria descriptiva o de c├ílculo."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo Nº 011-2006-VIVIENDA, Título III Edificaciones, Norma GE.020 Componentes y Características de los Proyectos, artículo 4."
+    "fundamento": "Referencia bibliogr├ífica: Reglamento Nacional de Edificaciones, aprobado por Decreto Supremo N┬║ 011-2006-VIVIENDA, T├¡tulo III Edificaciones, Norma GE.020 Componentes y Caracter├¡sticas de los Proyectos, art├¡culo 4."
   },
   {
     "id": 274,
-    "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
-    "pregunta": "En el marco de la normativa de vivienda, los parámetros urbanísticos y edificatorios son",
+    "tema": "Tema 6: Ingenier├¡a Civil, RNE, Saneamiento y Seguridad en Edificaciones",
+    "pregunta": "En el marco de la normativa de vivienda, los par├ímetros urban├¡sticos y edificatorios son",
     "opciones": {
-      "A": "disposiciones técnicas y legales que dictan las municipalidades, y que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
-      "B": "indicaciones técnicas que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
-      "C": "disposiciones técnicas y legales resultantes de los planes de desarrollo urbano que regulan el diseño y las condiciones técnicas de los proyectos de habilitaciones urbanas y/o las edificaciones.",
-      "D": "características del diseño de una propuesta arquitectónica aplicables a una edificación."
+      "A": "Disposiciones t├®cnicas y legales que dictan las municipalidades, y que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
+      "B": "Indicaciones t├®cnicas que pueden ser tomadas en cuenta para los proyectos de habilitaciones urbanas y/o las edificaciones.",
+      "C": "Disposiciones t├®cnicas y legales resultantes de los planes de desarrollo urbano que regulan el dise├▒o y las condiciones t├®cnicas de los proyectos de habilitaciones urbanas y/o las edificaciones.",
+      "D": "Caracter├¡sticas del dise├▒o de una propuesta arquitect├│nica aplicables a una edificaci├│n."
     },
     "correcta": "C",
-    "fundamento": "Referencia Bibliográfica: Resolución Ministerial N°029-2021-VIVIENDA, Norma Técnica G.040, Definiciones del Reglamento Nacional de Edificaciones. pág.17."
+    "fundamento": "Referencia Bibliogr├ífica: Resoluci├│n Ministerial N┬░029-2021-VIVIENDA, Norma T├®cnica G.040, Definiciones del Reglamento Nacional de Edificaciones. p├íg.17."
   },
   {
     "id": 275,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Sobre la base de la Ley N° 27444, Ley del Procedimiento Administrativo General, indique cuál es un principio del procedimiento administrativo.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Sobre la base de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, indique cu├íl es un principio del procedimiento administrativo.",
     "opciones": {
       "A": "Principio protector",
       "B": "Principio de continuidad",
-      "C": "Principio del ejercicio legítimo del poder",
-      "D": "Principio de condición más beneficiosa"
+      "C": "Principio del ejercicio leg├¡timo del poder",
+      "D": "Principio de condici├│n m├ís beneficiosa"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N° 004- 2019-JUS, artículo IV, numeral 1.17."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N┬░ 004- 2019-JUS, art├¡culo IV, numeral 1.17."
   },
   {
     "id": 276,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "«En el marco del procedimiento administrativo general, la autoridad administrativa deberá establecer requisitos similares para trámites similares, garantizando que las excepciones a los principios generales no serán convertidas en la regla general; toda diferenciación deberá basarse en criterios objetivos debidamente sustentados». Este enunciando corresponde al principio de",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬½En el marco del procedimiento administrativo general, la autoridad administrativa deber├í establecer requisitos similares para tr├ímites similares, garantizando que las excepciones a los principios generales no ser├ín convertidas en la regla general; toda diferenciaci├│n deber├í basarse en criterios objetivos debidamente sustentados┬╗. Este enunciando corresponde al principio de",
     "opciones": {
-      "A": "simplicidad.",
-      "B": "uniformidad.",
-      "C": "imparcialidad.",
-      "D": "razonabilidad."
+      "A": "Simplicidad.",
+      "B": "Uniformidad.",
+      "C": "Imparcialidad.",
+      "D": "Razonabilidad."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento administrativo General, aprobado por Decreto Supremo N° 004- 2019-JUS, Título preliminar, artículo IV, numeral 1.14."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento administrativo General, aprobado por Decreto Supremo N┬░ 004- 2019-JUS, T├¡tulo preliminar, art├¡culo IV, numeral 1.14."
   },
   {
     "id": 277,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Con respecto de los sistemas administrativos del Estado señalados en la Ley Orgánica del Poder Ejecutivo, marque la alternativa correcta.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Con respecto de los sistemas administrativos del Estado se├▒alados en la Ley Org├ínica del Poder Ejecutivo, marque la alternativa correcta.",
     "opciones": {
-      "A": "Son 10 sistemas administrativos, uno está dedicado al presupuesto público.",
-      "B": "Son 12 sistemas administrativos, uno es dedicado al tema de endeudamiento público.",
-      "C": "Son 9 Sistemas administrativos, siendo uno de ellos el de modernización del Estado.",
-      "D": "Son 11 sistemas administrativos, uno de ellos es del planeamiento estratégico."
+      "A": "Son 10 sistemas administrativos, uno est├í dedicado al presupuesto p├║blico.",
+      "B": "Son 12 sistemas administrativos, uno es dedicado al tema de endeudamiento p├║blico.",
+      "C": "Son 9 Sistemas administrativos, siendo uno de ellos el de modernizaci├│n del Estado.",
+      "D": "Son 11 sistemas administrativos, uno de ellos es del planeamiento estrat├®gico."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Ley N° 29158, Ley Orgánica del Poder Ejecutivo, artículo 46."
+    "fundamento": "Referencia bibliogr├ífica: Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo, art├¡culo 46."
   },
   {
     "id": 278,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Sobre las materias a las que se refiere los sistemas administrativos del Estado señalados en la Ley Orgánica del Poder Ejecutivo, marque la alternativa correcta.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Sobre las materias a las que se refiere los sistemas administrativos del Estado se├▒alados en la Ley Org├ínica del Poder Ejecutivo, marque la alternativa correcta.",
     "opciones": {
       "A": "Son 10, siendo una para el presupuesto del pliego institucional.",
-      "B": "Son 12, una está dedicada al endeudamiento público.",
-      "C": "Son 11, una de ellas es la de planeamiento estratégico.",
-      "D": "Son 9, entre ellas, una es acerca de la de modernización del estado"
+      "B": "Son 12, una est├í dedicada al endeudamiento p├║blico.",
+      "C": "Son 11, una de ellas es la de planeamiento estrat├®gico.",
+      "D": "Son 9, entre ellas, una es acerca de la de modernizaci├│n del estado"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Ley orgánica del Poder Ejecutivo, Ley N° 29158. Artículo 46 Sistemas Administrativos"
+    "fundamento": "Referencia bibliogr├ífica: Ley org├ínica del Poder Ejecutivo, Ley N┬░ 29158. Art├¡culo 46 Sistemas Administrativos"
   },
   {
     "id": 279,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Señale cuál es el sistema administrativo que tiene por finalidad regular la elaboración de los estados financieros y consolidación en la cuenta general de la República, por niveles de gobierno, empresas públicas y la seguridad social.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Se├▒ale cu├íl es el sistema administrativo que tiene por finalidad regular la elaboraci├│n de los estados financieros y consolidaci├│n en la cuenta general de la Rep├║blica, por niveles de gobierno, empresas p├║blicas y la seguridad social.",
     "opciones": {
-      "A": "Sistema Nacional de Presupuesto Público",
+      "A": "Sistema Nacional de Presupuesto P├║blico",
       "B": "Sistema Nacional de Contabilidad",
-      "C": "Sistema Nacional de Tesorería",
-      "D": "Sistema Nacional de Endeudamiento Público"
+      "C": "Sistema Nacional de Tesorer├¡a",
+      "D": "Sistema Nacional de Endeudamiento P├║blico"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo del Sistema Nacional de Contabilidad, Decreto Legislativo N° 1438 y modificatoria. Artículo 4. Sistema Nacional de Contabilidad, numeral 4.2, Sub capítulo I (Integrantes del Sistema Nacional de Contabilidad)."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo del Sistema Nacional de Contabilidad, Decreto Legislativo N┬░ 1438 y modificatoria. Art├¡culo 4. Sistema Nacional de Contabilidad, numeral 4.2, Sub cap├¡tulo I (Integrantes del Sistema Nacional de Contabilidad)."
   },
   {
     "id": 280,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "El plazo máximo del procedimiento administrativo de evaluación previa, de acuerdo al Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, es de",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "El plazo m├íximo del procedimiento administrativo de evaluaci├│n previa, de acuerdo al Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, es de",
     "opciones": {
-      "A": "quince (15) días calendario, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duración mayor.",
-      "B": "veinte (20) días calendario, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duración mayor.",
-      "C": "diez (10) días hábiles, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duración mayor.",
-      "D": "treinta (30) días hábiles, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duración mayor."
+      "A": "Quince (15) d├¡as calendario, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duraci├│n mayor.",
+      "B": "Veinte (20) d├¡as calendario, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duraci├│n mayor.",
+      "C": "Diez (10) d├¡as h├íbiles, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duraci├│n mayor.",
+      "D": "Treinta (30) d├¡as h├íbiles, salvo que por ley o decreto legislativo se establezcan procedimientos cuyo cumplimiento requiera una duraci├│n mayor."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 39 Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 39 Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General."
   },
   {
     "id": 281,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Marque la alternativa correcta que corresponde al siguiente concepto: «Es el conjunto de principios, procesos, normas, procedimientos, técnicas e instrumentos mediante los cuales se ejecuta la gestión del flujo financiero, que incluye la estructuración del financiamiento del presupuesto del sector público, la gestión de activos financieros del sector público no financiero y los riesgos fiscales del sector público».",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Marque la alternativa correcta que corresponde al siguiente concepto: ┬½Es el conjunto de principios, procesos, normas, procedimientos, t├®cnicas e instrumentos mediante los cuales se ejecuta la gesti├│n del flujo financiero, que incluye la estructuraci├│n del financiamiento del presupuesto del sector p├║blico, la gesti├│n de activos financieros del sector p├║blico no financiero y los riesgos fiscales del sector p├║blico┬╗.",
     "opciones": {
-      "A": "Sistema Nacional de Tesorería",
+      "A": "Sistema Nacional de Tesorer├¡a",
       "B": "Sistema Nacional de Contabilidad",
-      "C": "Sistema Nacional de Presupuesto Público",
-      "D": "Sistema Nacional de Endeudamiento Público"
+      "C": "Sistema Nacional de Presupuesto P├║blico",
+      "D": "Sistema Nacional de Endeudamiento P├║blico"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Numeral 4.1 del artículo 4 del D. L. No 1441."
+    "fundamento": "Referencia bibliogr├ífica: Numeral 4.1 del art├¡culo 4 del D. L. No 1441."
   },
   {
     "id": 282,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "¿Qué medio NO tiene competencia en el ámbito del sistema administrativo de la gestión de la administración?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬┐Qu├® medio NO tiene competencia en el ├ímbito del sistema administrativo de la gesti├│n de la administraci├│n?",
     "opciones": {
       "A": "Calidad en las regulaciones",
-      "B": "Gestión de procesos",
-      "C": "Simplificación administrativa",
-      "D": "Gestión del aprendizaje"
+      "B": "Gesti├│n de procesos",
+      "C": "Simplificaci├│n administrativa",
+      "D": "Gesti├│n del aprendizaje"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: artículo 7 del Decreto Supremo No 123-2018-PCM."
+    "fundamento": "Referencia bibliogr├ífica: art├¡culo 7 del Decreto Supremo No 123-2018-PCM."
   },
   {
     "id": 283,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "El siguiente enunciado: «Tienen por finalidad regular la utilización de los recursos en las entidades de la administración pública, promoviendo la eficacia y eficiencia en su uso», corresponde a",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "El siguiente enunciado: ┬½Tienen por finalidad regular la utilizaci├│n de los recursos en las entidades de la administraci├│n p├║blica, promoviendo la eficacia y eficiencia en su uso┬╗, corresponde a",
     "opciones": {
-      "A": "sistemas funcionales.",
-      "B": "sistemas económicos.",
-      "C": "sistemas gubernamentales.",
-      "D": "sistemas administrativos."
+      "A": "Sistemas funcionales.",
+      "B": "Sistemas econ├│micos.",
+      "C": "Sistemas gubernamentales.",
+      "D": "Sistemas administrativos."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 46 de la Ley N° 29158 ? Ley Orgánica del Poder Ejecutivo."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 46 de la Ley N┬░ 29158 ÔÇô Ley Org├ínica del Poder Ejecutivo."
   },
   {
     "id": 284,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "De acuerdo con la Ley N° 27444. Ley del Procedimiento Administrativo General, ¿Cuál de las siguientes alternativas es un principio del procedimiento administrativo?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "De acuerdo con la Ley N┬░ 27444. Ley del Procedimiento Administrativo General, ┬┐Cu├íl de las siguientes alternativas es un principio del procedimiento administrativo?",
     "opciones": {
       "A": "Principio de integridad",
-      "B": "Principio del ejercicio legítimo del poder",
+      "B": "Principio del ejercicio leg├¡timo del poder",
       "C": "Principio de continuidad",
-      "D": "Principio de condición más beneficiosa"
+      "D": "Principio de condici├│n m├ís beneficiosa"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: TUO de la Ley N° 27444 (D.S. 004-2019-JUS). Artículo IV. Principio de procedimiento administrativo ? numeral 1.17."
+    "fundamento": "Referencia bibliogr├ífica: TUO de la Ley N┬░ 27444 (D.S. 004-2019-JUS). Art├¡culo IV. Principio de procedimiento administrativo ÔÇô numeral 1.17."
   },
   {
     "id": 285,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "El siguiente enunciado: «Tienen por finalidad asegurar el cumplimiento de políticas públicas que requieren la participación de todas o varias entidades del Estado», corresponde a",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "El siguiente enunciado: ┬½Tienen por finalidad asegurar el cumplimiento de pol├¡ticas p├║blicas que requieren la participaci├│n de todas o varias entidades del Estado┬╗, corresponde a",
     "opciones": {
-      "A": "sistemas administrativos.",
-      "B": "sistemas gubernamentales.",
-      "C": "sistemas funcionales.",
-      "D": "sistemas económicos."
+      "A": "Sistemas administrativos.",
+      "B": "Sistemas gubernamentales.",
+      "C": "Sistemas funcionales.",
+      "D": "Sistemas econ├│micos."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Artículo 45 de la Ley N° 29158 ? Ley Orgánica del Poder Ejecutivo."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 45 de la Ley N┬░ 29158 ÔÇô Ley Org├ínica del Poder Ejecutivo."
   },
   {
     "id": 286,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Indique el medio de colaboración, a través del cual las entidades, mediante sus representantes autorizados, celebran dentro de la ley acuerdos en el ámbito de su respectiva competencia, de naturaleza obligatoria para las partes.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Indique el medio de colaboraci├│n, a trav├®s del cual las entidades, mediante sus representantes autorizados, celebran dentro de la ley acuerdos en el ├ímbito de su respectiva competencia, de naturaleza obligatoria para las partes.",
     "opciones": {
       "A": "Conferencias entre entidades vinculadas",
-      "B": "Asistencia de colaboración técnica",
+      "B": "Asistencia de colaboraci├│n t├®cnica",
       "C": "Intercambio colaborativo de experiencias",
-      "D": "Convenios de colaboración"
+      "D": "Convenios de colaboraci├│n"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N° 004- 2019-JUS, artículo 88.3"
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N┬░ 004- 2019-JUS, art├¡culo 88.3"
   },
   {
     "id": 287,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Los principios que se regulan en el Código de Ética de la Función Pública son",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Los principios que se regulan en el C├│digo de ├ëtica de la Funci├│n P├║blica son",
     "opciones": {
-      "A": "legalidad y confianza.",
-      "B": "eficiencia y confianza.",
-      "C": "modernidad y discrecionalidad.",
-      "D": "imparcialidad y legalidad."
+      "A": "Legalidad y confianza.",
+      "B": "Eficiencia y confianza.",
+      "C": "Modernidad y discrecionalidad.",
+      "D": "Imparcialidad y legalidad."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Ley N° 27815, artículo 6."
+    "fundamento": "Referencia bibliogr├ífica: Ley N┬░ 27815, art├¡culo 6."
   },
   {
     "id": 288,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Considerando el Texto Único Ordenado de la Ley N° 27444, Ley de Procedimiento Administrativo General, marque el enunciado correcto.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Considerando el Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley de Procedimiento Administrativo General, marque el enunciado correcto.",
     "opciones": {
-      "A": "Los actos de administración interna de las entidades destinados a organizar o hacer funcionar sus propias actividades o servicios, son regulados por cada entidad sin sujetarse a las disposiciones contenidas en el Texto Único Ordenado de la Ley N° 27444, Ley de Procedimiento Administrativo General.",
-      "B": "La competencia es uno de los requisitos de validez de los actos administrativos, siempre que así lo requieran tales actos.",
-      "C": "Son actos administrativos, las declaraciones de las entidades que, en el marco de normas de derecho público, están destinadas a producir efectos jurídicos sobre los intereses, obligaciones o derechos de los administrados dentro de una situación concreta.",
-      "D": "La autoridad puede suplir alguna modalidad de notificación alterando el orden de prelación establecido para la misma, de manera discrecional, sin que ello acarree sanción de nulidad de la notificación."
+      "A": "Los actos de administraci├│n interna de las entidades destinados a organizar o hacer funcionar sus propias actividades o servicios, son regulados por cada entidad sin sujetarse a las disposiciones contenidas en el Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley de Procedimiento Administrativo General.",
+      "B": "La competencia es uno de los requisitos de validez de los actos administrativos, siempre que as├¡ lo requieran tales actos.",
+      "C": "Son actos administrativos, las declaraciones de las entidades que, en el marco de normas de derecho p├║blico, est├ín destinadas a producir efectos jur├¡dicos sobre los intereses, obligaciones o derechos de los administrados dentro de una situaci├│n concreta.",
+      "D": "La autoridad puede suplir alguna modalidad de notificaci├│n alterando el orden de prelaci├│n establecido para la misma, de manera discrecional, sin que ello acarree sanci├│n de nulidad de la notificaci├│n."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, Artículo 1."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, Art├¡culo 1."
   },
   {
     "id": 289,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "De acuerdo con el Decreto Supremo N° 054-2018-PCM, Decreto Supremo que aprueba los Lineamientos de Organización del Estado, la Oficina de Asesoría Jurídica de una entidad es calificada como un órgano",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "De acuerdo con el Decreto Supremo N┬░ 054-2018-PCM, Decreto Supremo que aprueba los Lineamientos de Organizaci├│n del Estado, la Oficina de Asesor├¡a Jur├¡dica de una entidad es calificada como un ├│rgano",
     "opciones": {
-      "A": "de línea, ya que ejerce funciones sustantivas en la entidad.",
-      "B": "resolutivo, ya que se encarga de resolver en última instancia, cualquier reclamo o controversia en las materias bajo su competencia definidas por ley.",
-      "C": "de administración interna, ya que tiene por función asesorar o apoyar a la entidad en el cumplimiento de sus funciones sustantivas, en tanto defensa jurídica de la entidad.",
-      "D": "de la Alta Dirección, ya que es responsable de dirigir la entidad, supervisar y regular sus actividades, y en general ejercer las funciones de dirección política y administrativa de la entidad."
+      "A": "De l├¡nea, ya que ejerce funciones sustantivas en la entidad.",
+      "B": "Resolutivo, ya que se encarga de resolver en ├║ltima instancia, cualquier reclamo o controversia en las materias bajo su competencia definidas por ley.",
+      "C": "De administraci├│n interna, ya que tiene por funci├│n asesorar o apoyar a la entidad en el cumplimiento de sus funciones sustantivas, en tanto defensa jur├¡dica de la entidad.",
+      "D": "De la Alta Direcci├│n, ya que es responsable de dirigir la entidad, supervisar y regular sus actividades, y en general ejercer las funciones de direcci├│n pol├¡tica y administrativa de la entidad."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, Artículo 1."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, Art├¡culo 1."
   },
   {
     "id": 290,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "¿Cómo se componen los sistemas administrativos del Estado?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬┐C├│mo se componen los sistemas administrativos del Estado?",
     "opciones": {
-      "A": "Ministerio de Economía y Finanzas, planeamiento estratégico, defensa judicial del Estado, control y modernización de la Gestión Pública.",
-      "B": "Dirección Nacional de Inversión Pública, gestión de recursos humanos, abastecimiento, presupuesto público, tesorería, endeudamiento público, contabilidad, inversión pública, planeamiento.",
-      "C": "Gestión de recursos humanos, abastecimiento, presupuesto público, tesorería, endeudamiento público, contabilidad y Presidencia del Consejo de Ministros.",
-      "D": "Gestión de recursos humanos, abastecimiento, presupuesto público, tesorería, endeudamiento público, contabilidad, inversión pública, planeamiento estratégico, defensa judicial del Estado, control y modernización de la gestión pública."
+      "A": "Ministerio de Econom├¡a y Finanzas, planeamiento estrat├®gico, defensa judicial del Estado, control y modernizaci├│n de la Gesti├│n P├║blica.",
+      "B": "Direcci├│n Nacional de Inversi├│n P├║blica, gesti├│n de recursos humanos, abastecimiento, presupuesto p├║blico, tesorer├¡a, endeudamiento p├║blico, contabilidad, inversi├│n p├║blica, planeamiento.",
+      "C": "Gesti├│n de recursos humanos, abastecimiento, presupuesto p├║blico, tesorer├¡a, endeudamiento p├║blico, contabilidad y Presidencia del Consejo de Ministros.",
+      "D": "Gesti├│n de recursos humanos, abastecimiento, presupuesto p├║blico, tesorer├¡a, endeudamiento p├║blico, contabilidad, inversi├│n p├║blica, planeamiento estrat├®gico, defensa judicial del Estado, control y modernizaci├│n de la gesti├│n p├║blica."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva 013-2022-CG. Artículo 46 del Sistema Administrativo de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo."
+    "fundamento": "Referencia bibliogr├ífica: Directiva 013-2022-CG. Art├¡culo 46 del Sistema Administrativo de la Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo."
   },
   {
     "id": 291,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "De acuerdo con el Decreto Legislativo N° 728, qué tipo de contratación de personal, NO requiere de concurso público de méritos.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "De acuerdo con el Decreto Legislativo N┬░ 728, qu├® tipo de contrataci├│n de personal, NO requiere de concurso p├║blico de m├®ritos.",
     "opciones": {
       "A": "Los contratos por suplencia",
       "B": "Los contratos por reemplazo",
       "C": "Los contratos a plazo determinado",
-      "D": "Todo tipo de contratación requiere concurso"
+      "D": "Todo tipo de contrataci├│n requiere concurso"
     },
     "correcta": "D",
-    "fundamento": "Referencia: Ley N° 28175, Ley Marco del Empleo Público"
+    "fundamento": "Referencia: Ley N┬░ 28175, Ley Marco del Empleo P├║blico"
   },
   {
     "id": 292,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "¿Qué formato se utiliza para el registro de un proyecto de inversión en el Banco de Inversiones?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬┐Qu├® formato se utiliza para el registro de un proyecto de inversi├│n en el Banco de Inversiones?",
     "opciones": {
       "A": "Formato 07-C",
       "B": "Formato 07-D",
@@ -3793,90 +3793,90 @@ const BANCO_PREGUNTAS = [
       "D": "Formato 07-B"
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Décimo cuarta disposición complementaria final de la Directiva N° 001-2019-EF/63.01 (Directiva General del Invierte.pe, aprobada por la Resolución Directoral Nº 001-2019-EF/63.01 y, modificatorias."
+    "fundamento": "Referencia bibliogr├ífica: D├®cimo cuarta disposici├│n complementaria final de la Directiva N┬░ 001-2019-EF/63.01 (Directiva General del Invierte.pe, aprobada por la Resoluci├│n Directoral N┬║ 001-2019-EF/63.01 y, modificatorias."
   },
   {
     "id": 293,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "¿Quién está facultado para la articulación, seguimiento y evaluación de la Política Nacional de la Modernización de la Gestión Pública al 2030?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬┐Qui├®n est├í facultado para la articulaci├│n, seguimiento y evaluaci├│n de la Pol├¡tica Nacional de la Modernizaci├│n de la Gesti├│n P├║blica al 2030?",
     "opciones": {
-      "A": "Defensa Judicial del Estado a través del Poder Judicial",
-      "B": "La Presidencia del Consejo de ministros a través de la Secretaría de Gestión Pública",
-      "C": "Sistema Nacional de Defensa Civil a través del INDECI",
-      "D": "Presidencia del Consejo de ministros a través del Área de Gestión de Recursos Humanos"
+      "A": "Defensa Judicial del Estado a trav├®s del Poder Judicial",
+      "B": "La Presidencia del Consejo de ministros a trav├®s de la Secretar├¡a de Gesti├│n P├║blica",
+      "C": "Sistema Nacional de Defensa Civil a trav├®s del INDECI",
+      "D": "Presidencia del Consejo de ministros a trav├®s del ├ürea de Gesti├│n de Recursos Humanos"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 5 del Decreto Supremo N° 103-2023-PCM."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 5 del Decreto Supremo N┬░ 103-2023-PCM."
   },
   {
     "id": 294,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Con relación a los sistemas administrativos, marque la alternativa INCORRECTA.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Con relaci├│n a los sistemas administrativos, marque la alternativa INCORRECTA.",
     "opciones": {
       "A": "Son once sistemas administrativos los correspondientes al Estado peruano en diferentes regiones.",
-      "B": "El Poder Ejecutivo tiene la rectoría de los sistemas administrativos, a excepción del Sistema Nacional de Control.",
-      "C": "Tienen por finalidad asegurar el cumplimiento de políticas públicas del Perú.",
-      "D": "Tienen por finalidad regular la utilización de los recursos en las entidades de la administración pública."
+      "B": "El Poder Ejecutivo tiene la rector├¡a de los sistemas administrativos, a excepci├│n del Sistema Nacional de Control.",
+      "C": "Tienen por finalidad asegurar el cumplimiento de pol├¡ticas p├║blicas del Per├║.",
+      "D": "Tienen por finalidad regular la utilizaci├│n de los recursos en las entidades de la administraci├│n p├║blica."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Artículo 46 de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 46 de la Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo."
   },
   {
     "id": 295,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "«Tienen por finalidad asegurar el cumplimiento de políticas públicas que requieren la participación de todas o varias entidades del Estado». La cita anterior corresponde a los",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬½Tienen por finalidad asegurar el cumplimiento de pol├¡ticas p├║blicas que requieren la participaci├│n de todas o varias entidades del Estado┬╗. La cita anterior corresponde a los",
     "opciones": {
-      "A": "sistemas administrativos.",
-      "B": "sistemas funcionales.",
-      "C": "sistemas gubernamentales.",
-      "D": "sistemas económicos."
+      "A": "Sistemas administrativos.",
+      "B": "Sistemas funcionales.",
+      "C": "Sistemas gubernamentales.",
+      "D": "Sistemas econ├│micos."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Artículo 45 de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 45 de la Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo."
   },
   {
     "id": 296,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Con relación a los sistemas administrativos, marque el enunciado INCORRECTO.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Con relaci├│n a los sistemas administrativos, marque el enunciado INCORRECTO.",
     "opciones": {
-      "A": "El Poder Ejecutivo tiene la rectoría de los Sistemas Administrativos, con excepción del Sistema Nacional de Control.",
+      "A": "El Poder Ejecutivo tiene la rector├¡a de los Sistemas Administrativos, con excepci├│n del Sistema Nacional de Control.",
       "B": "Son once sistemas administrativos los correspondientes al Estado peruano en diferentes regiones.",
-      "C": "Tienen por finalidad asegurar el cumplimiento de políticas públicas del Perú.",
-      "D": "Tienen por finalidad regular la utilización de los recursos en las entidades de la administración pública."
+      "C": "Tienen por finalidad asegurar el cumplimiento de pol├¡ticas p├║blicas del Per├║.",
+      "D": "Tienen por finalidad regular la utilizaci├│n de los recursos en las entidades de la administraci├│n p├║blica."
     },
     "correcta": "C",
-    "fundamento": "Referencia bibliográfica: Artículo 46 de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 46 de la Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo."
   },
   {
     "id": 297,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "De acuerdo con la Ley N° 27444, Ley del Procedimiento Administrativo General, indique cuál es un principio del procedimiento administrativo.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "De acuerdo con la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, indique cu├íl es un principio del procedimiento administrativo.",
     "opciones": {
       "A": "Principio protector",
-      "B": "Principio del ejercicio legítimo del poder",
+      "B": "Principio del ejercicio leg├¡timo del poder",
       "C": "Principio de continuidad",
-      "D": "Principio de condición más beneficiosa"
+      "D": "Principio de condici├│n m├ís beneficiosa"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N° 004- 2019-JUS, artículo IV, numeral 1.17."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N┬░ 004- 2019-JUS, art├¡culo IV, numeral 1.17."
   },
   {
     "id": 298,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Los _______________ tienen por finalidad asegurar el cumplimiento de políticas públicas que requieren la participación de todas o varias entidades del Estado.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Los _______________ tienen por finalidad asegurar el cumplimiento de pol├¡ticas p├║blicas que requieren la participaci├│n de todas o varias entidades del Estado.",
     "opciones": {
-      "A": "sistemas funcionales",
-      "B": "sistemas administrativos",
-      "C": "sistemas gubernamentales",
-      "D": "sistemas económicos"
+      "A": "Sistemas funcionales",
+      "B": "Sistemas administrativos",
+      "C": "Sistemas gubernamentales",
+      "D": "Sistemas econ├│micos"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Artículo 45 de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo"
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 45 de la Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo"
   },
   {
     "id": 299,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Sobre la base de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo, indique los tipos de sistemas que se mencionan en ella.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Sobre la base de la Ley N┬░ 29158, Ley Org├ínica del Poder Ejecutivo, indique los tipos de sistemas que se mencionan en ella.",
     "opciones": {
       "A": "Dos tipos de sistemas: administrativos y organizacionales",
       "B": "Dos tipos de sistemas: funcionales y organizacionales",
@@ -3884,25 +3884,25 @@ const BANCO_PREGUNTAS = [
       "D": "Dos tipos de sistemas: funcionales y administrativos"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Artículo 43 de la Ley N° 29158."
+    "fundamento": "Referencia bibliogr├ífica: Art├¡culo 43 de la Ley N┬░ 29158."
   },
   {
     "id": 300,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "La Política Nacional del Ambiente al 2030, aprobada mediante Decreto Supremo No 023-2021 MINAM, establece que existen cuatro (4) grupos de servicios ecosistémicos, ¿cuál de los siguientes NO es uno de ellos?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "La Pol├¡tica Nacional del Ambiente al 2030, aprobada mediante Decreto Supremo No 023-2021 MINAM, establece que existen cuatro (4) grupos de servicios ecosist├®micos, ┬┐cu├íl de los siguientes NO es uno de ellos?",
     "opciones": {
-      "A": "Los servicios climáticos",
+      "A": "Los servicios clim├íticos",
       "B": "Los servicios de suministro",
       "C": "Los servicios culturales",
-      "D": "Los servicios de regulación"
+      "D": "Los servicios de regulaci├│n"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Decreto Supremos N° 023-2021 MINAM"
+    "fundamento": "Referencia bibliogr├ífica: Decreto Supremos N┬░ 023-2021 MINAM"
   },
   {
     "id": 301,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Indique la Ley del Sistema Nacional de Evaluación de Impacto Ambiental.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Indique la Ley del Sistema Nacional de Evaluaci├│n de Impacto Ambiental.",
     "opciones": {
       "A": "Ley No 28611",
       "B": "Ley No 27446",
@@ -3910,142 +3910,142 @@ const BANCO_PREGUNTAS = [
       "D": "Ley No 27314"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Decreto Supremo Nº 019-2009-MINAM. Reglamento de la Ley Nº 27446, Ley del Sistema Nacional de Evaluación de Impacto Ambiental"
+    "fundamento": "Referencia bibliogr├ífica: Decreto Supremo N┬║ 019-2009-MINAM. Reglamento de la Ley N┬║ 27446, Ley del Sistema Nacional de Evaluaci├│n de Impacto Ambiental"
   },
   {
     "id": 302,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "De acuerdo con la Ley del Procedimiento Administrativo General (Texto Único Ordenado de la Ley Nº 27444), señale uno de sus principios.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "De acuerdo con la Ley del Procedimiento Administrativo General (Texto ├Ünico Ordenado de la Ley N┬║ 27444), se├▒ale uno de sus principios.",
     "opciones": {
       "A": "Principio de continuidad de procesos",
       "B": "Principio del debido procedimiento",
       "C": "Principio de protector al ciudadano",
-      "D": "Principio de calidad en la atención"
+      "D": "Principio de calidad en la atenci├│n"
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento administrativo General, aprobado por Decreto Supremo N° 004- 2019-JUS, Título Preliminar, artículo IV, inciso 1.12."
+    "fundamento": "Referencia bibliogr├ífica: Texto ├Ünico Ordenado de la Ley N┬░ 27444, Ley del Procedimiento administrativo General, aprobado por Decreto Supremo N┬░ 004- 2019-JUS, T├¡tulo Preliminar, art├¡culo IV, inciso 1.12."
   },
   {
     "id": 303,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "En relación con las instituciones del Poder Ejecutivo, indique el sector que es responsable de la administración de los institutos penitenciarios.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "En relaci├│n con las instituciones del Poder Ejecutivo, indique el sector que es responsable de la administraci├│n de los institutos penitenciarios.",
     "opciones": {
       "A": "Corte Suprema de Justicia",
       "B": "Ministerio de Justicia y Derechos Humanos",
-      "C": "Ministerio Público",
+      "C": "Ministerio P├║blico",
       "D": "Ministerio del Interior"
     },
     "correcta": "B",
-    "fundamento": "Solución: El Ministerio de Justicia y Derechos Humanos es el sector del Poder Ejecutivo que tiene bajo su responsabilidad las instituciones penitenciarias. Esta responsabilidad la ejerce por medio del Instituto Nacional Penitenciario como su organismo ejecutor."
+    "fundamento": "Soluci├│n: El Ministerio de Justicia y Derechos Humanos es el sector del Poder Ejecutivo que tiene bajo su responsabilidad las instituciones penitenciarias. Esta responsabilidad la ejerce por medio del Instituto Nacional Penitenciario como su organismo ejecutor."
   },
   {
     "id": 304,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "En el nivel descentralizado, el Sistema Nacional de Presupuesto Público está integrado por",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "En el nivel descentralizado, el Sistema Nacional de Presupuesto P├║blico est├í integrado por",
     "opciones": {
-      "A": "la entidad pública, el titular del pliego presupuestal, la oficina de presupuesto de la entidad, la unidad ejecutora y los responsables de programas.",
-      "B": "la entidad pública, el titular de la entidad, la oficina de presupuesto de la entidad, la unidad ejecutora y los responsables de programas presupuestales.",
-      "C": "la institución pública, el titular de la cartera, la oficina de presupuesto de la entidad, la unidad ejecutora y los responsables de programas presupuestales.",
-      "D": "la entidad pública, el titular de la cartera, la unidad de presupuesto de la entidad, la unidad ejecutora y los responsables de programas presupuestales."
+      "A": "La entidad p├║blica, el titular del pliego presupuestal, la oficina de presupuesto de la entidad, la unidad ejecutora y los responsables de programas.",
+      "B": "La entidad p├║blica, el titular de la entidad, la oficina de presupuesto de la entidad, la unidad ejecutora y los responsables de programas presupuestales.",
+      "C": "La instituci├│n p├║blica, el titular de la cartera, la oficina de presupuesto de la entidad, la unidad ejecutora y los responsables de programas presupuestales.",
+      "D": "La entidad p├║blica, el titular de la cartera, la unidad de presupuesto de la entidad, la unidad ejecutora y los responsables de programas presupuestales."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo Nº 1440, Decreto Legislativo del Sistema Nacional de Presupuesto Público, artículo 4, numeral 4.2. inciso 2."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo N┬║ 1440, Decreto Legislativo del Sistema Nacional de Presupuesto P├║blico, art├¡culo 4, numeral 4.2. inciso 2."
   },
   {
     "id": 305,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "Las etapas de ejecución del gasto público son",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "Las etapas de ejecuci├│n del gasto p├║blico son",
     "opciones": {
-      "A": "certificación, compromiso, devengado y pago.",
-      "B": "calendario, compromiso y pago.",
-      "C": "calendario, devengado y pago.",
-      "D": "calendario, compromiso, devengado y pago."
+      "A": "Certificaci├│n, compromiso, devengado y pago.",
+      "B": "Calendario, compromiso y pago.",
+      "C": "Calendario, devengado y pago.",
+      "D": "Calendario, compromiso, devengado y pago."
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo N° 1440 publicado el 16 de setiembre de 2018, Decreto Legislativo del Sistema Nacional de Presupuesto Público, art. 40."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo N┬░ 1440 publicado el 16 de setiembre de 2018, Decreto Legislativo del Sistema Nacional de Presupuesto P├║blico, art. 40."
   },
   {
     "id": 306,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "______________________ es el conjunto de principios, procesos, normas, procedimientos, técnicas e instrumentos mediante los cuales se ejecuta la gestión de pasivos financieros, sus riesgos financieros, y parte de la estructuración del financiamiento del Sector Público.",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "______________________ es el conjunto de principios, procesos, normas, procedimientos, t├®cnicas e instrumentos mediante los cuales se ejecuta la gesti├│n de pasivos financieros, sus riesgos financieros, y parte de la estructuraci├│n del financiamiento del Sector P├║blico.",
     "opciones": {
-      "A": "El Sistema Nacional de Presupuesto Público",
-      "B": "El Sistema Nacional de Planeamiento Estratégico",
-      "C": "El Sistema Nacional de Tesorería",
-      "D": "El Sistema Nacional de Endeudamiento Público"
+      "A": "El Sistema Nacional de Presupuesto P├║blico",
+      "B": "El Sistema Nacional de Planeamiento Estrat├®gico",
+      "C": "El Sistema Nacional de Tesorer├¡a",
+      "D": "El Sistema Nacional de Endeudamiento P├║blico"
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Decreto Legislativo N° 1437 Decreto Legislativo del Sistema Nacional de Endeudamiento Público, art. 4."
+    "fundamento": "Referencia bibliogr├ífica: Decreto Legislativo N┬░ 1437 Decreto Legislativo del Sistema Nacional de Endeudamiento P├║blico, art. 4."
   },
   {
     "id": 307,
-    "tema": "Tema 7: Gestión Pública, Sistemas Administrativos del Estado e Invierte.pe",
-    "pregunta": "¿Cuál de las siguientes alternativas NO es un principio rector del presupuesto participativo de los gobiernos regionales y locales?",
+    "tema": "Tema 7: Gesti├│n P├║blica, Sistemas Administrativos del Estado e Invierte.pe",
+    "pregunta": "┬┐Cu├íl de las siguientes alternativas NO es un principio rector del presupuesto participativo de los gobiernos regionales y locales?",
     "opciones": {
-      "A": "Provisión presupuestaria",
+      "A": "Provisi├│n presupuestaria",
       "B": "Igualdad",
       "C": "Tolerancia",
       "D": "Competitividad"
     },
     "correcta": "A",
-    "fundamento": "Referencia bibliográfica: Ley N° 28056. Ley Marco del proceso presupuestario participativo. Principios rectores. Artículo 4."
+    "fundamento": "Referencia bibliogr├ífica: Ley N┬░ 28056. Ley Marco del proceso presupuestario participativo. Principios rectores. Art├¡culo 4."
   },
   {
     "id": 308,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "En los últimos años, Venezuela presenta serios problemas económicos; uno de ellos es su inestabilidad financiera. Si en el Perú ocurriese algo similar, la institución responsable de mantener su equilibrio sería",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "En los ├║ltimos a├▒os, Venezuela presenta serios problemas econ├│micos; uno de ellos es su inestabilidad financiera. Si en el Per├║ ocurriese algo similar, la instituci├│n responsable de mantener su equilibrio ser├¡a",
     "opciones": {
-      "A": "la Superintendencia de Banca y Seguros.",
-      "B": "el Banco Central de Reserva.",
-      "C": "el Ministerio de Economía.",
-      "D": "el Congreso de la República. Solución: El Banco Central de Reserva del Perú (BCRP) tiene como responsabilidad básica mantener la estabilidad del sistema financiero a través de una adecuada política monetaria. El BCRP debe desarrollar medidas que logren controlar la inflación y eviten situaciones de pánico financiero. Presente en: APP_Esp_Sr3_General.pdf"
+      "A": "La Superintendencia de Banca y Seguros.",
+      "B": "El Banco Central de Reserva.",
+      "C": "El Ministerio de Econom├¡a.",
+      "D": "El Congreso de la Rep├║blica. Soluci├│n: El Banco Central de Reserva del Per├║ (BCRP) tiene como responsabilidad b├ísica mantener la estabilidad del sistema financiero a trav├®s de una adecuada pol├¡tica monetaria. El BCRP debe desarrollar medidas que logren controlar la inflaci├│n y eviten situaciones de p├ínico financiero. Presente en: APP_Esp_Sr3_General.pdf"
     },
     "correcta": "B",
     "fundamento": ""
   },
   {
     "id": 309,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "Por cada tipo de presunta responsabilidad identificada, los argumentos jurídicos se desarrollan en apéndices que forman parte integrante del informe de auditoría y se incluyen en la documentación de auditoría. Para el señalamiento de presunta responsabilidad penal, se requiere establecer",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "Por cada tipo de presunta responsabilidad identificada, los argumentos jur├¡dicos se desarrollan en ap├®ndices que forman parte integrante del informe de auditor├¡a y se incluyen en la documentaci├│n de auditor├¡a. Para el se├▒alamiento de presunta responsabilidad penal, se requiere establecer",
     "opciones": {
-      "A": "el comportamiento que transgrede los deberes del servidor o funcionario y su relación causal con los elementos objetivos del delito.",
-      "B": "que el daño económico ha sido ocasionado por el incumplimiento de las funciones del servidor y la tipificación del delito.",
-      "C": "el comportamiento que transgrede los deberes del servidor o funcionario y la tipificación del delito.",
-      "D": "el comportamiento que transgrede los deberes del servidor o funcionario y su relación causal con los elementos objetivos y subjetivos que conforman la tipificación del delito."
+      "A": "El comportamiento que transgrede los deberes del servidor o funcionario y su relaci├│n causal con los elementos objetivos del delito.",
+      "B": "Que el da├▒o econ├│mico ha sido ocasionado por el incumplimiento de las funciones del servidor y la tipificaci├│n del delito.",
+      "C": "El comportamiento que transgrede los deberes del servidor o funcionario y la tipificaci├│n del delito.",
+      "D": "El comportamiento que transgrede los deberes del servidor o funcionario y su relaci├│n causal con los elementos objetivos y subjetivos que conforman la tipificaci├│n del delito."
     },
     "correcta": "D",
-    "fundamento": "Referencia bibliográfica: Directiva No 001-2022-CG/NORM, numeral 7.1.3.1."
+    "fundamento": "Referencia bibliogr├ífica: Directiva No 001-2022-CG/NORM, numeral 7.1.3.1."
   },
   {
     "id": 310,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "Durante el periodo 1985-1990, el Gobierno otorgó a los agricultores de algunas regiones del país recursos del erario nacional con interés cero, en la mayoría de los casos. Luego de identificarlos como grupo social de extrema pobreza, el objetivo económico del Gobierno fue apoyar al trabajador del campo para la compra de semillas, fertilizantes y herramientas de uso agrícola. Así pues, al ser parte de la política económica, la entrega de dinero al pequeño agricultor es una forma de",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "Durante el periodo 1985-1990, el Gobierno otorg├│ a los agricultores de algunas regiones del pa├¡s recursos del erario nacional con inter├®s cero, en la mayor├¡a de los casos. Luego de identificarlos como grupo social de extrema pobreza, el objetivo econ├│mico del Gobierno fue apoyar al trabajador del campo para la compra de semillas, fertilizantes y herramientas de uso agr├¡cola. As├¡ pues, al ser parte de la pol├¡tica econ├│mica, la entrega de dinero al peque├▒o agricultor es una forma de",
     "opciones": {
-      "A": "arancel.",
-      "B": "crédito.",
-      "C": "préstamo.",
-      "D": "subsidio. Solución: El subsidio, en general, es la transferencia de recursos del erario o tesoro público hacia las empresas o consumidores. Presente en: OXI_Esp_Sr1.pdf"
+      "A": "Arancel.",
+      "B": "Cr├®dito.",
+      "C": "Pr├®stamo.",
+      "D": "Subsidio. Soluci├│n: El subsidio, en general, es la transferencia de recursos del erario o tesoro p├║blico hacia las empresas o consumidores. Presente en: OXI_Esp_Sr1.pdf"
     },
     "correcta": "D",
     "fundamento": ""
   },
   {
     "id": 311,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "Todas las etapas del proyecto, construcción e inspección de la obra deberán ser realizadas por personal",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "Todas las etapas del proyecto, construcci├│n e inspecci├│n de la obra deber├ín ser realizadas por personal",
     "opciones": {
-      "A": "profesional calificado en áreas específicas.",
-      "B": "profesional y técnico calificado en cada una de las especialidades correspondientes.",
-      "C": "técnico calificado en proyectos especiales.",
-      "D": "supervisor en las áreas generales."
+      "A": "Profesional calificado en ├íreas espec├¡ficas.",
+      "B": "Profesional y t├®cnico calificado en cada una de las especialidades correspondientes.",
+      "C": "T├®cnico calificado en proyectos especiales.",
+      "D": "Supervisor en las ├íreas generales."
     },
     "correcta": "B",
-    "fundamento": "Referencia bibliográfica: Título II del Reglamento nacional de edificaciones"
+    "fundamento": "Referencia bibliogr├ífica: T├¡tulo II del Reglamento nacional de edificaciones"
   },
   {
     "id": 312,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "Respecto del Tribunal Constitucional, determine el valor de verdad (V o F) de los siguientes enunciados: I. No depende de ningún órgano constitucional. II. Se rige por la constitución y por la ley orgánica del TC. III. Tiene facultades legislativas negativas",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "Respecto del Tribunal Constitucional, determine el valor de verdad (V o F) de los siguientes enunciados: I. No depende de ning├║n ├│rgano constitucional. II. Se rige por la constituci├│n y por la ley org├ínica del TC. III. Tiene facultades legislativas negativas",
     "opciones": {
       "A": "FVV",
       "B": "VVF",
@@ -4053,38 +4053,38 @@ const BANCO_PREGUNTAS = [
       "D": "VVV"
     },
     "correcta": "D",
-    "fundamento": "Referencia: Constitución Política del Perú; Ley Orgánica del Tribunal Constitucional."
+    "fundamento": "Referencia: Constituci├│n Pol├¡tica del Per├║; Ley Org├ínica del Tribunal Constitucional."
   },
   {
     "id": 313,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "En diversos momentos de la vida política del país, se ha solicitado la pena de muerte para aquellos delitos considerados execrables; sin embargo, NO ha sido posible incorporar esta pena en la legislación peruana debido a que nuestra nación",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "En diversos momentos de la vida pol├¡tica del pa├¡s, se ha solicitado la pena de muerte para aquellos delitos considerados execrables; sin embargo, NO ha sido posible incorporar esta pena en la legislaci├│n peruana debido a que nuestra naci├│n",
     "opciones": {
-      "A": "nunca ha podido solicitar formalmente integrar el Pacto de San José.",
-      "B": "solo puede modificar su constitución a través de un plebiscito previo.",
-      "C": "forma parte de la Convención Americana sobre Derechos Humanos.",
-      "D": "está impedida, dados los distintos acuerdos que establece la ONU."
+      "A": "Nunca ha podido solicitar formalmente integrar el Pacto de San Jos├®.",
+      "B": "Solo puede modificar su constituci├│n a trav├®s de un plebiscito previo.",
+      "C": "Forma parte de la Convenci├│n Americana sobre Derechos Humanos.",
+      "D": "Est├í impedida, dados los distintos acuerdos que establece la ONU."
     },
     "correcta": "C",
-    "fundamento": "Solución: El país no puede aplicar la pena de muerte en su legislación si antes no renuncia a la Convención Americana sobre Derechos Humanos."
+    "fundamento": "Soluci├│n: El pa├¡s no puede aplicar la pena de muerte en su legislaci├│n si antes no renuncia a la Convenci├│n Americana sobre Derechos Humanos."
   },
   {
     "id": 314,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "El fenómeno de El Niño es un evento climático que se ha producido cíclicamente en el territorio peruano durante centenares de años. Uno de sus efectos más evidentes es el aumento de las precipitaciones pluviales en la costa norte, que genera el desborde de los ríos e inundaciones, como sucedió en el año 2017. El origen de este fenómeno ha sido atribuido",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "El fen├│meno de El Ni├▒o es un evento clim├ítico que se ha producido c├¡clicamente en el territorio peruano durante centenares de a├▒os. Uno de sus efectos m├ís evidentes es el aumento de las precipitaciones pluviales en la costa norte, que genera el desborde de los r├¡os e inundaciones, como sucedi├│ en el a├▒o 2017. El origen de este fen├│meno ha sido atribuido",
     "opciones": {
-      "A": "a una disminución temporal del fenómeno de afloramiento en el Pacífico subtropical.",
-      "B": "al aumento de la temperatura de las aguas superficiales de la corriente de Humboldt.",
-      "C": "al desplazamiento temporal de la corriente del Humboldt, motivado por la de El Niño.",
-      "D": "al aumento de la temperatura de las aguas superficiales de la corriente de El Niño. NO TIENE Referencia bibliográfica Presente en: INFRA_Esp_2_Obras.pdf"
+      "A": "A una disminuci├│n temporal del fen├│meno de afloramiento en el Pac├¡fico subtropical.",
+      "B": "Al aumento de la temperatura de las aguas superficiales de la corriente de Humboldt.",
+      "C": "Al desplazamiento temporal de la corriente del Humboldt, motivado por la de El Ni├▒o.",
+      "D": "Al aumento de la temperatura de las aguas superficiales de la corriente de El Ni├▒o. NO TIENE Referencia bibliogr├ífica Presente en: INFRA_Esp_2_Obras.pdf"
     },
     "correcta": "D",
     "fundamento": ""
   },
   {
     "id": 315,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "Señale la alternativa que sintetiza los rasgos más importantes de los resultados de las elecciones congresales de enero de 2020. I. Más del 50 % de los votos válidos se concentró exclusivamente en dos organizaciones políticas. II. Los ciudadanos no ratificaron su confianza en los principales partidos de oposición del anterior Congreso. III. Los partidos que mostraron en sus campañas una filiación ideológica de izquierda fueron mayormente elegidos.",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "Se├▒ale la alternativa que sintetiza los rasgos m├ís importantes de los resultados de las elecciones congresales de enero de 2020. I. M├ís del 50 % de los votos v├ílidos se concentr├│ exclusivamente en dos organizaciones pol├¡ticas. II. Los ciudadanos no ratificaron su confianza en los principales partidos de oposici├│n del anterior Congreso. III. Los partidos que mostraron en sus campa├▒as una filiaci├│n ideol├│gica de izquierda fueron mayormente elegidos.",
     "opciones": {
       "A": "Solo I y II",
       "B": "I, II y III",
@@ -4092,19 +4092,19 @@ const BANCO_PREGUNTAS = [
       "D": "Solo I y III"
     },
     "correcta": "C",
-    "fundamento": "Solución: Las organizaciones de visible oposición al Gobierno en el Congreso anterior lograron resultados muy inferiores a los obtenidos en 2016. Fuerza Popular alcanzó ese año el 36,34 % de votos válidos, cifra que se redujo a 7,31 % en 2020. El Partido Aprista Peruano logró, en alianza con el PPC, 8,31 % en 2016 y 2,72 en las últimas elecciones."
+    "fundamento": "Soluci├│n: Las organizaciones de visible oposici├│n al Gobierno en el Congreso anterior lograron resultados muy inferiores a los obtenidos en 2016. Fuerza Popular alcanz├│ ese a├▒o el 36,34 % de votos v├ílidos, cifra que se redujo a 7,31 % en 2020. El Partido Aprista Peruano logr├│, en alianza con el PPC, 8,31 % en 2016 y 2,72 en las ├║ltimas elecciones."
   },
   {
     "id": 316,
-    "tema": "Tema 8: Constitución Política, Economía y Cultura General",
-    "pregunta": "El principio de __________ se puede aplicar a todas las personas y no solo a una parte de ellas, de modo tal que no afecte a personas o bienes determinados, para evitar que el tributo se convierta en persecutorio o en una discriminación.",
+    "tema": "Tema 8: Constituci├│n Pol├¡tica, Econom├¡a y Cultura General",
+    "pregunta": "El principio de __________ se puede aplicar a todas las personas y no solo a una parte de ellas, de modo tal que no afecte a personas o bienes determinados, para evitar que el tributo se convierta en persecutorio o en una discriminaci├│n.",
     "opciones": {
-      "A": "igualdad",
-      "B": "legalidad",
-      "C": "generalidad",
-      "D": "no confiscatoriedad"
+      "A": "Igualdad",
+      "B": "Legalidad",
+      "C": "Generalidad",
+      "D": "No confiscatoriedad"
     },
     "correcta": "C",
-    "fundamento": "Solución: Mendoza (2014), Neumark (1974)"
+    "fundamento": "Soluci├│n: Mendoza (2014), Neumark (1974)"
   }
 ];
