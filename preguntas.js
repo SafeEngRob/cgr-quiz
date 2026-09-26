@@ -1034,10 +1034,10 @@ const BANCO_PREGUNTAS = [
       "A": "Planificación",
       "B": "Ejecución",
       "C": "Elaboración de informe",
-      "D": "Control Directiva No 013-2022-CG/NORM, Servicio de Control Simultaneo, numeral 6.1.4. Presente en: INFRA_Esp_3_ContratObras.pdf"
+      "D": "Control"
     },
     "correcta": "B",
-    "fundamento": ""
+    "fundamento": "Directiva No 013-2022-CG/NORM, Servicio de Control Simultaneo, numeral 6.1.4. Presente en: INFRA_Esp_3_ContratObras.pdf"
   },
   {
     "id": 81,
@@ -2607,10 +2607,10 @@ const BANCO_PREGUNTAS = [
       "A": "Es un organismo perteneciente al Poder Ejecutivo.",
       "B": "Es una dependencia del Poder Legislativo.",
       "C": "Es un organismo que solo supervisa a gobiernos regionales.",
-      "D": "Es un organismo constitucional autónomo. Solución: La serie establece una relación autor y lugar de nacimiento. La alternativa que completa de manera correcta es Arguedas: Andahuaylas. Presente en: OXI_Esp_Sr2.pdf"
+      "D": "Es un organismo constitucional autónomo."
     },
     "correcta": "D",
-    "fundamento": ""
+    "fundamento": "Solución: La serie establece una relación autor y lugar de nacimiento. La alternativa que completa de manera correcta es Arguedas: Andahuaylas. Presente en: OXI_Esp_Sr2.pdf"
   },
   {
     "id": 202,
@@ -3020,10 +3020,10 @@ const BANCO_PREGUNTAS = [
     "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "¿Cuál es el porcentaje máximo de contenido de humedad que puede tener la madera aserrada para ser instalada?",
     "opciones": {
-      "A": "25 %",
-      "B": "20 %",
-      "C": "22 %",
-      "D": "12 %"
+      "A": "25%",
+      "B": "20%",
+      "C": "22%",
+      "D": "12%"
     },
     "correcta": "C",
     "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA E.010 Madera, Capitulo ll, artículo 2: La madera, 2.1 Consideraciones, 2.1.2"
@@ -3033,10 +3033,10 @@ const BANCO_PREGUNTAS = [
     "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "El caudal de contribución al alcantarillado debe ser calculado con un coeficiente de retorno (C) del ________ del caudal de agua potable consumida.",
     "opciones": {
-      "A": "60 %",
-      "B": "75 %",
-      "C": "80 %",
-      "D": "90 %"
+      "A": "60%",
+      "B": "75%",
+      "C": "80%",
+      "D": "90%"
     },
     "correcta": "C",
     "fundamento": "Referencia bibliográfica: Reglamento Nacional de Edificaciones, NORMA OS.070 Redes de agua residuales, 4 Disposiciones específicas para diseños, 4.4 caudal de contribución al alcantarillado."
@@ -3085,10 +3085,10 @@ const BANCO_PREGUNTAS = [
     "tema": "Tema 6: Ingeniería Civil, RNE, Saneamiento y Seguridad en Edificaciones",
     "pregunta": "¿Cuál es el porcentaje máximo de adición de otros productos en el cemento Portland que NO excedan el peso total?",
     "opciones": {
-      "A": "1 %",
-      "B": "5 %",
-      "C": "2 %",
-      "D": "3 %"
+      "A": "1%",
+      "B": "5%",
+      "C": "2%",
+      "D": "3%"
     },
     "correcta": "A",
     "fundamento": "Referencia bibliográfica: Reglamento nacional de edificaciones, Norma E.060 Concreto Armado, Artículo 2, Definiciones, Cemento Portland."
@@ -3998,10 +3998,10 @@ const BANCO_PREGUNTAS = [
       "A": "La Superintendencia de Banca y Seguros.",
       "B": "El Banco Central de Reserva.",
       "C": "El Ministerio de Economía.",
-      "D": "El Congreso de la República. Solución: El Banco Central de Reserva del Perú (BCRP) tiene como responsabilidad básica mantener la estabilidad del sistema financiero a través de una adecuada política monetaria. El BCRP debe desarrollar medidas que logren controlar la inflación y eviten situaciones de pánico financiero. Presente en: APP_Esp_Sr3_General.pdf"
+      "D": "El Congreso de la República."
     },
     "correcta": "B",
-    "fundamento": ""
+    "fundamento": "Solución: El Banco Central de Reserva del Perú (BCRP) tiene como responsabilidad básica mantener la estabilidad del sistema financiero a través de una adecuada política monetaria. El BCRP debe desarrollar medidas que logren controlar la inflación y eviten situaciones de pánico financiero. Presente en: APP_Esp_Sr3_General.pdf"
   },
   {
     "id": 309,
@@ -4024,10 +4024,10 @@ const BANCO_PREGUNTAS = [
       "A": "Arancel.",
       "B": "Crédito.",
       "C": "Préstamo.",
-      "D": "Subsidio. Solución: El subsidio, en general, es la transferencia de recursos del erario o tesoro público hacia las empresas o consumidores. Presente en: OXI_Esp_Sr1.pdf"
+      "D": "Subsidio."
     },
     "correcta": "D",
-    "fundamento": ""
+    "fundamento": "Solución: El subsidio, en general, es la transferencia de recursos del erario o tesoro público hacia las empresas o consumidores. Presente en: OXI_Esp_Sr1.pdf"
   },
   {
     "id": 311,
@@ -4076,10 +4076,10 @@ const BANCO_PREGUNTAS = [
       "A": "A una disminución temporal del fenómeno de afloramiento en el Pacífico subtropical.",
       "B": "Al aumento de la temperatura de las aguas superficiales de la corriente de Humboldt.",
       "C": "Al desplazamiento temporal de la corriente del Humboldt, motivado por la de El Niño.",
-      "D": "Al aumento de la temperatura de las aguas superficiales de la corriente de El Niño. NO TIENE Referencia bibliográfica Presente en: INFRA_Esp_2_Obras.pdf"
+      "D": "Al aumento de la temperatura de las aguas superficiales de la corriente de El Niño."
     },
     "correcta": "D",
-    "fundamento": ""
+    "fundamento": "NO TIENE Referencia bibliográfica Presente en: INFRA_Esp_2_Obras.pdf"
   },
   {
     "id": 315,
